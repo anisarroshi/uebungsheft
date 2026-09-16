@@ -1,0 +1,1471 @@
+{
+  "id": "a1-2-s13",
+  "level": "A1.2",
+  "number": 13,
+  "title": "Asking for directions",
+  "createdAt": "2026-09-16",
+  "content": {
+    "topics": [
+      "asking for directions",
+      "places in town",
+      "in the car"
+    ],
+    "vocabulary": [
+      {
+        "de": "die Stadtmitte / das Zentrum",
+        "en": "city centre"
+      },
+      {
+        "de": "der Bahnhof, -¨e",
+        "en": "station"
+      },
+      {
+        "de": "der Dom, -e",
+        "en": "cathedral"
+      },
+      {
+        "de": "die Bank, -en",
+        "en": "bank"
+      },
+      {
+        "de": "das Restaurant, -s",
+        "en": "restaurant"
+      },
+      {
+        "de": "die Post",
+        "en": "post office"
+      },
+      {
+        "de": "die Polizei",
+        "en": "police, police station"
+      },
+      {
+        "de": "die Ampel, -n",
+        "en": "traffic lights"
+      },
+      {
+        "de": "die Brücke, -n",
+        "en": "bridge"
+      },
+      {
+        "de": "das Café, -s",
+        "en": "café"
+      },
+      {
+        "de": "die Kirche, -n",
+        "en": "church"
+      },
+      {
+        "de": "der Stadtplan, -¨e",
+        "en": "city map"
+      },
+      {
+        "de": "der Navigator / das Navi",
+        "en": "navigation system"
+      },
+      {
+        "de": "die Straße, -n",
+        "en": "street"
+      },
+      {
+        "de": "die nächste / erste / zweite / dritte Straße",
+        "en": "the next / first / second / third street"
+      },
+      {
+        "de": "der Weg, -e",
+        "en": "way"
+      },
+      {
+        "de": "der Meter, -",
+        "en": "metre"
+      },
+      {
+        "de": "der Kilometer, -",
+        "en": "kilometre"
+      },
+      {
+        "de": "geradeaus",
+        "en": "straight on"
+      },
+      {
+        "de": "rechts / links",
+        "en": "right / left"
+      },
+      {
+        "de": "abbiegen",
+        "en": "to turn (off)"
+      },
+      {
+        "de": "wenden",
+        "en": "to turn around"
+      },
+      {
+        "de": "zurückfahren",
+        "en": "to drive back"
+      },
+      {
+        "de": "weiterfahren",
+        "en": "to drive on"
+      },
+      {
+        "de": "vorbeifahren (an)",
+        "en": "to drive past"
+      },
+      {
+        "de": "helfen (hilft)",
+        "en": "to help"
+      },
+      {
+        "de": "suchen",
+        "en": "to look for"
+      },
+      {
+        "de": "kennen",
+        "en": "to know (a person, place)"
+      },
+      {
+        "de": "stimmen",
+        "en": "to be right"
+      },
+      {
+        "de": "fremd",
+        "en": "foreign, a stranger"
+      },
+      {
+        "de": "in der Nähe (von)",
+        "en": "near"
+      },
+      {
+        "de": "an",
+        "en": "at, on (vertical)"
+      },
+      {
+        "de": "auf",
+        "en": "on (top of)"
+      },
+      {
+        "de": "hinter",
+        "en": "behind"
+      },
+      {
+        "de": "in",
+        "en": "in"
+      },
+      {
+        "de": "neben",
+        "en": "next to"
+      },
+      {
+        "de": "über",
+        "en": "above, over"
+      },
+      {
+        "de": "unter",
+        "en": "under"
+      },
+      {
+        "de": "vor",
+        "en": "in front of"
+      },
+      {
+        "de": "zwischen",
+        "en": "between"
+      },
+      {
+        "de": "der Würfel, -",
+        "en": "cube"
+      },
+      {
+        "de": "der Stab, -¨e",
+        "en": "stick"
+      },
+      {
+        "de": "die Pyramide, -n",
+        "en": "pyramid"
+      }
+    ],
+    "grammar": [
+      {
+        "name": "Local prepositions with dative (Wo?)",
+        "explanation": "an, auf, hinter, in, neben, über, unter, vor and zwischen take the dative when they answer 'Wo?': dem/einem for der and das words, der/einer for die words, den + -n for plurals.",
+        "examples": [
+          "Das Hotel ist neben dem Bahnhof.",
+          "Die Bank ist vor der Post.",
+          "An den Cafés fahren Sie vorbei."
+        ]
+      },
+      {
+        "name": "Contractions im and am",
+        "explanation": "in dem becomes im, an dem becomes am.",
+        "examples": [
+          "Wir sind im Zentrum.",
+          "Das Café ist am Bahnhof."
+        ]
+      },
+      {
+        "name": "helfen + dative",
+        "explanation": "helfen changes its vowel: ich helfe, du hilfst, er/sie hilft. The person you help is in the dative.",
+        "examples": [
+          "Können Sie mir helfen?",
+          "Er hilft der Frau."
+        ]
+      },
+      {
+        "name": "Directions with the imperative",
+        "explanation": "Formal: verb first + Sie. Informal: verb stem without -st.",
+        "examples": [
+          "Fahren Sie geradeaus.",
+          "Fahr zurück!"
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "de": "Entschuldigung, können Sie mir helfen?",
+        "en": "Excuse me, can you help me?"
+      },
+      {
+        "de": "Eine Frage bitte: ...",
+        "en": "A question, please: ..."
+      },
+      {
+        "de": "Wo finde ich ...?",
+        "en": "Where can I find ...?"
+      },
+      {
+        "de": "Sie biegen rechts/links ab.",
+        "en": "You turn right/left."
+      },
+      {
+        "de": "Und dann sehen Sie das Hotel schon.",
+        "en": "And then you'll see the hotel."
+      },
+      {
+        "de": "Tut mir leid, ich bin auch fremd hier.",
+        "en": "Sorry, I'm a stranger here too."
+      },
+      {
+        "de": "Trotzdem danke schön!",
+        "en": "Thanks anyway!"
+      },
+      {
+        "de": "Bitte, gern.",
+        "en": "You're welcome."
+      }
+    ]
+  },
+  "sentences": [
+    {
+      "en": "The hotel is next to the station.",
+      "de": "Das Hotel ist neben dem Bahnhof.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "neben + dative"
+    },
+    {
+      "en": "The café is behind the cathedral.",
+      "de": "Das Café ist hinter dem Dom.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "hinter + dative"
+    },
+    {
+      "en": "The bank is in front of the post office.",
+      "de": "Die Bank ist vor der Post.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "vor + dative"
+    },
+    {
+      "en": "The restaurant is between the bank and the post office.",
+      "de": "Das Restaurant ist zwischen der Bank und der Post.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "zwischen + dative"
+    },
+    {
+      "en": "We are in the city centre.",
+      "de": "Wir sind im Zentrum.",
+      "alt": [
+        "Wir sind in der Stadtmitte."
+      ],
+      "difficulty": "easy",
+      "focus": "in dem = im"
+    },
+    {
+      "en": "Turn right at the traffic lights. [formal]",
+      "de": "Biegen Sie an der Ampel rechts ab.",
+      "alt": [
+        "An der Ampel biegen Sie rechts ab.",
+        "Fahren Sie an der Ampel nach rechts."
+      ],
+      "difficulty": "easy",
+      "focus": "an + dative"
+    },
+    {
+      "en": "Drive straight on. [formal]",
+      "de": "Fahren Sie geradeaus.",
+      "alt": [
+        "Fahren Sie geradeaus weiter."
+      ],
+      "difficulty": "easy",
+      "focus": "directions"
+    },
+    {
+      "en": "Please turn around. [formal]",
+      "de": "Bitte wenden Sie.",
+      "alt": [
+        "Wenden Sie bitte."
+      ],
+      "difficulty": "easy",
+      "focus": "wenden"
+    },
+    {
+      "en": "Drive back! [informal]",
+      "de": "Fahr zurück!",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "imperative"
+    },
+    {
+      "en": "The police station is nearby.",
+      "de": "Die Polizei ist in der Nähe.",
+      "alt": [
+        "Die Polizei ist hier in der Nähe."
+      ],
+      "difficulty": "easy",
+      "focus": "in der Nähe"
+    },
+    {
+      "en": "Excuse me, can you help me? [formal]",
+      "de": "Entschuldigung, können Sie mir helfen?",
+      "alt": [
+        "Entschuldigen Sie, können Sie mir helfen?"
+      ],
+      "difficulty": "easy",
+      "focus": "asking for help"
+    },
+    {
+      "en": "I'm looking for the Hotel Sonne.",
+      "de": "Ich suche das Hotel Sonne.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "suchen + accusative"
+    },
+    {
+      "en": "Where is the post office?",
+      "de": "Wo ist die Post?",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "Wo?"
+    },
+    {
+      "en": "Sorry, I'm a stranger here too.",
+      "de": "Tut mir leid, ich bin auch fremd hier.",
+      "alt": [
+        "Tut mir leid, ich bin auch nicht von hier."
+      ],
+      "difficulty": "easy",
+      "focus": "not knowing the way"
+    },
+    {
+      "en": "The car is under the bridge.",
+      "de": "Das Auto ist unter der Brücke.",
+      "alt": [
+        "Das Auto steht unter der Brücke."
+      ],
+      "difficulty": "easy",
+      "focus": "unter + dative"
+    },
+    {
+      "en": "The picture hangs above the table.",
+      "de": "Das Bild hängt über dem Tisch.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "über + dative"
+    },
+    {
+      "en": "The cat is sitting on the car.",
+      "de": "Die Katze sitzt auf dem Auto.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "auf + dative"
+    },
+    {
+      "en": "The man is waiting at the traffic lights.",
+      "de": "Der Mann wartet an der Ampel.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "an der Ampel"
+    },
+    {
+      "en": "My sister lives in the city centre.",
+      "de": "Meine Schwester wohnt in der Stadtmitte.",
+      "alt": [
+        "Meine Schwester wohnt im Zentrum."
+      ],
+      "difficulty": "easy",
+      "focus": "in + dative"
+    },
+    {
+      "en": "Can you help me? [informal]",
+      "de": "Kannst du mir helfen?",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "helfen"
+    },
+    {
+      "en": "He helps the woman.",
+      "de": "Er hilft der Frau.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "helfen + dative"
+    },
+    {
+      "en": "Take the second street on the left. [formal]",
+      "de": "Fahren Sie die zweite Straße links.",
+      "alt": [
+        "Nehmen Sie die zweite Straße links."
+      ],
+      "difficulty": "easy",
+      "focus": "die zweite Straße"
+    },
+    {
+      "en": "Drive two kilometres straight on. [formal]",
+      "de": "Fahren Sie zwei Kilometer geradeaus.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "Kilometer"
+    },
+    {
+      "en": "After 600 metres, please turn left.",
+      "de": "Nach 600 Metern bitte links abbiegen.",
+      "alt": [
+        "Nach sechshundert Metern bitte links abbiegen.",
+        "Nach 600 Metern links abbiegen."
+      ],
+      "difficulty": "easy",
+      "focus": "navigation system"
+    },
+    {
+      "en": "Is the hotel near the cathedral?",
+      "de": "Ist das Hotel in der Nähe vom Dom?",
+      "alt": [
+        "Ist das Hotel in der Nähe von dem Dom?",
+        "Ist das Hotel beim Dom?"
+      ],
+      "difficulty": "easy",
+      "focus": "in der Nähe von"
+    },
+    {
+      "en": "The map is wrong.",
+      "de": "Der Stadtplan stimmt nicht.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "Stadtplan"
+    },
+    {
+      "en": "The children are playing in the park.",
+      "de": "Die Kinder spielen im Park.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "im"
+    },
+    {
+      "en": "Then you'll see the hotel. [formal]",
+      "de": "Dann sehen Sie das Hotel schon.",
+      "alt": [
+        "Und dann sehen Sie das Hotel schon.",
+        "Dann sehen Sie schon das Hotel."
+      ],
+      "difficulty": "easy",
+      "focus": "describing the way"
+    },
+    {
+      "en": "Thank you very much! That's very kind!",
+      "de": "Vielen Dank! Sehr nett!",
+      "alt": [
+        "Sehr nett! Vielen Dank!"
+      ],
+      "difficulty": "easy",
+      "focus": "saying thank you"
+    },
+    {
+      "en": "Thanks anyway!",
+      "de": "Trotzdem danke schön!",
+      "alt": [
+        "Trotzdem danke!",
+        "Trotzdem vielen Dank!"
+      ],
+      "difficulty": "easy",
+      "focus": "saying thank you"
+    },
+    {
+      "en": "We're driving past the cafés.",
+      "de": "Wir fahren an den Cafés vorbei.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "dative plural"
+    },
+    {
+      "en": "The bank is next to the houses.",
+      "de": "Die Bank ist neben den Häusern.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "dative plural -n"
+    },
+    {
+      "en": "The key is on the table.",
+      "de": "Der Schlüssel liegt auf dem Tisch.",
+      "alt": [
+        "Der Schlüssel ist auf dem Tisch."
+      ],
+      "difficulty": "easy",
+      "focus": "auf + dative"
+    },
+    {
+      "en": "Do you know the Café Luna? [formal]",
+      "de": "Kennen Sie das Café Luna?",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "asking the way"
+    },
+    {
+      "en": "The restaurant is at the station.",
+      "de": "Das Restaurant ist am Bahnhof.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "an dem = am"
+    },
+    {
+      "en": "Excuse me, can I ask you something? [formal]",
+      "de": "Entschuldigen Sie, kann ich Sie etwas fragen?",
+      "alt": [
+        "Entschuldigung, kann ich Sie etwas fragen?"
+      ],
+      "difficulty": "medium",
+      "focus": "polite questions"
+    },
+    {
+      "en": "Do you have a moment? Where is the station? [formal]",
+      "de": "Haben Sie einen Moment Zeit? Wo ist der Bahnhof?",
+      "alt": [
+        "Haben Sie kurz Zeit? Wo ist der Bahnhof?"
+      ],
+      "difficulty": "medium",
+      "focus": "asking for help"
+    },
+    {
+      "en": "Drive straight on and then turn right at the traffic lights. [formal]",
+      "de": "Fahren Sie geradeaus und biegen Sie dann an der Ampel rechts ab.",
+      "alt": [
+        "Fahren Sie geradeaus und dann an der Ampel nach rechts."
+      ],
+      "difficulty": "medium",
+      "focus": "describing the way"
+    },
+    {
+      "en": "The hotel is between the station and the cathedral.",
+      "de": "Das Hotel ist zwischen dem Bahnhof und dem Dom.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "zwischen + dative"
+    },
+    {
+      "en": "You drive under a bridge and then turn left. [formal]",
+      "de": "Sie fahren unter einer Brücke durch und biegen dann links ab.",
+      "alt": [
+        "Sie fahren unter einer Brücke durch und dann nach links."
+      ],
+      "difficulty": "medium",
+      "focus": "unter einer"
+    },
+    {
+      "en": "Turn right in front of the restaurant. [formal]",
+      "de": "Vor dem Restaurant fahren Sie nach rechts.",
+      "alt": [
+        "Fahren Sie vor dem Restaurant nach rechts.",
+        "Vor dem Restaurant biegen Sie rechts ab."
+      ],
+      "difficulty": "medium",
+      "focus": "vor + dative"
+    },
+    {
+      "en": "The post office is near the park, next to a bank.",
+      "de": "Die Post ist in der Nähe vom Park, neben einer Bank.",
+      "alt": [
+        "Die Post ist in der Nähe von dem Park, neben einer Bank."
+      ],
+      "difficulty": "medium",
+      "focus": "neben einer"
+    },
+    {
+      "en": "I'm sorry, I'm not from here. Ask the police. [formal]",
+      "de": "Tut mir leid, ich bin nicht von hier. Fragen Sie die Polizei.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "not knowing the way"
+    },
+    {
+      "en": "My mobile is in my bag under the chair.",
+      "de": "Mein Handy ist in meiner Tasche unter dem Stuhl.",
+      "alt": [
+        "Mein Handy liegt in meiner Tasche unter dem Stuhl."
+      ],
+      "difficulty": "medium",
+      "focus": "in / unter + dative"
+    },
+    {
+      "en": "Take the next street on the right, then you'll see the post office. [formal]",
+      "de": "Fahren Sie die nächste Straße rechts, dann sehen Sie die Post schon.",
+      "alt": [
+        "Nehmen Sie die nächste Straße rechts, dann sehen Sie die Post.",
+        "Fahren Sie die erste Straße rechts, dann sehen Sie die Post schon."
+      ],
+      "difficulty": "medium",
+      "focus": "die nächste Straße"
+    },
+    {
+      "en": "The woman helps us, because she knows the hotel.",
+      "de": "Die Frau hilft uns, denn sie kennt das Hotel.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "helfen + denn"
+    },
+    {
+      "en": "Our car is behind the hotel, not in front of the hotel.",
+      "de": "Unser Auto steht hinter dem Hotel, nicht vor dem Hotel.",
+      "alt": [
+        "Unser Auto ist hinter dem Hotel, nicht vor dem Hotel."
+      ],
+      "difficulty": "medium",
+      "focus": "hinter / vor"
+    },
+    {
+      "en": "Is there a bank near the station?",
+      "de": "Gibt es eine Bank in der Nähe vom Bahnhof?",
+      "alt": [
+        "Gibt es in der Nähe vom Bahnhof eine Bank?"
+      ],
+      "difficulty": "medium",
+      "focus": "in der Nähe von"
+    },
+    {
+      "en": "The navigation system says: after 200 metres turn right.",
+      "de": "Der Navigator sagt: Nach 200 Metern rechts abbiegen.",
+      "alt": [
+        "Das Navi sagt: Nach 200 Metern rechts abbiegen."
+      ],
+      "difficulty": "medium",
+      "focus": "navigation system"
+    },
+    {
+      "en": "The map is on the seat in the car.",
+      "de": "Der Stadtplan liegt auf dem Sitz im Auto.",
+      "alt": [
+        "Der Stadtplan ist auf dem Sitz im Auto."
+      ],
+      "difficulty": "medium",
+      "focus": "auf / in + dative"
+    },
+    {
+      "en": "We're looking for a café in the city centre.",
+      "de": "Wir suchen ein Café in der Stadtmitte.",
+      "alt": [
+        "Wir suchen ein Café im Zentrum."
+      ],
+      "difficulty": "medium",
+      "focus": "suchen"
+    },
+    {
+      "en": "Walk past the cafés and then go left. [formal]",
+      "de": "Gehen Sie an den Cafés vorbei und dann nach links.",
+      "alt": [
+        "Gehen Sie an den Cafés vorbei und dann links."
+      ],
+      "difficulty": "medium",
+      "focus": "vorbeigehen an"
+    },
+    {
+      "en": "The Café Luna is at the traffic lights next to the bank.",
+      "de": "Das Café Luna ist an der Ampel neben der Bank.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "an / neben"
+    },
+    {
+      "en": "Can you help me? I'm looking for the cathedral. [informal]",
+      "de": "Kannst du mir helfen? Ich suche den Dom.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "helfen / suchen"
+    },
+    {
+      "en": "Drive three kilometres straight on and then turn around. [formal]",
+      "de": "Fahren Sie drei Kilometer geradeaus und wenden Sie dann.",
+      "alt": [
+        "Fahren Sie drei Kilometer geradeaus, dann wenden Sie."
+      ],
+      "difficulty": "medium",
+      "focus": "wenden"
+    },
+    {
+      "en": "The lamp is above the table and the cat is under the table.",
+      "de": "Die Lampe ist über dem Tisch und die Katze ist unter dem Tisch.",
+      "alt": [
+        "Die Lampe hängt über dem Tisch und die Katze liegt unter dem Tisch."
+      ],
+      "difficulty": "medium",
+      "focus": "über / unter"
+    },
+    {
+      "en": "Where is the car park? Behind the police station?",
+      "de": "Wo ist der Parkplatz? Hinter der Polizei?",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "hinter + dative"
+    },
+    {
+      "en": "The pictures hang on the wall in the restaurant.",
+      "de": "Die Bilder hängen an der Wand im Restaurant.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "an / in + dative"
+    },
+    {
+      "en": "Excuse me, where can I find the station? [formal]",
+      "de": "Entschuldigung, wo finde ich den Bahnhof?",
+      "alt": [
+        "Entschuldigen Sie, wo finde ich den Bahnhof?"
+      ],
+      "difficulty": "medium",
+      "focus": "Wo finde ich ...?"
+    },
+    {
+      "en": "The hotel isn't in the centre, it's near the station.",
+      "de": "Das Hotel ist nicht im Zentrum, es ist in der Nähe vom Bahnhof.",
+      "alt": [
+        "Das Hotel ist nicht in der Stadtmitte, es ist in der Nähe vom Bahnhof."
+      ],
+      "difficulty": "medium",
+      "focus": "im / in der Nähe"
+    },
+    {
+      "en": "Sorry, I don't know the way.",
+      "de": "Tut mir leid, ich kenne den Weg nicht.",
+      "alt": [
+        "Entschuldigung, ich kenne den Weg nicht."
+      ],
+      "difficulty": "medium",
+      "focus": "not knowing the way"
+    },
+    {
+      "en": "Turn left at the church, then drive straight on. [formal]",
+      "de": "Biegen Sie an der Kirche links ab und fahren Sie dann geradeaus.",
+      "alt": [
+        "An der Kirche biegen Sie links ab, dann fahren Sie geradeaus."
+      ],
+      "difficulty": "medium",
+      "focus": "an der Kirche"
+    },
+    {
+      "en": "The bus stop is between the cafés and the post office.",
+      "de": "Die Haltestelle ist zwischen den Cafés und der Post.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "zwischen + plural"
+    },
+    {
+      "en": "My friend is waiting in front of the cinema.",
+      "de": "Mein Freund wartet vor dem Kino.",
+      "alt": [
+        "Meine Freundin wartet vor dem Kino."
+      ],
+      "difficulty": "medium",
+      "focus": "vor dem Kino"
+    },
+    {
+      "en": "Why are you driving back? The hotel is on the right! [informal]",
+      "de": "Warum fährst du zurück? Das Hotel ist rechts!",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "zurückfahren"
+    },
+    {
+      "en": "Is the bank in the city centre or at the station?",
+      "de": "Ist die Bank im Zentrum oder am Bahnhof?",
+      "alt": [
+        "Ist die Bank in der Stadtmitte oder am Bahnhof?"
+      ],
+      "difficulty": "medium",
+      "focus": "im / am"
+    },
+    {
+      "en": "Where is the hotel? – Next to a café, behind the church.",
+      "de": "Wo ist das Hotel? – Neben einem Café, hinter der Kirche.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "Wo? answers"
+    },
+    {
+      "en": "We need your help, we can't find the hotel. [formal]",
+      "de": "Wir brauchen Ihre Hilfe, wir finden das Hotel nicht.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "asking for help"
+    },
+    {
+      "en": "The woman in the car helps the man with the map.",
+      "de": "Die Frau im Auto hilft dem Mann mit dem Stadtplan.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "helfen + dative"
+    },
+    {
+      "en": "The children are standing on the bridge over the river.",
+      "de": "Die Kinder stehen auf der Brücke über dem Fluss.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "auf / über"
+    },
+    {
+      "en": "Go back and take the first street on the left. [formal]",
+      "de": "Gehen Sie zurück und nehmen Sie die erste Straße links.",
+      "alt": [
+        "Gehen Sie zurück und dann die erste Straße links."
+      ],
+      "difficulty": "medium",
+      "focus": "zurückgehen"
+    },
+    {
+      "en": "The Pizzeria Roma is in the city centre, next to the cathedral.",
+      "de": "Die Pizzeria Roma ist in der Stadtmitte, neben dem Dom.",
+      "alt": [
+        "Die Pizzeria Roma ist im Zentrum neben dem Dom."
+      ],
+      "difficulty": "medium",
+      "focus": "neben dem Dom"
+    },
+    {
+      "en": "Is the post office far? No, it's only 500 metres from here.",
+      "de": "Ist die Post weit? Nein, sie ist nur 500 Meter von hier.",
+      "alt": [
+        "Ist die Post weit weg? Nein, sie ist nur 500 Meter von hier."
+      ],
+      "difficulty": "medium",
+      "focus": "Meter"
+    },
+    {
+      "en": "Excuse me, a question please: where is the police station?",
+      "de": "Entschuldigung, eine Frage bitte: Wo ist die Polizei?",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "Eine Frage bitte"
+    },
+    {
+      "en": "The man drives the car and the woman reads the map.",
+      "de": "Der Mann fährt das Auto und die Frau liest den Stadtplan.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "accusative"
+    },
+    {
+      "en": "Drive straight on, then turn right at the traffic lights, and then you'll see the hotel. [formal]",
+      "de": "Fahren Sie geradeaus, dann an der Ampel rechts und dann sehen Sie das Hotel schon.",
+      "alt": [
+        "Fahren Sie geradeaus, biegen Sie an der Ampel rechts ab und dann sehen Sie das Hotel schon."
+      ],
+      "difficulty": "hard",
+      "focus": "describing the way"
+    },
+    {
+      "en": "The hotel is not in the city centre, it's between the station and the cathedral.",
+      "de": "Das Hotel ist nicht in der Stadtmitte, es ist zwischen dem Bahnhof und dem Dom.",
+      "alt": [
+        "Das Hotel ist nicht im Zentrum, es ist zwischen dem Bahnhof und dem Dom."
+      ],
+      "difficulty": "hard",
+      "focus": "zwischen + dative"
+    },
+    {
+      "en": "Drive under the bridge, then turn left in front of the restaurant. [formal]",
+      "de": "Fahren Sie unter der Brücke durch und biegen Sie vor dem Restaurant links ab.",
+      "alt": [
+        "Fahren Sie unter der Brücke durch, dann vor dem Restaurant nach links."
+      ],
+      "difficulty": "hard",
+      "focus": "unter / vor"
+    },
+    {
+      "en": "Excuse me, can you help me? I'm looking for a bank near the station. [formal]",
+      "de": "Entschuldigung, können Sie mir helfen? Ich suche eine Bank in der Nähe vom Bahnhof.",
+      "alt": [
+        "Entschuldigen Sie, können Sie mir helfen? Ich suche eine Bank in der Nähe vom Bahnhof."
+      ],
+      "difficulty": "hard",
+      "focus": "asking for help"
+    },
+    {
+      "en": "The navigation system doesn't work, but my girlfriend knows the way.",
+      "de": "Der Navigator funktioniert nicht, aber meine Freundin kennt den Weg.",
+      "alt": [
+        "Das Navi funktioniert nicht, aber meine Freundin kennt den Weg."
+      ],
+      "difficulty": "hard",
+      "focus": "aber"
+    },
+    {
+      "en": "Walk past the cafés, take the second street on the right and then walk 200 metres straight on. [formal]",
+      "de": "Gehen Sie an den Cafés vorbei, nehmen Sie die zweite Straße rechts und gehen Sie dann 200 Meter geradeaus.",
+      "alt": [
+        "Gehen Sie an den Cafés vorbei, dann die zweite Straße rechts und dann 200 Meter geradeaus."
+      ],
+      "difficulty": "hard",
+      "focus": "describing the way"
+    },
+    {
+      "en": "Sorry, I'm a stranger here too, but the police station is next to the post office.",
+      "de": "Tut mir leid, ich bin auch fremd hier, aber die Polizei ist neben der Post.",
+      "alt": [
+        "Tut mir leid, ich bin auch fremd hier, aber neben der Post ist die Polizei."
+      ],
+      "difficulty": "hard",
+      "focus": "neben der Post"
+    },
+    {
+      "en": "We can't find the hotel, because the map is wrong.",
+      "de": "Wir finden das Hotel nicht, denn der Stadtplan stimmt nicht.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "denn"
+    },
+    {
+      "en": "My brother helps the tourists, because he knows the way to the cathedral.",
+      "de": "Mein Bruder hilft den Touristen, denn er kennt den Weg zum Dom.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "helfen + dative plural"
+    },
+    {
+      "en": "The café is on the left next to the bank, and the restaurant is behind the church.",
+      "de": "Das Café ist links neben der Bank und das Restaurant ist hinter der Kirche.",
+      "alt": [
+        "Das Café ist links, neben der Bank, und das Restaurant ist hinter der Kirche."
+      ],
+      "difficulty": "hard",
+      "focus": "neben / hinter"
+    },
+    {
+      "en": "First drive two kilometres straight on, then turn around and drive back to the station. [formal]",
+      "de": "Fahren Sie zuerst zwei Kilometer geradeaus, dann wenden Sie und fahren zurück zum Bahnhof.",
+      "alt": [
+        "Fahren Sie zuerst zwei Kilometer geradeaus, dann wenden Sie und fahren Sie zum Bahnhof zurück."
+      ],
+      "difficulty": "hard",
+      "focus": "wenden / zurückfahren"
+    },
+    {
+      "en": "Is there a café near here? – Yes, at the traffic lights, between the bank and the post office.",
+      "de": "Gibt es hier in der Nähe ein Café? – Ja, an der Ampel zwischen der Bank und der Post.",
+      "alt": [
+        "Gibt es ein Café in der Nähe? – Ja, an der Ampel zwischen der Bank und der Post."
+      ],
+      "difficulty": "hard",
+      "focus": "Wo? answers"
+    },
+    {
+      "en": "The keys aren't on the table, they're in the car under the map.",
+      "de": "Die Schlüssel sind nicht auf dem Tisch, sie sind im Auto unter dem Stadtplan.",
+      "alt": [
+        "Die Schlüssel liegen nicht auf dem Tisch, sie liegen im Auto unter dem Stadtplan."
+      ],
+      "difficulty": "hard",
+      "focus": "auf / in / unter"
+    },
+    {
+      "en": "Thank you very much for the help! – You're welcome, no problem.",
+      "de": "Vielen Dank für die Hilfe! – Bitte, gern. Kein Problem.",
+      "alt": [
+        "Vielen Dank für die Hilfe! – Bitte gern, kein Problem."
+      ],
+      "difficulty": "hard",
+      "focus": "saying thank you"
+    },
+    {
+      "en": "Can you help us? We're looking for the Hotel Sonne and our navigation system is broken. [formal]",
+      "de": "Können Sie uns helfen? Wir suchen das Hotel Sonne und unser Navi ist kaputt.",
+      "alt": [
+        "Können Sie uns helfen? Wir suchen das Hotel Sonne und unser Navigator ist kaputt."
+      ],
+      "difficulty": "hard",
+      "focus": "helfen + uns"
+    },
+    {
+      "en": "The woman in the car reads the map and says: turn left at the traffic lights! [informal]",
+      "de": "Die Frau im Auto liest den Stadtplan und sagt: Fahr an der Ampel links!",
+      "alt": [
+        "Die Frau im Auto liest den Stadtplan und sagt: Bieg an der Ampel links ab!"
+      ],
+      "difficulty": "hard",
+      "focus": "informal imperative"
+    },
+    {
+      "en": "The station isn't far: walk straight on, then you'll see it on the right. [formal]",
+      "de": "Der Bahnhof ist nicht weit: Gehen Sie geradeaus, dann sehen Sie ihn rechts.",
+      "alt": [
+        "Der Bahnhof ist nicht weit: Gehen Sie geradeaus und dann sehen Sie ihn rechts."
+      ],
+      "difficulty": "hard",
+      "focus": "describing the way"
+    },
+    {
+      "en": "Our hotel is in a street behind the cathedral, near the park.",
+      "de": "Unser Hotel ist in einer Straße hinter dem Dom, in der Nähe vom Park.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "in einer / hinter dem"
+    },
+    {
+      "en": "My parents live in a house next to a church, but I live in the city centre.",
+      "de": "Meine Eltern wohnen in einem Haus neben einer Kirche, aber ich wohne im Zentrum.",
+      "alt": [
+        "Meine Eltern wohnen in einem Haus neben einer Kirche, aber ich wohne in der Stadtmitte."
+      ],
+      "difficulty": "hard",
+      "focus": "in einem / neben einer"
+    },
+    {
+      "en": "Excuse me, do you know the Café Luna? – No, sorry, I'm not from here. [formal]",
+      "de": "Entschuldigen Sie, kennen Sie das Café Luna? – Nein, tut mir leid, ich bin nicht von hier.",
+      "alt": [
+        "Entschuldigung, kennen Sie das Café Luna? – Nein, tut mir leid, ich bin nicht von hier."
+      ],
+      "difficulty": "hard",
+      "focus": "not knowing the way"
+    },
+    {
+      "en": "Drive past the houses, turn right at the post office and stop in front of the bank. [formal]",
+      "de": "Fahren Sie an den Häusern vorbei, biegen Sie an der Post rechts ab und halten Sie vor der Bank.",
+      "alt": [
+        "Fahren Sie an den Häusern vorbei, dann an der Post nach rechts und halten Sie vor der Bank."
+      ],
+      "difficulty": "hard",
+      "focus": "dative plural"
+    },
+    {
+      "en": "The police are helping the woman, because her car is on the bridge.",
+      "de": "Die Polizei hilft der Frau, denn ihr Auto steht auf der Brücke.",
+      "alt": [
+        "Die Polizei hilft der Frau, denn ihr Auto ist auf der Brücke."
+      ],
+      "difficulty": "hard",
+      "focus": "helfen / auf"
+    },
+    {
+      "en": "We're sitting in the café at the station and drinking a coffee.",
+      "de": "Wir sitzen im Café am Bahnhof und trinken einen Kaffee.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "im / am"
+    },
+    {
+      "en": "The children are playing in the park, between the trees next to the lake.",
+      "de": "Die Kinder spielen im Park zwischen den Bäumen neben dem See.",
+      "alt": [
+        "Die Kinder spielen im Park, zwischen den Bäumen neben dem See."
+      ],
+      "difficulty": "hard",
+      "focus": "dative plural"
+    },
+    {
+      "en": "You're going the wrong way! Turn around and drive back to the cathedral. [informal]",
+      "de": "Du fährst falsch! Wende und fahr zurück zum Dom.",
+      "alt": [
+        "Du fährst falsch! Wende und fahr zum Dom zurück."
+      ],
+      "difficulty": "hard",
+      "focus": "informal imperative"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "Excuse me!",
+      "de": "Entschuldigung!",
+      "alt": [
+        "Entschuldigen Sie!"
+      ],
+      "focus": "asking for help",
+      "note": ""
+    },
+    {
+      "en": "Can you help me? [formal]",
+      "de": "Können Sie mir helfen?",
+      "alt": [],
+      "focus": "asking for help",
+      "note": ""
+    },
+    {
+      "en": "Can I ask you something? [formal]",
+      "de": "Kann ich Sie etwas fragen?",
+      "alt": [],
+      "focus": "asking for help",
+      "note": ""
+    },
+    {
+      "en": "Do you have a moment? [formal]",
+      "de": "Haben Sie einen Moment Zeit?",
+      "alt": [
+        "Haben Sie kurz Zeit?"
+      ],
+      "focus": "asking for help",
+      "note": ""
+    },
+    {
+      "en": "A question, please:",
+      "de": "Eine Frage bitte:",
+      "alt": [],
+      "focus": "asking for help",
+      "note": ""
+    },
+    {
+      "en": "I'm looking for the station.",
+      "de": "Ich suche den Bahnhof.",
+      "alt": [],
+      "focus": "asking the way",
+      "note": ""
+    },
+    {
+      "en": "Where can I find the post office?",
+      "de": "Wo finde ich die Post?",
+      "alt": [],
+      "focus": "asking the way",
+      "note": ""
+    },
+    {
+      "en": "Do you know the Café Luna? [formal]",
+      "de": "Kennen Sie das Café Luna?",
+      "alt": [],
+      "focus": "asking the way",
+      "note": ""
+    },
+    {
+      "en": "It's near the station.",
+      "de": "Das ist in der Nähe vom Bahnhof.",
+      "alt": [
+        "Es ist in der Nähe vom Bahnhof."
+      ],
+      "focus": "in der Nähe von",
+      "note": ""
+    },
+    {
+      "en": "straight on",
+      "de": "geradeaus",
+      "alt": [],
+      "focus": "directions",
+      "note": ""
+    },
+    {
+      "en": "to the right",
+      "de": "nach rechts",
+      "alt": [
+        "rechts"
+      ],
+      "focus": "directions",
+      "note": ""
+    },
+    {
+      "en": "to the left",
+      "de": "nach links",
+      "alt": [
+        "links"
+      ],
+      "focus": "directions",
+      "note": ""
+    },
+    {
+      "en": "Turn right. [formal]",
+      "de": "Biegen Sie rechts ab.",
+      "alt": [],
+      "focus": "directions",
+      "note": ""
+    },
+    {
+      "en": "Turn around. [formal]",
+      "de": "Wenden Sie.",
+      "alt": [],
+      "focus": "directions",
+      "note": ""
+    },
+    {
+      "en": "Drive back. [formal]",
+      "de": "Fahren Sie zurück.",
+      "alt": [],
+      "focus": "directions",
+      "note": ""
+    },
+    {
+      "en": "the next street on the left",
+      "de": "die nächste Straße links",
+      "alt": [
+        "die erste Straße links"
+      ],
+      "focus": "directions",
+      "note": ""
+    },
+    {
+      "en": "the second street on the right",
+      "de": "die zweite Straße rechts",
+      "alt": [],
+      "focus": "directions",
+      "note": ""
+    },
+    {
+      "en": "two kilometres straight on",
+      "de": "zwei Kilometer geradeaus",
+      "alt": [],
+      "focus": "directions",
+      "note": ""
+    },
+    {
+      "en": "at the traffic lights",
+      "de": "an der Ampel",
+      "alt": [],
+      "focus": "an + dative",
+      "note": ""
+    },
+    {
+      "en": "under a bridge",
+      "de": "unter einer Brücke",
+      "alt": [],
+      "focus": "unter + dative",
+      "note": ""
+    },
+    {
+      "en": "in front of the restaurant",
+      "de": "vor dem Restaurant",
+      "alt": [],
+      "focus": "vor + dative",
+      "note": ""
+    },
+    {
+      "en": "between the station and the cathedral",
+      "de": "zwischen dem Bahnhof und dem Dom",
+      "alt": [],
+      "focus": "zwischen + dative",
+      "note": ""
+    },
+    {
+      "en": "past the cafés",
+      "de": "an den Cafés vorbei",
+      "alt": [],
+      "focus": "dative plural",
+      "note": ""
+    },
+    {
+      "en": "next to the post office",
+      "de": "neben der Post",
+      "alt": [],
+      "focus": "neben + dative",
+      "note": ""
+    },
+    {
+      "en": "behind the bank",
+      "de": "hinter der Bank",
+      "alt": [],
+      "focus": "hinter + dative",
+      "note": ""
+    },
+    {
+      "en": "on the table",
+      "de": "auf dem Tisch",
+      "alt": [],
+      "focus": "auf + dative",
+      "note": ""
+    },
+    {
+      "en": "above the door",
+      "de": "über der Tür",
+      "alt": [],
+      "focus": "über + dative",
+      "note": ""
+    },
+    {
+      "en": "in the city centre",
+      "de": "im Zentrum",
+      "alt": [
+        "in der Stadtmitte"
+      ],
+      "focus": "in + dative",
+      "note": ""
+    },
+    {
+      "en": "at the station",
+      "de": "am Bahnhof",
+      "alt": [],
+      "focus": "an dem = am",
+      "note": ""
+    },
+    {
+      "en": "And then you'll see the hotel. [formal]",
+      "de": "Und dann sehen Sie das Hotel schon.",
+      "alt": [
+        "Dann sehen Sie das Hotel schon."
+      ],
+      "focus": "describing the way",
+      "note": ""
+    },
+    {
+      "en": "I'm a stranger here too.",
+      "de": "Ich bin auch fremd hier.",
+      "alt": [],
+      "focus": "not knowing the way",
+      "note": ""
+    },
+    {
+      "en": "I'm not from here.",
+      "de": "Ich bin nicht von hier.",
+      "alt": [],
+      "focus": "not knowing the way",
+      "note": ""
+    },
+    {
+      "en": "No, I'm sorry.",
+      "de": "Nein, tut mir leid.",
+      "alt": [],
+      "focus": "not knowing the way",
+      "note": ""
+    },
+    {
+      "en": "Thanks anyway!",
+      "de": "Trotzdem danke schön!",
+      "alt": [
+        "Trotzdem danke!"
+      ],
+      "focus": "saying thank you",
+      "note": ""
+    },
+    {
+      "en": "That's very kind!",
+      "de": "Sehr nett!",
+      "alt": [],
+      "focus": "saying thank you",
+      "note": ""
+    },
+    {
+      "en": "Thank you very much!",
+      "de": "Vielen Dank!",
+      "alt": [],
+      "focus": "saying thank you",
+      "note": ""
+    },
+    {
+      "en": "Oh, I see. What a pity.",
+      "de": "Ach so. Schade.",
+      "alt": [],
+      "focus": "reacting",
+      "note": ""
+    },
+    {
+      "en": "You're welcome.",
+      "de": "Bitte, gern.",
+      "alt": [
+        "Bitte gern."
+      ],
+      "focus": "reacting to thanks",
+      "note": ""
+    },
+    {
+      "en": "No problem.",
+      "de": "Kein Problem.",
+      "alt": [],
+      "focus": "reacting to thanks",
+      "note": ""
+    },
+    {
+      "en": "after 600 metres",
+      "de": "nach 600 Metern",
+      "alt": [
+        "nach sechshundert Metern"
+      ],
+      "focus": "navigation system",
+      "note": ""
+    },
+    {
+      "en": "Please turn left.",
+      "de": "Bitte links abbiegen.",
+      "alt": [],
+      "focus": "navigation system",
+      "note": "The short style a navigation system uses."
+    },
+    {
+      "en": "Keep driving straight on! [informal]",
+      "de": "Fahr geradeaus weiter!",
+      "alt": [],
+      "focus": "informal imperative",
+      "note": ""
+    },
+    {
+      "en": "The map is wrong.",
+      "de": "Der Stadtplan stimmt nicht.",
+      "alt": [],
+      "focus": "Stadtplan",
+      "note": ""
+    },
+    {
+      "en": "to turn on the navigation system",
+      "de": "den Navigator anmachen",
+      "alt": [
+        "das Navi anmachen"
+      ],
+      "focus": "anmachen",
+      "note": ""
+    },
+    {
+      "en": "Where is the hotel?",
+      "de": "Wo ist das Hotel?",
+      "alt": [],
+      "focus": "Wo?",
+      "note": ""
+    },
+    {
+      "en": "He helps me.",
+      "de": "Er hilft mir.",
+      "alt": [],
+      "focus": "helfen",
+      "note": ""
+    },
+    {
+      "en": "Are you helping us? [informal]",
+      "de": "Hilfst du uns?",
+      "alt": [],
+      "focus": "helfen",
+      "note": ""
+    },
+    {
+      "en": "in the car",
+      "de": "im Auto",
+      "alt": [],
+      "focus": "in dem = im",
+      "note": ""
+    },
+    {
+      "en": "on the bridge",
+      "de": "auf der Brücke",
+      "alt": [],
+      "focus": "auf + dative",
+      "note": ""
+    },
+    {
+      "en": "the way to the cathedral",
+      "de": "der Weg zum Dom",
+      "alt": [],
+      "focus": "der Weg",
+      "note": ""
+    }
+  ],
+  "text": {
+    "title": "The way to my party",
+    "en": "Hi Tom,\n\non Saturday you're coming to my party. Here is the way from the station:\n\nWalk out of the station and then straight on. At the traffic lights, go left. Then walk past the cafés and under a bridge. The second street on the right is my street. My house is next to a bank, between the post office and the Pizzeria Roma.\n\nYou can't find the house? No problem! Call me, then I'll help you.\n\nSee you on Saturday!\nLena",
+    "de": "Hallo Tom,\n\nam Samstag kommst du zu meiner Party. Hier ist der Weg vom Bahnhof:\n\nDu gehst aus dem Bahnhof und dann geradeaus. An der Ampel gehst du nach links. Dann gehst du an den Cafés vorbei und unter einer Brücke durch. Die zweite Straße rechts ist meine Straße. Mein Haus ist neben einer Bank, zwischen der Post und der Pizzeria Roma.\n\nDu findest das Haus nicht? Kein Problem! Ruf mich an, dann helfe ich dir.\n\nBis Samstag!\nLena"
+  }
+}

@@ -1,0 +1,1488 @@
+{
+  "id": "a1-2-s14",
+  "level": "A1.2",
+  "number": 14,
+  "title": "Houses and flats",
+  "createdAt": "2026-09-16",
+  "content": {
+    "topics": [
+      "houses and flats",
+      "describing and rating homes",
+      "flat adverts"
+    ],
+    "vocabulary": [
+      {
+        "de": "das Haus, -¨er",
+        "en": "house"
+      },
+      {
+        "de": "der Garten, -¨",
+        "en": "garden"
+      },
+      {
+        "de": "die Blume, -n",
+        "en": "flower"
+      },
+      {
+        "de": "der Baum, -¨e",
+        "en": "tree"
+      },
+      {
+        "de": "die Treppe, -n",
+        "en": "stairs"
+      },
+      {
+        "de": "die Garage, -n",
+        "en": "garage"
+      },
+      {
+        "de": "das Fenster, -",
+        "en": "window"
+      },
+      {
+        "de": "der Balkon, -e",
+        "en": "balcony"
+      },
+      {
+        "de": "das Erdgeschoss (EG)",
+        "en": "ground floor"
+      },
+      {
+        "de": "der erste Stock",
+        "en": "first floor"
+      },
+      {
+        "de": "der Keller, -",
+        "en": "cellar, basement"
+      },
+      {
+        "de": "das Kinderzimmer, -",
+        "en": "children's room"
+      },
+      {
+        "de": "das Wohnzimmer, -",
+        "en": "living room"
+      },
+      {
+        "de": "die Küche, -n",
+        "en": "kitchen"
+      },
+      {
+        "de": "das Arbeitszimmer, -",
+        "en": "study"
+      },
+      {
+        "de": "das Schlafzimmer, -",
+        "en": "bedroom"
+      },
+      {
+        "de": "das Bad, -¨er",
+        "en": "bathroom"
+      },
+      {
+        "de": "die Toilette, -n",
+        "en": "toilet"
+      },
+      {
+        "de": "der Flur, -e",
+        "en": "hall, corridor"
+      },
+      {
+        "de": "oben / unten",
+        "en": "upstairs, at the top / downstairs, at the bottom"
+      },
+      {
+        "de": "vorn(e) / hinten",
+        "en": "at the front / at the back"
+      },
+      {
+        "de": "elegant",
+        "en": "elegant"
+      },
+      {
+        "de": "gemütlich",
+        "en": "cosy"
+      },
+      {
+        "de": "die Nachbarin, -nen / der Nachbar, -n",
+        "en": "neighbour"
+      },
+      {
+        "de": "Single",
+        "en": "single"
+      },
+      {
+        "de": "geschieden",
+        "en": "divorced"
+      },
+      {
+        "de": "die Wohnung, -en",
+        "en": "flat, apartment"
+      },
+      {
+        "de": "die Anzeige, -n",
+        "en": "advert"
+      },
+      {
+        "de": "die Miete, -n",
+        "en": "rent"
+      },
+      {
+        "de": "die Nebenkosten (Pl.)",
+        "en": "service charges, utilities"
+      },
+      {
+        "de": "der Vermieter, -",
+        "en": "landlord"
+      },
+      {
+        "de": "möbliert",
+        "en": "furnished"
+      },
+      {
+        "de": "der Quadratmeter (m²)",
+        "en": "square metre"
+      },
+      {
+        "de": "der Aufzug, -¨e",
+        "en": "lift"
+      },
+      {
+        "de": "der Stellplatz, -¨e",
+        "en": "parking space"
+      },
+      {
+        "de": "die Tiefgarage, -n",
+        "en": "underground car park"
+      },
+      {
+        "de": "der Kühlschrank, -¨e",
+        "en": "fridge"
+      },
+      {
+        "de": "der Herd, -e",
+        "en": "cooker"
+      },
+      {
+        "de": "frei",
+        "en": "available"
+      },
+      {
+        "de": "sofort",
+        "en": "immediately"
+      },
+      {
+        "de": "dringend",
+        "en": "urgently"
+      },
+      {
+        "de": "anbieten",
+        "en": "to offer"
+      },
+      {
+        "de": "umziehen",
+        "en": "to move (house)"
+      },
+      {
+        "de": "aussehen",
+        "en": "to look (like)"
+      }
+    ],
+    "grammar": [
+      {
+        "name": "Possessive articles sein / ihr (nominative and accusative)",
+        "explanation": "sein = his (owner is a man), ihr = her (owner is a woman). They take the same endings as mein: only masculine accusative adds -en (seinen / ihren).",
+        "examples": [
+          "Da ist sein Garten.",
+          "Ich mag ihren Garten.",
+          "Seine Kinder sind im Garten."
+        ]
+      },
+      {
+        "name": "Genitive -s with names",
+        "explanation": "Add -s to a name to show who owns something, without an apostrophe.",
+        "examples": [
+          "Ottos Haus = das Haus von Otto",
+          "Vanillas Garten = der Garten von Vanilla"
+        ]
+      },
+      {
+        "name": "Describing and rating homes",
+        "explanation": "Rate things with finden + adjective, mögen, or aussehen. The object can come first for emphasis.",
+        "examples": [
+          "Das Haus finde ich schön.",
+          "Seinen Garten mag ich nicht so.",
+          "Die Küche sieht toll aus."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "de": "Das Haus ist groß und hat sieben Zimmer.",
+        "en": "The house is big and has seven rooms."
+      },
+      {
+        "de": "Im Erdgeschoss sind drei Zimmer.",
+        "en": "There are three rooms on the ground floor."
+      },
+      {
+        "de": "Hier vorne links ist die Küche.",
+        "en": "Here at the front on the left is the kitchen."
+      },
+      {
+        "de": "Neben dem Haus ist eine Garage.",
+        "en": "Next to the house there is a garage."
+      },
+      {
+        "de": "... mag ich besonders / gar nicht / nicht so.",
+        "en": "I particularly like / don't like at all / don't like much ..."
+      },
+      {
+        "de": "... sieht toll / nicht so schön aus.",
+        "en": "... looks great / not so nice."
+      }
+    ]
+  },
+  "sentences": [
+    {
+      "en": "Otto's house is big and elegant.",
+      "de": "Ottos Haus ist groß und elegant.",
+      "alt": [
+        "Das Haus von Otto ist groß und elegant."
+      ],
+      "difficulty": "easy",
+      "focus": "genitive -s with names"
+    },
+    {
+      "en": "Vanilla's house is small and cosy.",
+      "de": "Vanillas Haus ist klein und gemütlich.",
+      "alt": [
+        "Das Haus von Vanilla ist klein und gemütlich."
+      ],
+      "difficulty": "easy",
+      "focus": "genitive -s with names"
+    },
+    {
+      "en": "His garden is very beautiful.",
+      "de": "Sein Garten ist sehr schön.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "sein (nominative)"
+    },
+    {
+      "en": "Her kitchen is big.",
+      "de": "Ihre Küche ist groß.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "ihr (nominative)"
+    },
+    {
+      "en": "I like his house.",
+      "de": "Ich mag sein Haus.",
+      "alt": [
+        "Sein Haus mag ich."
+      ],
+      "difficulty": "easy",
+      "focus": "sein (accusative)"
+    },
+    {
+      "en": "I don't like her garden so much.",
+      "de": "Ihren Garten mag ich nicht so.",
+      "alt": [
+        "Ich mag ihren Garten nicht so."
+      ],
+      "difficulty": "easy",
+      "focus": "ihren (accusative)"
+    },
+    {
+      "en": "His balcony is upstairs.",
+      "de": "Sein Balkon ist oben.",
+      "alt": [
+        "Oben ist sein Balkon."
+      ],
+      "difficulty": "easy",
+      "focus": "oben"
+    },
+    {
+      "en": "Her car is in the garage.",
+      "de": "Ihr Auto ist in der Garage.",
+      "alt": [
+        "Ihr Auto steht in der Garage."
+      ],
+      "difficulty": "easy",
+      "focus": "ihr / in der"
+    },
+    {
+      "en": "The kitchen is on the ground floor.",
+      "de": "Die Küche ist im Erdgeschoss.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "im Erdgeschoss"
+    },
+    {
+      "en": "The bedroom is on the first floor.",
+      "de": "Das Schlafzimmer ist im ersten Stock.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "im ersten Stock"
+    },
+    {
+      "en": "The house has seven rooms.",
+      "de": "Das Haus hat sieben Zimmer.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "describing a house"
+    },
+    {
+      "en": "There are many flowers in the garden.",
+      "de": "Im Garten sind viele Blumen.",
+      "alt": [
+        "Im Garten gibt es viele Blumen.",
+        "Es gibt viele Blumen im Garten."
+      ],
+      "difficulty": "easy",
+      "focus": "describing a garden"
+    },
+    {
+      "en": "There is a tree in the garden.",
+      "de": "Im Garten steht ein Baum.",
+      "alt": [
+        "Im Garten ist ein Baum.",
+        "Es gibt einen Baum im Garten."
+      ],
+      "difficulty": "easy",
+      "focus": "describing a garden"
+    },
+    {
+      "en": "Where are his children?",
+      "de": "Wo sind seine Kinder?",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "seine (plural)"
+    },
+    {
+      "en": "Her children are in the children's room.",
+      "de": "Ihre Kinder sind im Kinderzimmer.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "ihre (plural)"
+    },
+    {
+      "en": "The bathroom has no window.",
+      "de": "Das Bad hat kein Fenster.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "kein"
+    },
+    {
+      "en": "The flat costs 400 euros.",
+      "de": "Die Wohnung kostet 400 Euro.",
+      "alt": [
+        "Die Wohnung kostet vierhundert Euro."
+      ],
+      "difficulty": "easy",
+      "focus": "flat adverts"
+    },
+    {
+      "en": "Is the flat furnished?",
+      "de": "Ist die Wohnung möbliert?",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "möbliert"
+    },
+    {
+      "en": "The house has stairs.",
+      "de": "Das Haus hat eine Treppe.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "die Treppe"
+    },
+    {
+      "en": "The cellar is very big.",
+      "de": "Der Keller ist sehr groß.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "der Keller"
+    },
+    {
+      "en": "I find his study interesting.",
+      "de": "Ich finde sein Arbeitszimmer interessant.",
+      "alt": [
+        "Sein Arbeitszimmer finde ich interessant."
+      ],
+      "difficulty": "easy",
+      "focus": "rating with finden"
+    },
+    {
+      "en": "Her living room looks great.",
+      "de": "Ihr Wohnzimmer sieht toll aus.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "aussehen"
+    },
+    {
+      "en": "Otto's neighbour is called Vanilla.",
+      "de": "Ottos Nachbarin heißt Vanilla.",
+      "alt": [
+        "Die Nachbarin von Otto heißt Vanilla."
+      ],
+      "difficulty": "easy",
+      "focus": "genitive -s with names"
+    },
+    {
+      "en": "Otto is single and has no children.",
+      "de": "Otto ist Single und hat keine Kinder.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "Single / keine"
+    },
+    {
+      "en": "The toilet is next to the bathroom.",
+      "de": "Die Toilette ist neben dem Bad.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "neben + dative (review)"
+    },
+    {
+      "en": "Where is his wife?",
+      "de": "Wo ist seine Frau?",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "seine (nominative)"
+    },
+    {
+      "en": "I like Maria's flat very much.",
+      "de": "Ich mag Marias Wohnung sehr.",
+      "alt": [
+        "Marias Wohnung mag ich sehr.",
+        "Ich mag die Wohnung von Maria sehr."
+      ],
+      "difficulty": "easy",
+      "focus": "genitive -s with names"
+    },
+    {
+      "en": "The flat is available immediately.",
+      "de": "Die Wohnung ist sofort frei.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "sofort frei"
+    },
+    {
+      "en": "The rent is 880 euros.",
+      "de": "Die Miete ist 880 Euro.",
+      "alt": [
+        "Die Miete kostet 880 Euro.",
+        "Die Miete beträgt 880 Euro."
+      ],
+      "difficulty": "easy",
+      "focus": "die Miete"
+    },
+    {
+      "en": "The hall is very small.",
+      "de": "Der Flur ist sehr klein.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "der Flur"
+    },
+    {
+      "en": "His flat has a lift.",
+      "de": "Seine Wohnung hat einen Aufzug.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "seine / einen"
+    },
+    {
+      "en": "Is the house big or small?",
+      "de": "Ist das Haus groß oder klein?",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "describing a house"
+    },
+    {
+      "en": "The garage is next to the house.",
+      "de": "Die Garage ist neben dem Haus.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "neben + dative (review)"
+    },
+    {
+      "en": "I've moved.",
+      "de": "Ich bin umgezogen.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "umziehen (Perfekt)"
+    },
+    {
+      "en": "Her garden has a lot of trees.",
+      "de": "Ihr Garten hat viele Bäume.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "ihr (nominative)"
+    },
+    {
+      "en": "Otto's house has a garden and a garage.",
+      "de": "Ottos Haus hat einen Garten und eine Garage.",
+      "alt": [
+        "Das Haus von Otto hat einen Garten und eine Garage."
+      ],
+      "difficulty": "medium",
+      "focus": "genitive -s with names"
+    },
+    {
+      "en": "Up there is his balcony and back there is his garage.",
+      "de": "Da oben ist sein Balkon und da hinten ist seine Garage.",
+      "alt": [
+        "Oben ist sein Balkon und hinten ist seine Garage."
+      ],
+      "difficulty": "medium",
+      "focus": "sein / seine"
+    },
+    {
+      "en": "How do you like Otto's house? [informal]",
+      "de": "Wie findest du Ottos Haus?",
+      "alt": [
+        "Wie findest du das Haus von Otto?"
+      ],
+      "difficulty": "medium",
+      "focus": "rating with finden"
+    },
+    {
+      "en": "I find his house beautiful, but I don't like his garden.",
+      "de": "Sein Haus finde ich schön, aber seinen Garten mag ich nicht.",
+      "alt": [
+        "Ich finde sein Haus schön, aber ich mag seinen Garten nicht."
+      ],
+      "difficulty": "medium",
+      "focus": "sein / seinen"
+    },
+    {
+      "en": "Vanilla's house is cosy, and I particularly like her garden.",
+      "de": "Vanillas Haus ist gemütlich und ihren Garten mag ich besonders.",
+      "alt": [
+        "Vanillas Haus ist gemütlich und ich mag ihren Garten besonders."
+      ],
+      "difficulty": "medium",
+      "focus": "ihren (accusative)"
+    },
+    {
+      "en": "On the ground floor there are three rooms and a kitchen.",
+      "de": "Im Erdgeschoss sind drei Zimmer und eine Küche.",
+      "alt": [
+        "Im Erdgeschoss gibt es drei Zimmer und eine Küche."
+      ],
+      "difficulty": "medium",
+      "focus": "describing a house"
+    },
+    {
+      "en": "Here at the front on the left is the kitchen.",
+      "de": "Hier vorne links ist die Küche.",
+      "alt": [
+        "Hier vorn links ist die Küche."
+      ],
+      "difficulty": "medium",
+      "focus": "vorne / links"
+    },
+    {
+      "en": "The flat is on the third floor and has a balcony.",
+      "de": "Die Wohnung ist im dritten Stock und hat einen Balkon.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "im dritten Stock"
+    },
+    {
+      "en": "A policewoman is urgently looking for a two-room flat.",
+      "de": "Eine Polizistin sucht dringend eine Zwei-Zimmer-Wohnung.",
+      "alt": [
+        "Eine Polizistin sucht dringend eine 2-Zimmer-Wohnung.",
+        "Eine Polizistin braucht dringend eine Zwei-Zimmer-Wohnung."
+      ],
+      "difficulty": "medium",
+      "focus": "flat adverts"
+    },
+    {
+      "en": "The rent is 400 euros plus 120 euros service charges.",
+      "de": "Die Miete ist 400 Euro plus 120 Euro Nebenkosten.",
+      "alt": [
+        "Die Miete kostet 400 Euro plus 120 Euro Nebenkosten."
+      ],
+      "difficulty": "medium",
+      "focus": "Nebenkosten"
+    },
+    {
+      "en": "The landlord gets the rent every month.",
+      "de": "Der Vermieter bekommt jeden Monat die Miete.",
+      "alt": [
+        "Der Vermieter bekommt die Miete jeden Monat."
+      ],
+      "difficulty": "medium",
+      "focus": "der Vermieter"
+    },
+    {
+      "en": "My new flat is 54 square metres.",
+      "de": "Meine neue Wohnung ist 54 Quadratmeter groß.",
+      "alt": [
+        "Meine neue Wohnung hat 54 Quadratmeter."
+      ],
+      "difficulty": "medium",
+      "focus": "Quadratmeter"
+    },
+    {
+      "en": "Where is his car? – It's in the garage behind the house.",
+      "de": "Wo ist sein Auto? – Es steht in der Garage hinter dem Haus.",
+      "alt": [
+        "Wo ist sein Auto? – Es ist in der Garage hinter dem Haus."
+      ],
+      "difficulty": "medium",
+      "focus": "sein / hinter + dative"
+    },
+    {
+      "en": "Her children are playing in the garden between the flowers.",
+      "de": "Ihre Kinder spielen im Garten zwischen den Blumen.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "ihre / zwischen + dative"
+    },
+    {
+      "en": "I don't like his flat so much, the rooms are too small.",
+      "de": "Seine Wohnung mag ich nicht so, die Zimmer sind zu klein.",
+      "alt": [
+        "Ich mag seine Wohnung nicht so, die Zimmer sind zu klein."
+      ],
+      "difficulty": "medium",
+      "focus": "rating with mögen"
+    },
+    {
+      "en": "Anna has moved. Her kitchen is very big.",
+      "de": "Anna ist umgezogen. Ihre Küche ist sehr groß.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "ihr / umziehen"
+    },
+    {
+      "en": "Is the flat furnished? Are there a table and chairs in the kitchen?",
+      "de": "Ist die Wohnung möbliert? Stehen in der Küche ein Tisch und Stühle?",
+      "alt": [
+        "Ist die Wohnung möbliert? Gibt es in der Küche einen Tisch und Stühle?"
+      ],
+      "difficulty": "medium",
+      "focus": "möbliert"
+    },
+    {
+      "en": "The house has four rooms and two bathrooms.",
+      "de": "Das Haus hat vier Zimmer und zwei Bäder.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "describing a house"
+    },
+    {
+      "en": "What about Otto's wife? Otto doesn't have a wife.",
+      "de": "Was ist denn mit Ottos Frau? Otto hat keine Frau.",
+      "alt": [
+        "Was ist mit Ottos Frau? Otto hat keine Frau."
+      ],
+      "difficulty": "medium",
+      "focus": "genitive -s with names"
+    },
+    {
+      "en": "Peter and his children live on the first floor.",
+      "de": "Peter und seine Kinder wohnen im ersten Stock.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "seine (plural)"
+    },
+    {
+      "en": "Vanilla's garden is 700 square metres.",
+      "de": "Vanillas Garten ist 700 Quadratmeter groß.",
+      "alt": [
+        "Vanillas Garten hat 700 Quadratmeter.",
+        "Der Garten von Vanilla ist 700 Quadratmeter groß."
+      ],
+      "difficulty": "medium",
+      "focus": "genitive -s with names"
+    },
+    {
+      "en": "I find her house boring, but her garden looks great.",
+      "de": "Ich finde ihr Haus langweilig, aber ihr Garten sieht toll aus.",
+      "alt": [
+        "Ihr Haus finde ich langweilig, aber ihr Garten sieht toll aus."
+      ],
+      "difficulty": "medium",
+      "focus": "rating / aussehen"
+    },
+    {
+      "en": "The apartment has a kitchen with a fridge and a cooker.",
+      "de": "Das Apartment hat eine Küche mit Kühlschrank und Herd.",
+      "alt": [
+        "Die Wohnung hat eine Küche mit Kühlschrank und Herd.",
+        "Das Apartment hat eine Küche mit einem Kühlschrank und einem Herd."
+      ],
+      "difficulty": "medium",
+      "focus": "flat adverts"
+    },
+    {
+      "en": "My brother is looking for a flat in the city centre.",
+      "de": "Mein Bruder sucht eine Wohnung in der Stadtmitte.",
+      "alt": [
+        "Mein Bruder sucht eine Wohnung im Zentrum."
+      ],
+      "difficulty": "medium",
+      "focus": "in der Stadtmitte (review)"
+    },
+    {
+      "en": "There is a parking space in the underground car park.",
+      "de": "Es gibt einen Stellplatz in der Tiefgarage.",
+      "alt": [
+        "In der Tiefgarage gibt es einen Stellplatz."
+      ],
+      "difficulty": "medium",
+      "focus": "flat adverts"
+    },
+    {
+      "en": "Who is offering a flat and who is looking for a flat?",
+      "de": "Wer bietet eine Wohnung an und wer sucht eine Wohnung?",
+      "alt": [
+        "Wer bietet eine Wohnung an, und wer sucht eine?"
+      ],
+      "difficulty": "medium",
+      "focus": "anbieten / suchen"
+    },
+    {
+      "en": "Her flat is small, but it's in the city centre.",
+      "de": "Ihre Wohnung ist klein, aber sie ist im Zentrum.",
+      "alt": [
+        "Ihre Wohnung ist klein, aber sie ist in der Stadtmitte."
+      ],
+      "difficulty": "medium",
+      "focus": "ihre / im Zentrum"
+    },
+    {
+      "en": "The study is upstairs next to the bedroom.",
+      "de": "Das Arbeitszimmer ist oben neben dem Schlafzimmer.",
+      "alt": [
+        "Oben neben dem Schlafzimmer ist das Arbeitszimmer."
+      ],
+      "difficulty": "medium",
+      "focus": "oben / neben + dative"
+    },
+    {
+      "en": "How do you like her balcony? [formal]",
+      "de": "Wie finden Sie ihren Balkon?",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "ihren (accusative)"
+    },
+    {
+      "en": "Tom loves his garden, he has lots of flowers.",
+      "de": "Tom liebt seinen Garten, er hat viele Blumen.",
+      "alt": [
+        "Tom mag seinen Garten sehr, er hat viele Blumen."
+      ],
+      "difficulty": "medium",
+      "focus": "seinen (accusative)"
+    },
+    {
+      "en": "The stairs are in the hall next to the toilet.",
+      "de": "Die Treppe ist im Flur neben der Toilette.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "im / neben der"
+    },
+    {
+      "en": "Is his house far from the station?",
+      "de": "Ist sein Haus weit vom Bahnhof?",
+      "alt": [
+        "Ist sein Haus weit weg vom Bahnhof?"
+      ],
+      "difficulty": "medium",
+      "focus": "sein / vom (review)"
+    },
+    {
+      "en": "The flat costs 320 euros a month including service charges.",
+      "de": "Die Wohnung kostet 320 Euro im Monat inklusive Nebenkosten.",
+      "alt": [
+        "Die Wohnung kostet 320 Euro im Monat inkl. Nebenkosten.",
+        "Die Wohnung kostet monatlich 320 Euro inklusive Nebenkosten."
+      ],
+      "difficulty": "medium",
+      "focus": "flat adverts"
+    },
+    {
+      "en": "I like his car, but his garage is too small.",
+      "de": "Sein Auto mag ich, aber seine Garage ist zu klein.",
+      "alt": [
+        "Ich mag sein Auto, aber seine Garage ist zu klein."
+      ],
+      "difficulty": "medium",
+      "focus": "sein / seine"
+    },
+    {
+      "en": "The children's room is at the back, the living room at the front.",
+      "de": "Das Kinderzimmer ist hinten, das Wohnzimmer vorne.",
+      "alt": [
+        "Das Kinderzimmer ist hinten und das Wohnzimmer ist vorn."
+      ],
+      "difficulty": "medium",
+      "focus": "hinten / vorne"
+    },
+    {
+      "en": "Sara is looking for her keys in the kitchen.",
+      "de": "Sara sucht ihre Schlüssel in der Küche.",
+      "alt": [
+        "Sara sucht in der Küche ihre Schlüssel."
+      ],
+      "difficulty": "medium",
+      "focus": "ihre (accusative plural)"
+    },
+    {
+      "en": "The flower is on the balcony, not in the garden.",
+      "de": "Die Blume steht auf dem Balkon, nicht im Garten.",
+      "alt": [
+        "Die Blume ist auf dem Balkon, nicht im Garten."
+      ],
+      "difficulty": "medium",
+      "focus": "auf / in + dative (review)"
+    },
+    {
+      "en": "Julia's flat is on the ground floor next to the garage.",
+      "de": "Julias Wohnung ist im Erdgeschoss neben der Garage.",
+      "alt": [
+        "Die Wohnung von Julia ist im Erdgeschoss neben der Garage."
+      ],
+      "difficulty": "medium",
+      "focus": "genitive -s with names"
+    },
+    {
+      "en": "Do you like the flat? – Yes, and the kitchen is really great. [informal]",
+      "de": "Magst du die Wohnung? – Ja, und die Küche ist wirklich toll.",
+      "alt": [
+        "Gefällt dir die Wohnung? – Ja, und die Küche ist wirklich toll."
+      ],
+      "difficulty": "medium",
+      "focus": "rating a flat"
+    },
+    {
+      "en": "His neighbour has a dog and a cat.",
+      "de": "Sein Nachbar hat einen Hund und eine Katze.",
+      "alt": [
+        "Seine Nachbarin hat einen Hund und eine Katze."
+      ],
+      "difficulty": "medium",
+      "focus": "sein / seine"
+    },
+    {
+      "en": "Otto's house is big and elegant, but Vanilla's house is small and cosy.",
+      "de": "Ottos Haus ist groß und elegant, aber Vanillas Haus ist klein und gemütlich.",
+      "alt": [
+        "Das Haus von Otto ist groß und elegant, aber das Haus von Vanilla ist klein und gemütlich."
+      ],
+      "difficulty": "hard",
+      "focus": "genitive -s with names"
+    },
+    {
+      "en": "On the ground floor are the kitchen and the living room, on the first floor are three bedrooms.",
+      "de": "Im Erdgeschoss sind die Küche und das Wohnzimmer, im ersten Stock sind drei Schlafzimmer.",
+      "alt": [
+        "Im Erdgeschoss sind die Küche und das Wohnzimmer und im ersten Stock sind drei Schlafzimmer."
+      ],
+      "difficulty": "hard",
+      "focus": "describing a house"
+    },
+    {
+      "en": "Vanilla lives next to Otto, and I particularly like her garden, because it has lots of flowers.",
+      "de": "Vanilla wohnt neben Otto und ihren Garten mag ich besonders, denn er hat viele Blumen.",
+      "alt": [
+        "Vanilla wohnt neben Otto und ich mag ihren Garten besonders, denn er hat viele Blumen."
+      ],
+      "difficulty": "hard",
+      "focus": "ihren / denn"
+    },
+    {
+      "en": "I've moved: my flat is 55 square metres and costs 590 euros.",
+      "de": "Ich bin umgezogen: Meine Wohnung ist 55 Quadratmeter groß und kostet 590 Euro.",
+      "alt": [
+        "Ich bin umgezogen. Meine Wohnung hat 55 Quadratmeter und kostet 590 Euro."
+      ],
+      "difficulty": "hard",
+      "focus": "writing about a new flat"
+    },
+    {
+      "en": "The kitchen is very big, but unfortunately the bathroom has no window.",
+      "de": "Die Küche ist sehr groß, aber leider hat das Bad kein Fenster.",
+      "alt": [
+        "Die Küche ist sehr groß, aber das Bad hat leider kein Fenster."
+      ],
+      "difficulty": "hard",
+      "focus": "writing about a new flat"
+    },
+    {
+      "en": "Here at the front on the left is the kitchen, and back there is his study.",
+      "de": "Hier vorne links ist die Küche und da hinten ist sein Arbeitszimmer.",
+      "alt": [
+        "Hier vorn links ist die Küche und da hinten ist sein Arbeitszimmer."
+      ],
+      "difficulty": "hard",
+      "focus": "describing a house"
+    },
+    {
+      "en": "Maria finds his house interesting, but she doesn't like his garage at all.",
+      "de": "Maria findet sein Haus interessant, aber seine Garage mag sie gar nicht.",
+      "alt": [
+        "Maria findet sein Haus interessant, aber sie mag seine Garage gar nicht."
+      ],
+      "difficulty": "hard",
+      "focus": "rating / sein"
+    },
+    {
+      "en": "The two-room flat is on the third floor, and there is a lift.",
+      "de": "Die Zwei-Zimmer-Wohnung ist im dritten Stock und es gibt einen Aufzug.",
+      "alt": [
+        "Die 2-Zimmer-Wohnung ist im dritten Stock und es gibt einen Aufzug."
+      ],
+      "difficulty": "hard",
+      "focus": "flat adverts"
+    },
+    {
+      "en": "My sister is looking for a flat near the station, not over 500 euros.",
+      "de": "Meine Schwester sucht eine Wohnung in der Nähe vom Bahnhof, nicht über 500 Euro.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "in der Nähe von (review)"
+    },
+    {
+      "en": "Otto has no wife and no children, but his neighbour Vanilla has two children.",
+      "de": "Otto hat keine Frau und keine Kinder, aber seine Nachbarin Vanilla hat zwei Kinder.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "keine / seine"
+    },
+    {
+      "en": "The house has a garden with a tree, and next to the house there is a garage.",
+      "de": "Das Haus hat einen Garten mit einem Baum und neben dem Haus ist eine Garage.",
+      "alt": [
+        "Das Haus hat einen Garten mit einem Baum, und neben dem Haus gibt es eine Garage."
+      ],
+      "difficulty": "hard",
+      "focus": "describing a house"
+    },
+    {
+      "en": "Do you like your flat? – Yes, but the rent and the service charges are expensive. [informal]",
+      "de": "Magst du deine Wohnung? – Ja, aber die Miete und die Nebenkosten sind teuer.",
+      "alt": [
+        "Magst du deine Wohnung? – Ja, aber die Miete und die Nebenkosten sind hoch."
+      ],
+      "difficulty": "hard",
+      "focus": "Miete / Nebenkosten"
+    },
+    {
+      "en": "The flat is furnished: there is a table in the kitchen and a bed in the bedroom.",
+      "de": "Die Wohnung ist möbliert: In der Küche steht ein Tisch und im Schlafzimmer steht ein Bett.",
+      "alt": [
+        "Die Wohnung ist möbliert: In der Küche ist ein Tisch und im Schlafzimmer ist ein Bett."
+      ],
+      "difficulty": "hard",
+      "focus": "möbliert"
+    },
+    {
+      "en": "His balcony is above the garden, and his children play under the balcony.",
+      "de": "Sein Balkon ist über dem Garten und seine Kinder spielen unter dem Balkon.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "über / unter (review)"
+    },
+    {
+      "en": "Lisa is moving on Saturday, and her brother is helping.",
+      "de": "Lisa zieht am Samstag um und ihr Bruder hilft.",
+      "alt": [
+        "Lisa zieht am Samstag um, und ihr Bruder hilft."
+      ],
+      "difficulty": "hard",
+      "focus": "umziehen / helfen (review)"
+    },
+    {
+      "en": "The house in Blumenstraße is small, but it has four rooms, two bathrooms and a garden.",
+      "de": "Das Haus in der Blumenstraße ist klein, aber es hat vier Zimmer, zwei Bäder und einen Garten.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "describing a house"
+    },
+    {
+      "en": "I find Ben's house cosy, but his street doesn't look so nice.",
+      "de": "Ich finde Bens Haus gemütlich, aber seine Straße sieht nicht so schön aus.",
+      "alt": [
+        "Bens Haus finde ich gemütlich, aber seine Straße sieht nicht so schön aus."
+      ],
+      "difficulty": "hard",
+      "focus": "genitive -s / aussehen"
+    },
+    {
+      "en": "The landlord is a company: it rents out the flat and gets the rent.",
+      "de": "Der Vermieter ist eine Firma: Sie vermietet die Wohnung und bekommt die Miete.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "der Vermieter"
+    },
+    {
+      "en": "Our flat is in the city centre between the post office and the bank, on the second floor.",
+      "de": "Unsere Wohnung ist im Zentrum zwischen der Post und der Bank, im zweiten Stock.",
+      "alt": [
+        "Unsere Wohnung ist in der Stadtmitte zwischen der Post und der Bank, im zweiten Stock."
+      ],
+      "difficulty": "hard",
+      "focus": "zwischen + dative (review)"
+    },
+    {
+      "en": "Where is Anna's bike? – Her bike is in the cellar behind the stairs.",
+      "de": "Wo ist Annas Fahrrad? – Ihr Fahrrad steht im Keller hinter der Treppe.",
+      "alt": [
+        "Wo ist Annas Fahrrad? – Ihr Fahrrad ist im Keller hinter der Treppe."
+      ],
+      "difficulty": "hard",
+      "focus": "genitive -s / ihr"
+    },
+    {
+      "en": "Paul likes his garden very much, but his wife loves her balcony.",
+      "de": "Paul mag seinen Garten sehr, aber seine Frau liebt ihren Balkon.",
+      "alt": [
+        "Seinen Garten mag Paul sehr, aber seine Frau liebt ihren Balkon."
+      ],
+      "difficulty": "hard",
+      "focus": "seinen / ihren"
+    },
+    {
+      "en": "Excuse me, where is Blumenstraße? I'm looking for number 12.",
+      "de": "Entschuldigung, wo ist die Blumenstraße? Ich suche die Nummer 12.",
+      "alt": [
+        "Entschuldigen Sie, wo ist die Blumenstraße? Ich suche Nummer 12."
+      ],
+      "difficulty": "hard",
+      "focus": "asking the way (review)"
+    },
+    {
+      "en": "The flat is 32 square metres: a living and sleeping room plus a kitchen.",
+      "de": "Die Wohnung hat 32 Quadratmeter: einen Wohn- und Schlafraum plus Küche.",
+      "alt": [
+        "Die Wohnung ist 32 Quadratmeter groß: ein Wohn- und Schlafraum plus Küche."
+      ],
+      "difficulty": "hard",
+      "focus": "flat adverts"
+    },
+    {
+      "en": "My dream house has a garden with lots of trees and a balcony.",
+      "de": "Mein Traumhaus hat einen Garten mit vielen Bäumen und einen Balkon.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "describing a house"
+    },
+    {
+      "en": "Take the second street on the left, then you'll see Otto's house next to a café. [formal]",
+      "de": "Fahren Sie die zweite Straße links, dann sehen Sie Ottos Haus neben einem Café.",
+      "alt": [
+        "Nehmen Sie die zweite Straße links, dann sehen Sie Ottos Haus neben einem Café."
+      ],
+      "difficulty": "hard",
+      "focus": "directions (review)"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "big and elegant",
+      "de": "groß und elegant",
+      "alt": [],
+      "focus": "describing a house",
+      "note": ""
+    },
+    {
+      "en": "small and cosy",
+      "de": "klein und gemütlich",
+      "alt": [],
+      "focus": "describing a house",
+      "note": ""
+    },
+    {
+      "en": "Otto's house",
+      "de": "Ottos Haus",
+      "alt": [
+        "das Haus von Otto"
+      ],
+      "focus": "genitive -s with names",
+      "note": ""
+    },
+    {
+      "en": "Vanilla's garden",
+      "de": "Vanillas Garten",
+      "alt": [
+        "der Garten von Vanilla"
+      ],
+      "focus": "genitive -s with names",
+      "note": ""
+    },
+    {
+      "en": "his balcony",
+      "de": "sein Balkon",
+      "alt": [],
+      "focus": "sein",
+      "note": ""
+    },
+    {
+      "en": "her garage",
+      "de": "ihre Garage",
+      "alt": [],
+      "focus": "ihr",
+      "note": ""
+    },
+    {
+      "en": "his children",
+      "de": "seine Kinder",
+      "alt": [],
+      "focus": "sein",
+      "note": ""
+    },
+    {
+      "en": "I like his garden.",
+      "de": "Ich mag seinen Garten.",
+      "alt": [
+        "Seinen Garten mag ich."
+      ],
+      "focus": "seinen",
+      "note": ""
+    },
+    {
+      "en": "I like her house.",
+      "de": "Ich mag ihr Haus.",
+      "alt": [
+        "Ihr Haus mag ich."
+      ],
+      "focus": "ihr",
+      "note": ""
+    },
+    {
+      "en": "How do you like the house? [informal]",
+      "de": "Wie findest du das Haus?",
+      "alt": [],
+      "focus": "rating",
+      "note": ""
+    },
+    {
+      "en": "I find it interesting.",
+      "de": "Ich finde es interessant.",
+      "alt": [
+        "Ich finde das interessant."
+      ],
+      "focus": "rating",
+      "note": ""
+    },
+    {
+      "en": "I particularly like his kitchen.",
+      "de": "Seine Küche mag ich besonders.",
+      "alt": [
+        "Ich mag seine Küche besonders."
+      ],
+      "focus": "rating",
+      "note": ""
+    },
+    {
+      "en": "I don't like that at all.",
+      "de": "Das mag ich gar nicht.",
+      "alt": [
+        "Ich mag das gar nicht."
+      ],
+      "focus": "rating",
+      "note": ""
+    },
+    {
+      "en": "I don't like that so much.",
+      "de": "Das mag ich nicht so.",
+      "alt": [
+        "Ich mag das nicht so."
+      ],
+      "focus": "rating",
+      "note": ""
+    },
+    {
+      "en": "It looks great.",
+      "de": "Das sieht toll aus.",
+      "alt": [
+        "Es sieht toll aus."
+      ],
+      "focus": "aussehen",
+      "note": ""
+    },
+    {
+      "en": "It doesn't look so nice.",
+      "de": "Das sieht nicht so schön aus.",
+      "alt": [
+        "Es sieht nicht so schön aus."
+      ],
+      "focus": "aussehen",
+      "note": ""
+    },
+    {
+      "en": "on the ground floor",
+      "de": "im Erdgeschoss",
+      "alt": [],
+      "focus": "floors",
+      "note": ""
+    },
+    {
+      "en": "on the first floor",
+      "de": "im ersten Stock",
+      "alt": [],
+      "focus": "floors",
+      "note": ""
+    },
+    {
+      "en": "in the cellar",
+      "de": "im Keller",
+      "alt": [],
+      "focus": "floors",
+      "note": ""
+    },
+    {
+      "en": "up there",
+      "de": "da oben",
+      "alt": [
+        "oben"
+      ],
+      "focus": "position",
+      "note": ""
+    },
+    {
+      "en": "back there",
+      "de": "da hinten",
+      "alt": [
+        "hinten"
+      ],
+      "focus": "position",
+      "note": ""
+    },
+    {
+      "en": "here at the front on the left",
+      "de": "hier vorne links",
+      "alt": [
+        "hier vorn links"
+      ],
+      "focus": "position",
+      "note": ""
+    },
+    {
+      "en": "next to the house",
+      "de": "neben dem Haus",
+      "alt": [],
+      "focus": "neben + dative",
+      "note": ""
+    },
+    {
+      "en": "The house has seven rooms.",
+      "de": "Das Haus hat sieben Zimmer.",
+      "alt": [],
+      "focus": "describing a house",
+      "note": ""
+    },
+    {
+      "en": "The bathroom has no window.",
+      "de": "Das Bad hat kein Fenster.",
+      "alt": [],
+      "focus": "describing a flat",
+      "note": ""
+    },
+    {
+      "en": "a two-room flat",
+      "de": "eine Zwei-Zimmer-Wohnung",
+      "alt": [
+        "eine 2-Zimmer-Wohnung"
+      ],
+      "focus": "flat adverts",
+      "note": ""
+    },
+    {
+      "en": "54 square metres",
+      "de": "54 Quadratmeter",
+      "alt": [],
+      "focus": "flat adverts",
+      "note": ""
+    },
+    {
+      "en": "plus service charges",
+      "de": "plus Nebenkosten",
+      "alt": [],
+      "focus": "flat adverts",
+      "note": ""
+    },
+    {
+      "en": "including service charges",
+      "de": "inklusive Nebenkosten",
+      "alt": [
+        "inkl. Nebenkosten"
+      ],
+      "focus": "flat adverts",
+      "note": ""
+    },
+    {
+      "en": "available immediately",
+      "de": "sofort frei",
+      "alt": [],
+      "focus": "flat adverts",
+      "note": ""
+    },
+    {
+      "en": "furnished",
+      "de": "möbliert",
+      "alt": [],
+      "focus": "flat adverts",
+      "note": ""
+    },
+    {
+      "en": "the monthly rent",
+      "de": "die Monatsmiete",
+      "alt": [
+        "die Miete im Monat"
+      ],
+      "focus": "flat adverts",
+      "note": ""
+    },
+    {
+      "en": "to look for a flat",
+      "de": "eine Wohnung suchen",
+      "alt": [],
+      "focus": "flat adverts",
+      "note": ""
+    },
+    {
+      "en": "to offer a house",
+      "de": "ein Haus anbieten",
+      "alt": [],
+      "focus": "flat adverts",
+      "note": ""
+    },
+    {
+      "en": "the landlord",
+      "de": "der Vermieter",
+      "alt": [],
+      "focus": "flat adverts",
+      "note": ""
+    },
+    {
+      "en": "with a lift",
+      "de": "mit Aufzug",
+      "alt": [
+        "mit einem Aufzug"
+      ],
+      "focus": "flat adverts",
+      "note": ""
+    },
+    {
+      "en": "a parking space in the underground car park",
+      "de": "ein Stellplatz in der Tiefgarage",
+      "alt": [],
+      "focus": "flat adverts",
+      "note": ""
+    },
+    {
+      "en": "a kitchen with a fridge and cooker",
+      "de": "eine Küche mit Kühlschrank und Herd",
+      "alt": [],
+      "focus": "flat adverts",
+      "note": ""
+    },
+    {
+      "en": "I've moved.",
+      "de": "Ich bin umgezogen.",
+      "alt": [],
+      "focus": "writing about a new flat",
+      "note": ""
+    },
+    {
+      "en": "My flat is 55 square metres.",
+      "de": "Meine Wohnung ist 55 Quadratmeter groß.",
+      "alt": [
+        "Meine Wohnung hat 55 Quadratmeter."
+      ],
+      "focus": "writing about a new flat",
+      "note": ""
+    },
+    {
+      "en": "The kitchen is great.",
+      "de": "Die Küche ist toll.",
+      "alt": [
+        "Toll ist die Küche."
+      ],
+      "focus": "writing about a new flat",
+      "note": ""
+    },
+    {
+      "en": "Unfortunately the flat has no balcony.",
+      "de": "Leider hat die Wohnung keinen Balkon.",
+      "alt": [
+        "Die Wohnung hat leider keinen Balkon."
+      ],
+      "focus": "writing about a new flat",
+      "note": ""
+    },
+    {
+      "en": "Dear Anna,",
+      "de": "Liebe Anna,",
+      "alt": [],
+      "focus": "email greetings",
+      "note": ""
+    },
+    {
+      "en": "Dear Tom,",
+      "de": "Lieber Tom,",
+      "alt": [],
+      "focus": "email greetings",
+      "note": ""
+    },
+    {
+      "en": "Kind regards",
+      "de": "Herzliche Grüße",
+      "alt": [
+        "Liebe Grüße",
+        "Viele Grüße"
+      ],
+      "focus": "email greetings",
+      "note": "All three are common ways to end an informal email."
+    },
+    {
+      "en": "single, no children",
+      "de": "Single, keine Kinder",
+      "alt": [],
+      "focus": "family status",
+      "note": ""
+    },
+    {
+      "en": "divorced",
+      "de": "geschieden",
+      "alt": [],
+      "focus": "family status",
+      "note": ""
+    },
+    {
+      "en": "his neighbour [female]",
+      "de": "seine Nachbarin",
+      "alt": [],
+      "focus": "sein",
+      "note": ""
+    },
+    {
+      "en": "What about Otto's wife?",
+      "de": "Was ist denn mit Ottos Frau?",
+      "alt": [
+        "Was ist mit Ottos Frau?"
+      ],
+      "focus": "genitive -s with names",
+      "note": ""
+    },
+    {
+      "en": "in the garden",
+      "de": "im Garten",
+      "alt": [],
+      "focus": "in dem = im",
+      "note": ""
+    }
+  ],
+  "text": {
+    "title": "My new flat",
+    "en": "Dear Jonas,\n\nI've moved! My new flat is in the city centre, near the station. It is 60 square metres and costs 650 euros plus service charges.\n\nThe flat has two rooms, a kitchen and a bathroom. The living room is really great: it has a balcony and three windows. Unfortunately the bathroom has no window.\n\nMy neighbour Sara lives on the ground floor. Her flat is small, but her garden is beautiful. Her son is funny, and I really like his dog.\n\nMany greetings\nMia",
+    "de": "Lieber Jonas,\n\nich bin umgezogen! Meine neue Wohnung ist in der Stadtmitte, in der Nähe vom Bahnhof. Sie ist 60 Quadratmeter groß und kostet 650 Euro plus Nebenkosten.\n\nDie Wohnung hat zwei Zimmer, eine Küche und ein Bad. Das Wohnzimmer ist wirklich toll: Es hat einen Balkon und drei Fenster. Leider hat das Bad kein Fenster.\n\nMeine Nachbarin Sara wohnt im Erdgeschoss. Ihre Wohnung ist klein, aber ihr Garten ist schön. Ihr Sohn ist lustig und seinen Hund mag ich sehr.\n\nViele Grüße\nMia"
+  }
+}

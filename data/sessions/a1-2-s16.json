@@ -1,0 +1,1464 @@
+{
+  "id": "a1-2-s16",
+  "level": "A1.2",
+  "number": 16,
+  "title": "Problems in the hotel",
+  "createdAt": "2026-09-16",
+  "content": {
+    "topics": [
+      "problems in the hotel",
+      "asking for and offering help",
+      "making and postponing appointments",
+      "apologies"
+    ],
+    "vocabulary": [
+      {
+        "de": "der Aufzug, -¨e",
+        "en": "lift"
+      },
+      {
+        "de": "die Klimaanlage, -n",
+        "en": "air conditioning"
+      },
+      {
+        "de": "die Heizung, -en",
+        "en": "heating"
+      },
+      {
+        "de": "der Fernseher, -",
+        "en": "TV"
+      },
+      {
+        "de": "das Radio, -s",
+        "en": "radio"
+      },
+      {
+        "de": "die Internetverbindung, -en",
+        "en": "internet connection"
+      },
+      {
+        "de": "das Licht, -er",
+        "en": "light"
+      },
+      {
+        "de": "die Seife, -n",
+        "en": "soap"
+      },
+      {
+        "de": "das Handtuch, -¨er",
+        "en": "towel"
+      },
+      {
+        "de": "der Bademantel, -¨",
+        "en": "bathrobe"
+      },
+      {
+        "de": "der Föhn, -e",
+        "en": "hairdryer"
+      },
+      {
+        "de": "der Wecker, -",
+        "en": "alarm clock"
+      },
+      {
+        "de": "das Telefon, -e",
+        "en": "telephone"
+      },
+      {
+        "de": "die Dusche, -n",
+        "en": "shower"
+      },
+      {
+        "de": "das Wasser",
+        "en": "water"
+      },
+      {
+        "de": "der Gast, -¨e",
+        "en": "guest"
+      },
+      {
+        "de": "der Techniker, -",
+        "en": "technician"
+      },
+      {
+        "de": "die Firma, Firmen",
+        "en": "company"
+      },
+      {
+        "de": "feststecken / stecken bleiben",
+        "en": "to be stuck / to get stuck"
+      },
+      {
+        "de": "funktionieren",
+        "en": "to work, to function"
+      },
+      {
+        "de": "kaputt",
+        "en": "broken"
+      },
+      {
+        "de": "reparieren",
+        "en": "to repair"
+      },
+      {
+        "de": "anmachen / ausmachen",
+        "en": "to turn on / to turn off"
+      },
+      {
+        "de": "schicken",
+        "en": "to send"
+      },
+      {
+        "de": "sich kümmern um",
+        "en": "to take care of"
+      },
+      {
+        "de": "der Termin, -e",
+        "en": "appointment"
+      },
+      {
+        "de": "vereinbaren",
+        "en": "to arrange"
+      },
+      {
+        "de": "verschieben",
+        "en": "to postpone"
+      },
+      {
+        "de": "absagen",
+        "en": "to cancel"
+      },
+      {
+        "de": "die Sitzung, -en",
+        "en": "meeting"
+      },
+      {
+        "de": "die Geschäftsreise, -n",
+        "en": "business trip"
+      },
+      {
+        "de": "der Urlaub, -e",
+        "en": "holiday"
+      },
+      {
+        "de": "der Tanzkurs, -e",
+        "en": "dance course"
+      },
+      {
+        "de": "pünktlich",
+        "en": "on time"
+      },
+      {
+        "de": "wahrscheinlich",
+        "en": "probably"
+      },
+      {
+        "de": "Bescheid sagen",
+        "en": "to let someone know"
+      },
+      {
+        "de": "genervt",
+        "en": "annoyed"
+      },
+      {
+        "de": "Angst haben",
+        "en": "to be afraid"
+      },
+      {
+        "de": "die Entschuldigung, -en",
+        "en": "apology, excuse"
+      },
+      {
+        "de": "zu spät kommen",
+        "en": "to be late"
+      },
+      {
+        "de": "seltsam",
+        "en": "strange"
+      },
+      {
+        "de": "dumm",
+        "en": "stupid"
+      }
+    ],
+    "grammar": [
+      {
+        "name": "Temporal prepositions vor, nach, in + dative (Wann?)",
+        "explanation": "vor = before, nach = after (a point in time), in = in (time from now). All three take the dative.",
+        "examples": [
+          "vor dem Kurs",
+          "nach der Uni",
+          "in einer Stunde",
+          "in zwei Wochen"
+        ]
+      },
+      {
+        "name": "für + accusative (Wie lange?)",
+        "explanation": "für says how long something lasts and takes the accusative.",
+        "examples": [
+          "für einen Tag",
+          "für ein Jahr",
+          "für eine Woche",
+          "für zwei Wochen"
+        ]
+      },
+      {
+        "name": "Asking for and offering help",
+        "explanation": "Polite requests use Können Sie ...? Offers use Was kann ich für Sie tun? or Kann ich Ihnen helfen?",
+        "examples": [
+          "Können Sie einen Techniker schicken?",
+          "Ich kümmere mich sofort darum."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "de": "Wir haben hier ein Problem.",
+        "en": "We have a problem here."
+      },
+      {
+        "de": "Was kann ich für Sie tun?",
+        "en": "What can I do for you?"
+      },
+      {
+        "de": "Ich kümmere mich sofort darum.",
+        "en": "I'll take care of it right away."
+      },
+      {
+        "de": "Können wir den Termin verschieben?",
+        "en": "Can we postpone the appointment?"
+      },
+      {
+        "de": "Passt es dir am ...?",
+        "en": "Does ... suit you?"
+      },
+      {
+        "de": "Kein Problem! / Das macht doch nichts.",
+        "en": "No problem! / That doesn't matter."
+      },
+      {
+        "de": "Schade. / Wie dumm!",
+        "en": "What a pity. / How stupid!"
+      },
+      {
+        "de": "Seltsam. / Ach, wirklich?",
+        "en": "Strange. / Oh, really?"
+      }
+    ]
+  },
+  "sentences": [
+    {
+      "en": "The heating isn't working.",
+      "de": "Die Heizung funktioniert nicht.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "funktionieren"
+    },
+    {
+      "en": "The lift is stuck.",
+      "de": "Der Aufzug steckt fest.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "feststecken"
+    },
+    {
+      "en": "The TV is broken.",
+      "de": "Der Fernseher ist kaputt.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "kaputt"
+    },
+    {
+      "en": "What can I do for you? [formal]",
+      "de": "Was kann ich für Sie tun?",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "offering help"
+    },
+    {
+      "en": "How can I help you? [formal]",
+      "de": "Wie kann ich Ihnen helfen?",
+      "alt": [
+        "Kann ich Ihnen helfen?"
+      ],
+      "difficulty": "easy",
+      "focus": "offering help"
+    },
+    {
+      "en": "We need your help. [formal]",
+      "de": "Wir brauchen Ihre Hilfe.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "asking for help"
+    },
+    {
+      "en": "I'll take care of it right away.",
+      "de": "Ich kümmere mich sofort darum.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "sich kümmern um"
+    },
+    {
+      "en": "I'm coming right away.",
+      "de": "Ich komme sofort.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "offering help"
+    },
+    {
+      "en": "Can you turn off the air conditioning? [formal]",
+      "de": "Können Sie die Klimaanlage ausmachen?",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "ausmachen"
+    },
+    {
+      "en": "The technician is coming in an hour.",
+      "de": "Der Techniker kommt in einer Stunde.",
+      "alt": [
+        "In einer Stunde kommt der Techniker."
+      ],
+      "difficulty": "easy",
+      "focus": "in + dative"
+    },
+    {
+      "en": "I'm going on holiday in two weeks.",
+      "de": "In zwei Wochen fahre ich in Urlaub.",
+      "alt": [
+        "Ich fahre in zwei Wochen in Urlaub.",
+        "In zwei Wochen fahre ich in den Urlaub."
+      ],
+      "difficulty": "easy",
+      "focus": "in zwei Wochen"
+    },
+    {
+      "en": "We'll eat before the course.",
+      "de": "Wir essen vor dem Kurs.",
+      "alt": [
+        "Vor dem Kurs essen wir."
+      ],
+      "difficulty": "easy",
+      "focus": "vor + dative"
+    },
+    {
+      "en": "After university I'm going home.",
+      "de": "Nach der Uni gehe ich nach Hause.",
+      "alt": [
+        "Ich gehe nach der Uni nach Hause."
+      ],
+      "difficulty": "easy",
+      "focus": "nach + dative"
+    },
+    {
+      "en": "I'm on holiday for a week.",
+      "de": "Ich bin für eine Woche im Urlaub.",
+      "alt": [
+        "Ich bin eine Woche im Urlaub."
+      ],
+      "difficulty": "easy",
+      "focus": "für + accusative"
+    },
+    {
+      "en": "He's in Berlin for a day.",
+      "de": "Er ist für einen Tag in Berlin.",
+      "alt": [
+        "Er ist einen Tag in Berlin."
+      ],
+      "difficulty": "easy",
+      "focus": "für einen Tag"
+    },
+    {
+      "en": "There's no soap.",
+      "de": "Es gibt keine Seife.",
+      "alt": [
+        "Da ist keine Seife."
+      ],
+      "difficulty": "easy",
+      "focus": "hotel problems"
+    },
+    {
+      "en": "The shower doesn't work.",
+      "de": "Die Dusche funktioniert nicht.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "funktionieren"
+    },
+    {
+      "en": "Can you send a technician? [formal]",
+      "de": "Können Sie einen Techniker schicken?",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "asking for help"
+    },
+    {
+      "en": "Unfortunately I can't come tonight.",
+      "de": "Leider kann ich heute Abend nicht kommen.",
+      "alt": [
+        "Ich kann heute Abend leider nicht kommen."
+      ],
+      "difficulty": "easy",
+      "focus": "cancelling"
+    },
+    {
+      "en": "Can we postpone the appointment?",
+      "de": "Können wir den Termin verschieben?",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "verschieben"
+    },
+    {
+      "en": "Does Saturday suit you? [informal]",
+      "de": "Passt dir Samstag?",
+      "alt": [
+        "Passt es dir am Samstag?",
+        "Passt dir der Samstag?"
+      ],
+      "difficulty": "easy",
+      "focus": "passen"
+    },
+    {
+      "en": "Do you feel like it? [informal]",
+      "de": "Hast du Lust?",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "Lust haben"
+    },
+    {
+      "en": "That doesn't matter at all.",
+      "de": "Das macht doch nichts.",
+      "alt": [
+        "Das macht nichts."
+      ],
+      "difficulty": "easy",
+      "focus": "reacting to apologies"
+    },
+    {
+      "en": "What a pity! Now the food is cold.",
+      "de": "Schade! Jetzt ist das Essen kalt.",
+      "alt": [
+        "Wie dumm! Jetzt ist das Essen kalt."
+      ],
+      "difficulty": "easy",
+      "focus": "reacting to apologies"
+    },
+    {
+      "en": "Sorry, my watch is broken.",
+      "de": "Tut mir leid, meine Uhr ist kaputt.",
+      "alt": [
+        "Entschuldigung, meine Uhr ist kaputt."
+      ],
+      "difficulty": "easy",
+      "focus": "apologising"
+    },
+    {
+      "en": "Strange! Now your watch is working. [informal]",
+      "de": "Seltsam! Jetzt funktioniert deine Uhr.",
+      "alt": [
+        "Seltsam! Jetzt geht deine Uhr."
+      ],
+      "difficulty": "easy",
+      "focus": "reacting to apologies"
+    },
+    {
+      "en": "The hairdryer is in the bathroom.",
+      "de": "Der Föhn ist im Bad.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "im (review)"
+    },
+    {
+      "en": "There is a towel on the bed.",
+      "de": "Auf dem Bett liegt ein Handtuch.",
+      "alt": [
+        "Ein Handtuch liegt auf dem Bett."
+      ],
+      "difficulty": "easy",
+      "focus": "auf + dative (review)"
+    },
+    {
+      "en": "The internet connection is very slow.",
+      "de": "Die Internetverbindung ist sehr langsam.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "hotel problems"
+    },
+    {
+      "en": "The light in the room doesn't work.",
+      "de": "Das Licht im Zimmer funktioniert nicht.",
+      "alt": [
+        "Im Zimmer funktioniert das Licht nicht."
+      ],
+      "difficulty": "easy",
+      "focus": "funktionieren"
+    },
+    {
+      "en": "My alarm clock is broken.",
+      "de": "Mein Wecker ist kaputt.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "kaputt"
+    },
+    {
+      "en": "The guests are waiting in the lift.",
+      "de": "Die Gäste warten im Aufzug.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "hotel problems"
+    },
+    {
+      "en": "The two of them are annoyed.",
+      "de": "Die beiden sind genervt.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "genervt"
+    },
+    {
+      "en": "Are you afraid? [informal]",
+      "de": "Hast du Angst?",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "Angst haben"
+    },
+    {
+      "en": "I'm coming in half an hour.",
+      "de": "Ich komme in einer halben Stunde.",
+      "alt": [
+        "In einer halben Stunde komme ich."
+      ],
+      "difficulty": "easy",
+      "focus": "in einer halben Stunde"
+    },
+    {
+      "en": "Excuse me, the heating isn't working. Can you send a technician? [formal]",
+      "de": "Entschuldigen Sie, die Heizung funktioniert nicht. Können Sie einen Techniker schicken?",
+      "alt": [
+        "Entschuldigung, die Heizung funktioniert nicht. Können Sie einen Techniker schicken?"
+      ],
+      "difficulty": "medium",
+      "focus": "asking for help"
+    },
+    {
+      "en": "We have a problem here: the lift is stuck.",
+      "de": "Wir haben hier ein Problem: Der Aufzug steckt fest.",
+      "alt": [
+        "Wir haben ein Problem hier: Der Aufzug steckt fest."
+      ],
+      "difficulty": "medium",
+      "focus": "describing a problem"
+    },
+    {
+      "en": "I can't repair it myself; only the lift company can do that.",
+      "de": "Ich kann das nicht selbst reparieren, das kann nur die Aufzugfirma.",
+      "alt": [
+        "Ich kann das nicht selbst reparieren, das kann nur die Aufzugfirma machen."
+      ],
+      "difficulty": "medium",
+      "focus": "reparieren"
+    },
+    {
+      "en": "Can you turn off the air conditioning? It's very cold here. [formal]",
+      "de": "Können Sie die Klimaanlage ausmachen? Es ist sehr kalt hier.",
+      "alt": [
+        "Können Sie bitte die Klimaanlage ausmachen? Es ist hier sehr kalt."
+      ],
+      "difficulty": "medium",
+      "focus": "ausmachen"
+    },
+    {
+      "en": "On Tuesday I'm not going to the café after university.",
+      "de": "Am Dienstag gehe ich nach der Uni nicht ins Café.",
+      "alt": [
+        "Ich gehe am Dienstag nach der Uni nicht ins Café."
+      ],
+      "difficulty": "medium",
+      "focus": "nach der Uni"
+    },
+    {
+      "en": "We can eat together before the dance course.",
+      "de": "Wir können vor dem Tanzkurs zusammen essen.",
+      "alt": [
+        "Vor dem Tanzkurs können wir zusammen essen."
+      ],
+      "difficulty": "medium",
+      "focus": "vor dem Tanzkurs"
+    },
+    {
+      "en": "From Wednesday to Friday I'm on a business trip.",
+      "de": "Von Mittwoch bis Freitag bin ich auf Geschäftsreise.",
+      "alt": [
+        "Ich bin von Mittwoch bis Freitag auf Geschäftsreise."
+      ],
+      "difficulty": "medium",
+      "focus": "auf Geschäftsreise"
+    },
+    {
+      "en": "From Monday I'm on holiday for a week.",
+      "de": "Ab Montag bin ich für eine Woche im Urlaub.",
+      "alt": [
+        "Ab Montag bin ich eine Woche im Urlaub."
+      ],
+      "difficulty": "medium",
+      "focus": "für eine Woche"
+    },
+    {
+      "en": "I'm stuck in the lift and can't make it to the meeting on time.",
+      "de": "Ich stecke im Aufzug fest und schaffe es nicht pünktlich zur Sitzung.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "pünktlich"
+    },
+    {
+      "en": "The technician is coming in half an hour.",
+      "de": "In einer halben Stunde kommt der Techniker.",
+      "alt": [
+        "Der Techniker kommt in einer halben Stunde."
+      ],
+      "difficulty": "medium",
+      "focus": "in + dative"
+    },
+    {
+      "en": "Can you please let him know? [formal]",
+      "de": "Sagen Sie ihm bitte Bescheid?",
+      "alt": [
+        "Können Sie ihm bitte Bescheid sagen?"
+      ],
+      "difficulty": "medium",
+      "focus": "Bescheid sagen (+ ihm)"
+    },
+    {
+      "en": "I'd like to postpone the appointment. Can you make Thursday? [formal]",
+      "de": "Ich möchte den Termin verschieben. Können Sie am Donnerstag?",
+      "alt": [
+        "Ich möchte den Termin verschieben. Haben Sie am Donnerstag Zeit?"
+      ],
+      "difficulty": "medium",
+      "focus": "verschieben"
+    },
+    {
+      "en": "Unfortunately I can't come to the cinema after all.",
+      "de": "Ich kann leider doch nicht ins Kino kommen.",
+      "alt": [
+        "Leider kann ich doch nicht ins Kino kommen.",
+        "Ich kann doch nicht ins Kino kommen."
+      ],
+      "difficulty": "medium",
+      "focus": "doch nicht"
+    },
+    {
+      "en": "Shall we go to the cinema on Friday? Do you feel like it? [informal]",
+      "de": "Wollen wir am Freitag ins Kino gehen? Hast du Lust?",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "making an appointment"
+    },
+    {
+      "en": "I had problems with the internet and didn't work today.",
+      "de": "Ich hatte Probleme mit dem Internet und habe heute nicht gearbeitet.",
+      "alt": [
+        "Ich hatte Probleme mit dem Internet. Ich habe heute nicht gearbeitet."
+      ],
+      "difficulty": "medium",
+      "focus": "hatte / Perfekt"
+    },
+    {
+      "en": "Sorry, I'm half an hour late.",
+      "de": "Entschuldigung, ich komme eine halbe Stunde zu spät.",
+      "alt": [
+        "Tut mir leid, ich komme eine halbe Stunde zu spät."
+      ],
+      "difficulty": "medium",
+      "focus": "zu spät kommen"
+    },
+    {
+      "en": "Sorry, I didn't find your street. [informal]",
+      "de": "Entschuldigung, ich habe deine Straße nicht gefunden.",
+      "alt": [
+        "Tut mir leid, ich habe deine Straße nicht gefunden."
+      ],
+      "difficulty": "medium",
+      "focus": "apologising"
+    },
+    {
+      "en": "Oh, really? Now your navigation system is working again. [informal]",
+      "de": "Ach, wirklich? Jetzt funktioniert dein Navi wieder.",
+      "alt": [
+        "Ach wirklich? Jetzt funktioniert dein Navigator wieder."
+      ],
+      "difficulty": "medium",
+      "focus": "reacting to apologies"
+    },
+    {
+      "en": "The hotel guests don't just wait, they call for help.",
+      "de": "Die Hotelgäste warten nicht, sie rufen Hilfe.",
+      "alt": [
+        "Die Hotelgäste warten nicht, sie rufen um Hilfe."
+      ],
+      "difficulty": "medium",
+      "focus": "Hilfe rufen"
+    },
+    {
+      "en": "There's no towel and no soap in my room.",
+      "de": "In meinem Zimmer gibt es kein Handtuch und keine Seife.",
+      "alt": [
+        "Es gibt kein Handtuch und keine Seife in meinem Zimmer."
+      ],
+      "difficulty": "medium",
+      "focus": "hotel problems"
+    },
+    {
+      "en": "A phone isn't so important to me, I always have my mobile with me.",
+      "de": "Ein Telefon ist mir nicht so wichtig, ich habe mein Handy immer dabei.",
+      "alt": [
+        "Ein Telefon finde ich nicht so wichtig, ich nehme mein Handy immer mit."
+      ],
+      "difficulty": "medium",
+      "focus": "wichtig / mir (review)"
+    },
+    {
+      "en": "Before the meeting I need a coffee.",
+      "de": "Vor der Sitzung brauche ich einen Kaffee.",
+      "alt": [
+        "Ich brauche vor der Sitzung einen Kaffee."
+      ],
+      "difficulty": "medium",
+      "focus": "vor der Sitzung"
+    },
+    {
+      "en": "After the meetings we go for lunch together.",
+      "de": "Nach den Sitzungen gehen wir zusammen essen.",
+      "alt": [
+        "Wir gehen nach den Sitzungen zusammen essen."
+      ],
+      "difficulty": "medium",
+      "focus": "nach + dative plural"
+    },
+    {
+      "en": "In a month I'm moving to Berlin.",
+      "de": "In einem Monat ziehe ich nach Berlin um.",
+      "alt": [
+        "Ich ziehe in einem Monat nach Berlin um."
+      ],
+      "difficulty": "medium",
+      "focus": "in einem Monat / umziehen (review)"
+    },
+    {
+      "en": "She's staying in Vienna for a year.",
+      "de": "Sie bleibt für ein Jahr in Wien.",
+      "alt": [
+        "Sie bleibt ein Jahr in Wien."
+      ],
+      "difficulty": "medium",
+      "focus": "für ein Jahr"
+    },
+    {
+      "en": "The bathrobe and the hairdryer are next to the shower.",
+      "de": "Der Bademantel und der Föhn sind neben der Dusche.",
+      "alt": [
+        "Der Bademantel und der Föhn liegen neben der Dusche."
+      ],
+      "difficulty": "medium",
+      "focus": "neben + dative (review)"
+    },
+    {
+      "en": "Who would you like to get stuck in a lift with? [formal]",
+      "de": "Mit wem möchten Sie im Aufzug stecken bleiben?",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "stecken bleiben"
+    },
+    {
+      "en": "Does the weekend suit you? [informal]",
+      "de": "Passt es dir am Wochenende?",
+      "alt": [
+        "Passt dir das Wochenende?"
+      ],
+      "difficulty": "medium",
+      "focus": "passen"
+    },
+    {
+      "en": "The music is too loud, can you turn it off, please? [formal]",
+      "de": "Die Musik ist zu laut, können Sie sie bitte ausmachen?",
+      "alt": [
+        "Die Musik ist zu laut. Können Sie sie bitte ausmachen?"
+      ],
+      "difficulty": "medium",
+      "focus": "ausmachen"
+    },
+    {
+      "en": "The radio belongs to my neighbour, not to me.",
+      "de": "Das Radio gehört meinem Nachbarn, nicht mir.",
+      "alt": [
+        "Das Radio gehört meiner Nachbarin, nicht mir."
+      ],
+      "difficulty": "medium",
+      "focus": "gehören (review)"
+    },
+    {
+      "en": "I'm going away for two weeks and I'm not taking my laptop.",
+      "de": "Ich verreise für zwei Wochen und nehme meinen Laptop nicht mit.",
+      "alt": [
+        "Ich reise für zwei Wochen weg und nehme meinen Laptop nicht mit.",
+        "Ich verreise zwei Wochen und nehme meinen Laptop nicht mit."
+      ],
+      "difficulty": "medium",
+      "focus": "für zwei Wochen"
+    },
+    {
+      "en": "Unfortunately I can't come on Tuesday. Can we meet on Thursday?",
+      "de": "Ich kann am Dienstag leider nicht kommen. Können wir uns am Donnerstag treffen?",
+      "alt": [
+        "Leider kann ich am Dienstag nicht kommen. Können wir uns am Donnerstag treffen?"
+      ],
+      "difficulty": "medium",
+      "focus": "postponing"
+    },
+    {
+      "en": "The guests on the second floor need help.",
+      "de": "Die Gäste im zweiten Stock brauchen Hilfe.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "im zweiten Stock (review)"
+    },
+    {
+      "en": "Mr Keller isn't coming to the meeting on time.",
+      "de": "Herr Keller kommt nicht pünktlich zur Sitzung.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "pünktlich"
+    },
+    {
+      "en": "The water in the shower is cold again.",
+      "de": "Das Wasser in der Dusche ist wieder kalt.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "hotel problems"
+    },
+    {
+      "en": "Two days before the holiday, Tom is ill.",
+      "de": "Zwei Tage vor dem Urlaub ist Tom krank.",
+      "alt": [
+        "Tom ist zwei Tage vor dem Urlaub krank."
+      ],
+      "difficulty": "medium",
+      "focus": "vor dem Urlaub"
+    },
+    {
+      "en": "After the course we can go to the café at the harbour.",
+      "de": "Nach dem Kurs können wir ins Café am Hafen gehen.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "nach dem Kurs"
+    },
+    {
+      "en": "Don't worry, I'll take care of the heating.",
+      "de": "Keine Sorge, ich kümmere mich um die Heizung.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "sich kümmern um"
+    },
+    {
+      "en": "We've been waiting in the lift for an hour.",
+      "de": "Wir warten seit einer Stunde im Aufzug.",
+      "alt": [
+        "Seit einer Stunde warten wir im Aufzug."
+      ],
+      "difficulty": "medium",
+      "focus": "seit + dative"
+    },
+    {
+      "en": "The internet doesn't work in his room.",
+      "de": "In seinem Zimmer funktioniert das Internet nicht.",
+      "alt": [
+        "Das Internet funktioniert in seinem Zimmer nicht."
+      ],
+      "difficulty": "medium",
+      "focus": "sein (review)"
+    },
+    {
+      "en": "Dear Martin, unfortunately I can't come tonight after all, because I had problems with the internet.",
+      "de": "Lieber Martin, leider kann ich heute Abend doch nicht kommen, denn ich hatte Probleme mit dem Internet.",
+      "alt": [
+        "Lieber Martin, ich kann heute Abend leider doch nicht kommen, denn ich hatte Probleme mit dem Internet."
+      ],
+      "difficulty": "hard",
+      "focus": "cancelling / denn"
+    },
+    {
+      "en": "From Wednesday to Friday I'm on a business trip, and from Monday I'm on holiday for a week.",
+      "de": "Von Mittwoch bis Freitag bin ich auf Geschäftsreise und ab Montag bin ich für eine Woche im Urlaub.",
+      "alt": [
+        "Von Mittwoch bis Freitag bin ich auf Geschäftsreise und ab Montag bin ich eine Woche im Urlaub."
+      ],
+      "difficulty": "hard",
+      "focus": "für eine Woche"
+    },
+    {
+      "en": "I'm stuck in the lift; the technician is coming in half an hour.",
+      "de": "Ich stecke im Aufzug fest, der Techniker kommt in einer halben Stunde.",
+      "alt": [
+        "Ich stecke im Aufzug fest. In einer halben Stunde kommt der Techniker."
+      ],
+      "difficulty": "hard",
+      "focus": "in + dative"
+    },
+    {
+      "en": "Before the dance course we can eat together, maybe around 6.30 pm?",
+      "de": "Vor dem Tanzkurs können wir noch zusammen essen, vielleicht so um 18.30 Uhr?",
+      "alt": [
+        "Vor dem Tanzkurs können wir zusammen essen, vielleicht um halb sieben?",
+        "Vor dem Tanzkurs können wir zusammen essen, vielleicht so um 18:30 Uhr?"
+      ],
+      "difficulty": "hard",
+      "focus": "vor + dative"
+    },
+    {
+      "en": "Excuse me, the TV is broken and the internet connection isn't working either.",
+      "de": "Entschuldigung, der Fernseher ist kaputt und die Internetverbindung funktioniert auch nicht.",
+      "alt": [
+        "Entschuldigen Sie, der Fernseher ist kaputt und die Internetverbindung funktioniert auch nicht."
+      ],
+      "difficulty": "hard",
+      "focus": "describing a problem"
+    },
+    {
+      "en": "I'm sorry, I can't repair the lift myself, but I'll call the company right away.",
+      "de": "Tut mir leid, ich kann den Aufzug nicht selbst reparieren, aber ich rufe sofort die Firma an.",
+      "alt": [
+        "Es tut mir leid, ich kann den Aufzug nicht selbst reparieren, aber ich rufe sofort die Firma an."
+      ],
+      "difficulty": "hard",
+      "focus": "offering help"
+    },
+    {
+      "en": "Sorry, I'm late. My navigation system doesn't work. – Strange! Now it works.",
+      "de": "Entschuldigung, ich komme zu spät. Mein Navi funktioniert nicht. – Seltsam! Jetzt funktioniert es.",
+      "alt": [
+        "Tut mir leid, ich komme zu spät. Mein Navi funktioniert nicht. – Seltsam! Jetzt funktioniert es."
+      ],
+      "difficulty": "hard",
+      "focus": "apologies"
+    },
+    {
+      "en": "We can't go to the cinema on Saturday. Can we postpone it to Sunday?",
+      "de": "Wir können am Samstag nicht ins Kino gehen. Können wir das auf Sonntag verschieben?",
+      "alt": [
+        "Am Samstag können wir nicht ins Kino gehen. Können wir es auf Sonntag verschieben?"
+      ],
+      "difficulty": "hard",
+      "focus": "verschieben"
+    },
+    {
+      "en": "In two weeks my sister is coming to Vienna for a month and staying with me.",
+      "de": "In zwei Wochen kommt meine Schwester für einen Monat nach Wien und wohnt bei mir.",
+      "alt": [
+        "Meine Schwester kommt in zwei Wochen für einen Monat nach Wien und wohnt bei mir."
+      ],
+      "difficulty": "hard",
+      "focus": "in + dative / für + accusative"
+    },
+    {
+      "en": "After work I'm going to the hotel next to the station; my room is on the third floor.",
+      "de": "Nach der Arbeit gehe ich ins Hotel neben dem Bahnhof, mein Zimmer ist im dritten Stock.",
+      "alt": [
+        "Nach der Arbeit gehe ich ins Hotel neben dem Bahnhof. Mein Zimmer ist im dritten Stock."
+      ],
+      "difficulty": "hard",
+      "focus": "nach der Arbeit (review)"
+    },
+    {
+      "en": "The guests in the lift are annoyed, but they aren't afraid.",
+      "de": "Die Gäste im Aufzug sind genervt, aber sie haben keine Angst.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "genervt / Angst haben"
+    },
+    {
+      "en": "Can you help us? The shower in our bathroom isn't working and the water is cold. [formal]",
+      "de": "Können Sie uns helfen? Die Dusche in unserem Bad funktioniert nicht und das Wasser ist kalt.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "asking for help"
+    },
+    {
+      "en": "Dear Ms Berger, I'm stuck in traffic and can't make it to the meeting on time.",
+      "de": "Sehr geehrte Frau Berger, ich stehe im Stau und schaffe es nicht pünktlich zur Sitzung.",
+      "alt": [
+        "Sehr geehrte Frau Berger, ich stecke im Stau und schaffe es nicht pünktlich zur Sitzung."
+      ],
+      "difficulty": "hard",
+      "focus": "formal email"
+    },
+    {
+      "en": "Before the holiday I'm working a lot, but after the holiday I'll have time for you. [informal]",
+      "de": "Vor dem Urlaub arbeite ich viel, aber nach dem Urlaub habe ich Zeit für dich.",
+      "alt": [
+        "Ich arbeite vor dem Urlaub viel, aber nach dem Urlaub habe ich Zeit für dich."
+      ],
+      "difficulty": "hard",
+      "focus": "vor / nach + dative"
+    },
+    {
+      "en": "The hairdryer in his room is broken, and he's annoyed because he has a meeting in an hour.",
+      "de": "Der Föhn in seinem Zimmer ist kaputt und er ist genervt, denn er hat in einer Stunde eine Sitzung.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "in einer Stunde / sein (review)"
+    },
+    {
+      "en": "I'd like to postpone my appointment at the hairdresser's. Do you have time on Friday? [formal]",
+      "de": "Ich möchte meinen Termin beim Friseur verschieben. Haben Sie am Freitag Zeit?",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "verschieben (review)"
+    },
+    {
+      "en": "We need your help: the light in our room isn't working and it's very dark. [formal]",
+      "de": "Wir brauchen Ihre Hilfe: Das Licht in unserem Zimmer funktioniert nicht und es ist sehr dunkel.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "asking for help"
+    },
+    {
+      "en": "My colleague is on holiday for two weeks, and I'm taking care of his emails.",
+      "de": "Mein Kollege ist für zwei Wochen im Urlaub und ich kümmere mich um seine E-Mails.",
+      "alt": [
+        "Mein Kollege ist zwei Wochen im Urlaub und ich kümmere mich um seine E-Mails."
+      ],
+      "difficulty": "hard",
+      "focus": "sich kümmern um"
+    },
+    {
+      "en": "We're invited to dinner and we're half an hour late.",
+      "de": "Wir sind zum Essen eingeladen und kommen eine halbe Stunde zu spät.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "zu spät kommen"
+    },
+    {
+      "en": "The hotel is great, but the air conditioning is too loud and I don't like the view.",
+      "de": "Das Hotel ist toll, aber die Klimaanlage ist zu laut und der Blick gefällt mir nicht.",
+      "alt": [
+        "Das Hotel ist toll, aber die Klimaanlage ist zu laut und mir gefällt der Blick nicht."
+      ],
+      "difficulty": "hard",
+      "focus": "gefallen (review)"
+    },
+    {
+      "en": "In a year I'll be finished with university, and then I'll go on holiday for a month.",
+      "de": "In einem Jahr bin ich mit der Uni fertig und dann mache ich für einen Monat Urlaub.",
+      "alt": [
+        "In einem Jahr bin ich mit der Uni fertig und dann mache ich einen Monat Urlaub."
+      ],
+      "difficulty": "hard",
+      "focus": "in einem Jahr / für einen Monat"
+    },
+    {
+      "en": "Please let Mr Wolf know: I can probably only be there at 3.30 pm. [formal]",
+      "de": "Sagen Sie Herrn Wolf bitte Bescheid: Ich kann wahrscheinlich erst um 15.30 Uhr da sein.",
+      "alt": [
+        "Bitte sagen Sie Herrn Wolf Bescheid: Ich kann wahrscheinlich erst um 15.30 Uhr da sein.",
+        "Sagen Sie Herrn Wolf bitte Bescheid: Ich kann wahrscheinlich erst um halb vier da sein."
+      ],
+      "difficulty": "hard",
+      "focus": "Bescheid sagen"
+    },
+    {
+      "en": "What a pity! Now the food is cold. – I'm sorry, I got stuck in the lift.",
+      "de": "Schade! Jetzt ist das Essen kalt. – Tut mir leid, ich bin im Aufzug stecken geblieben.",
+      "alt": [
+        "Wie dumm! Jetzt ist das Essen kalt. – Tut mir leid, ich bin im Aufzug stecken geblieben."
+      ],
+      "difficulty": "hard",
+      "focus": "stecken bleiben (Perfekt)"
+    },
+    {
+      "en": "The technician turns off the air conditioning, the light and the music.",
+      "de": "Der Techniker macht die Klimaanlage, das Licht und die Musik aus.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "ausmachen"
+    },
+    {
+      "en": "Excuse me, where is the lift? – Walk straight on, it's next to reception. [formal]",
+      "de": "Entschuldigung, wo ist der Aufzug? – Gehen Sie geradeaus, er ist neben der Rezeption.",
+      "alt": [
+        "Entschuldigen Sie, wo ist der Aufzug? – Gehen Sie geradeaus, er ist neben der Rezeption."
+      ],
+      "difficulty": "hard",
+      "focus": "directions (review)"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "Excuse me, can you help me? [formal]",
+      "de": "Entschuldigung, können Sie mir helfen?",
+      "alt": [
+        "Entschuldigen Sie, können Sie mir helfen?"
+      ],
+      "focus": "asking for help",
+      "note": ""
+    },
+    {
+      "en": "We have a problem.",
+      "de": "Wir haben ein Problem.",
+      "alt": [],
+      "focus": "asking for help",
+      "note": ""
+    },
+    {
+      "en": "We need your help. [formal]",
+      "de": "Wir brauchen Ihre Hilfe.",
+      "alt": [],
+      "focus": "asking for help",
+      "note": ""
+    },
+    {
+      "en": "One more request:",
+      "de": "Eine Bitte noch:",
+      "alt": [],
+      "focus": "asking for help",
+      "note": ""
+    },
+    {
+      "en": "It's broken.",
+      "de": "Das ist kaputt.",
+      "alt": [
+        "Es ist kaputt."
+      ],
+      "focus": "describing a problem",
+      "note": ""
+    },
+    {
+      "en": "It doesn't work.",
+      "de": "Das funktioniert nicht.",
+      "alt": [
+        "Es funktioniert nicht."
+      ],
+      "focus": "describing a problem",
+      "note": ""
+    },
+    {
+      "en": "There's no soap.",
+      "de": "Es gibt keine Seife.",
+      "alt": [],
+      "focus": "describing a problem",
+      "note": ""
+    },
+    {
+      "en": "What can I do for you? [formal]",
+      "de": "Was kann ich für Sie tun?",
+      "alt": [],
+      "focus": "offering help",
+      "note": ""
+    },
+    {
+      "en": "Can I help you? [formal]",
+      "de": "Kann ich Ihnen helfen?",
+      "alt": [],
+      "focus": "offering help",
+      "note": ""
+    },
+    {
+      "en": "I'll take care of it right away.",
+      "de": "Ich kümmere mich sofort darum.",
+      "alt": [],
+      "focus": "offering help",
+      "note": ""
+    },
+    {
+      "en": "I'm coming right away.",
+      "de": "Ich komme sofort.",
+      "alt": [],
+      "focus": "offering help",
+      "note": ""
+    },
+    {
+      "en": "The lift is stuck.",
+      "de": "Der Aufzug steckt fest.",
+      "alt": [],
+      "focus": "describing a problem",
+      "note": ""
+    },
+    {
+      "en": "to get stuck in the lift",
+      "de": "im Aufzug stecken bleiben",
+      "alt": [],
+      "focus": "stecken bleiben",
+      "note": ""
+    },
+    {
+      "en": "to turn off the air conditioning",
+      "de": "die Klimaanlage ausmachen",
+      "alt": [],
+      "focus": "ausmachen",
+      "note": ""
+    },
+    {
+      "en": "to turn on the light",
+      "de": "das Licht anmachen",
+      "alt": [],
+      "focus": "anmachen",
+      "note": ""
+    },
+    {
+      "en": "to send a technician",
+      "de": "einen Techniker schicken",
+      "alt": [],
+      "focus": "schicken",
+      "note": ""
+    },
+    {
+      "en": "to repair the heating",
+      "de": "die Heizung reparieren",
+      "alt": [],
+      "focus": "reparieren",
+      "note": ""
+    },
+    {
+      "en": "to arrange an appointment",
+      "de": "einen Termin vereinbaren",
+      "alt": [],
+      "focus": "appointments",
+      "note": ""
+    },
+    {
+      "en": "to postpone an appointment",
+      "de": "einen Termin verschieben",
+      "alt": [],
+      "focus": "appointments",
+      "note": ""
+    },
+    {
+      "en": "to cancel an appointment",
+      "de": "einen Termin absagen",
+      "alt": [],
+      "focus": "appointments",
+      "note": ""
+    },
+    {
+      "en": "Can we postpone the appointment?",
+      "de": "Können wir den Termin verschieben?",
+      "alt": [],
+      "focus": "appointments",
+      "note": ""
+    },
+    {
+      "en": "Does that suit you? [informal]",
+      "de": "Passt dir das?",
+      "alt": [],
+      "focus": "appointments",
+      "note": ""
+    },
+    {
+      "en": "Does Friday suit you? [informal]",
+      "de": "Passt es dir am Freitag?",
+      "alt": [
+        "Passt dir Freitag?"
+      ],
+      "focus": "appointments",
+      "note": ""
+    },
+    {
+      "en": "I have time on Monday.",
+      "de": "Am Montag habe ich Zeit.",
+      "alt": [
+        "Ich habe am Montag Zeit."
+      ],
+      "focus": "appointments",
+      "note": ""
+    },
+    {
+      "en": "Do you feel like it? [informal]",
+      "de": "Hast du Lust?",
+      "alt": [],
+      "focus": "appointments",
+      "note": ""
+    },
+    {
+      "en": "I can't come after all.",
+      "de": "Ich kann doch nicht kommen.",
+      "alt": [],
+      "focus": "cancelling",
+      "note": ""
+    },
+    {
+      "en": "No problem!",
+      "de": "Kein Problem!",
+      "alt": [],
+      "focus": "reacting to apologies",
+      "note": ""
+    },
+    {
+      "en": "That doesn't matter.",
+      "de": "Das macht doch nichts.",
+      "alt": [
+        "Das macht nichts."
+      ],
+      "focus": "reacting to apologies",
+      "note": ""
+    },
+    {
+      "en": "What a pity!",
+      "de": "Schade!",
+      "alt": [],
+      "focus": "reacting to apologies",
+      "note": ""
+    },
+    {
+      "en": "How stupid!",
+      "de": "Wie dumm!",
+      "alt": [],
+      "focus": "reacting to apologies",
+      "note": ""
+    },
+    {
+      "en": "Strange!",
+      "de": "Seltsam!",
+      "alt": [],
+      "focus": "reacting to apologies",
+      "note": ""
+    },
+    {
+      "en": "Oh, really?",
+      "de": "Ach, wirklich?",
+      "alt": [
+        "Ach wirklich?"
+      ],
+      "focus": "reacting to apologies",
+      "note": "Sounds doubtful: you don't quite believe the excuse."
+    },
+    {
+      "en": "in an hour",
+      "de": "in einer Stunde",
+      "alt": [],
+      "focus": "in + dative",
+      "note": ""
+    },
+    {
+      "en": "in half an hour",
+      "de": "in einer halben Stunde",
+      "alt": [],
+      "focus": "in + dative",
+      "note": ""
+    },
+    {
+      "en": "in two weeks",
+      "de": "in zwei Wochen",
+      "alt": [],
+      "focus": "in + dative",
+      "note": ""
+    },
+    {
+      "en": "in a month",
+      "de": "in einem Monat",
+      "alt": [],
+      "focus": "in + dative",
+      "note": ""
+    },
+    {
+      "en": "before the course",
+      "de": "vor dem Kurs",
+      "alt": [],
+      "focus": "vor + dative",
+      "note": ""
+    },
+    {
+      "en": "before dinner",
+      "de": "vor dem Essen",
+      "alt": [],
+      "focus": "vor + dative",
+      "note": ""
+    },
+    {
+      "en": "after university",
+      "de": "nach der Uni",
+      "alt": [],
+      "focus": "nach + dative",
+      "note": ""
+    },
+    {
+      "en": "after the meetings",
+      "de": "nach den Sitzungen",
+      "alt": [],
+      "focus": "nach + dative",
+      "note": ""
+    },
+    {
+      "en": "for a day",
+      "de": "für einen Tag",
+      "alt": [],
+      "focus": "für + accusative",
+      "note": ""
+    },
+    {
+      "en": "for a week",
+      "de": "für eine Woche",
+      "alt": [],
+      "focus": "für + accusative",
+      "note": ""
+    },
+    {
+      "en": "for a year",
+      "de": "für ein Jahr",
+      "alt": [],
+      "focus": "für + accusative",
+      "note": ""
+    },
+    {
+      "en": "on a business trip",
+      "de": "auf Geschäftsreise",
+      "alt": [],
+      "focus": "work",
+      "note": ""
+    },
+    {
+      "en": "on holiday",
+      "de": "im Urlaub",
+      "alt": [],
+      "focus": "free time",
+      "note": ""
+    },
+    {
+      "en": "on time",
+      "de": "pünktlich",
+      "alt": [],
+      "focus": "time",
+      "note": ""
+    },
+    {
+      "en": "half an hour late",
+      "de": "eine halbe Stunde zu spät",
+      "alt": [],
+      "focus": "time",
+      "note": ""
+    },
+    {
+      "en": "Please let him know. [formal]",
+      "de": "Sagen Sie ihm bitte Bescheid.",
+      "alt": [
+        "Sagen Sie ihm bitte Bescheid?"
+      ],
+      "focus": "Bescheid sagen",
+      "note": ""
+    },
+    {
+      "en": "Best regards",
+      "de": "Mit freundlichen Grüßen",
+      "alt": [],
+      "focus": "formal email",
+      "note": "The standard ending of a formal email or letter."
+    },
+    {
+      "en": "Dear Ms Berger,",
+      "de": "Sehr geehrte Frau Berger,",
+      "alt": [],
+      "focus": "formal email",
+      "note": ""
+    }
+  ],
+  "text": {
+    "title": "A problem in the hotel",
+    "en": "Dear Sabine,\n\nunfortunately I can't come to the meeting tomorrow. I'm at the hotel in Graz, and we have a problem here: the lift is stuck, and my suitcase is in the lift! A technician is coming in an hour.\n\nThe heating in my room isn't working either, and the internet connection is very slow. I haven't worked much today.\n\nCan we postpone the meeting? From Monday I'm on a business trip for a week, but after the trip I have time. Does Thursday suit you?\n\nMany greetings\nTom",
+    "de": "Liebe Sabine,\n\nleider kann ich morgen nicht zur Sitzung kommen. Ich bin im Hotel in Graz und wir haben hier ein Problem: Der Aufzug steckt fest und mein Koffer ist im Aufzug! In einer Stunde kommt ein Techniker.\n\nDie Heizung in meinem Zimmer funktioniert auch nicht und die Internetverbindung ist sehr langsam. Ich habe heute nicht viel gearbeitet.\n\nKönnen wir die Sitzung verschieben? Ab Montag bin ich für eine Woche auf Geschäftsreise, aber nach der Reise habe ich Zeit. Passt es dir am Donnerstag?\n\nViele Grüße\nTom"
+  }
+}
