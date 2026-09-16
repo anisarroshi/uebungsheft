@@ -1,0 +1,11 @@
+{
+  "name": "uebungsheft",
+  "version": "2.0.0",
+  "description": "German translation practice. Exercises are stored as JSON files in this repository.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node serve.js",
+    "check": "node tools/check.js"
+  }
+}
