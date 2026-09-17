@@ -205,11 +205,12 @@
         ]
       },
       {
-        "name": "Review: dative after prepositions and gefallen",
-        "explanation": "Adjective endings combine with what you already know: dative after mit, in, neben, vor, and dative pronouns with gefallen.",
+        "name": "Review: A1.2 Lektionen 13–16 and A2.1 Lektionen 1–4",
+        "explanation": "Definite-article endings combine with earlier grammar: possessives and war/hatte (L1), Wo? + dative / Wohin? + accusative (L2), -ung nouns and würde am liebsten (L3), indefinite-article endings (L4), plus dative prepositions and gefallen from A1.2.",
         "examples": [
-          "Wir wohnen im kleinen Hotel neben dem Bahnhof.",
-          "Das bunte Fenster gefällt mir nicht."
+          "Wir hatten einen netten Reiseführer.",
+          "Leg die neue Kamera in die Tasche.",
+          "Ich würde am liebsten die Schifffahrt auf dem Rhein buchen."
         ]
       }
     ],
@@ -330,11 +331,13 @@
       "focus": "das + -e / gefallen"
     },
     {
-      "en": "We're looking for accommodation.",
-      "de": "Wir suchen eine Unterkunft.",
-      "alt": [],
+      "en": "We're looking for cheap accommodation.",
+      "de": "Wir suchen eine billige Unterkunft.",
+      "alt": [
+        "Wir suchen eine günstige Unterkunft."
+      ],
       "difficulty": "easy",
-      "focus": "die Unterkunft"
+      "focus": "eine + -e (review L4)"
     },
     {
       "en": "The tour starts at ten o'clock.",
@@ -346,13 +349,13 @@
       "focus": "die Führung"
     },
     {
-      "en": "I give the waiter a tip.",
-      "de": "Ich gebe dem Kellner Trinkgeld.",
+      "en": "We had a nice tour guide.",
+      "de": "Wir hatten einen netten Reiseführer.",
       "alt": [
-        "Ich gebe dem Kellner ein Trinkgeld."
+        "Wir hatten einen freundlichen Reiseführer."
       ],
       "difficulty": "easy",
-      "focus": "das Trinkgeld"
+      "focus": "hatten / einen + -en (review L1, L4)"
     },
     {
       "en": "Where can I change money?",
@@ -371,13 +374,13 @@
       "focus": "die Schifffahrt"
     },
     {
-      "en": "The tourists are taking photos of the cathedral.",
-      "de": "Die Touristen fotografieren den Dom.",
+      "en": "Put the new camera in the bag. [informal]",
+      "de": "Leg die neue Kamera in die Tasche.",
       "alt": [
-        "Die Touristen machen Fotos vom Dom."
+        "Steck die neue Kamera in die Tasche."
       ],
       "difficulty": "easy",
-      "focus": "der Tourist"
+      "focus": "Wohin? + accusative (review L2)"
     },
     {
       "en": "I'm taking the colourful brochure.",
@@ -424,13 +427,11 @@
       "focus": "den + -en (accusative)"
     },
     {
-      "en": "The weather is wonderful today.",
-      "de": "Das Wetter ist heute wunderbar.",
-      "alt": [
-        "Heute ist das Wetter wunderbar."
-      ],
+      "en": "Our grandparents visited the famous cathedral too.",
+      "de": "Unsere Großeltern haben auch den berühmten Dom besichtigt.",
+      "alt": [],
       "difficulty": "easy",
-      "focus": "wunderbar"
+      "focus": "unsere / Perfekt (review L1)"
     },
     {
       "en": "Charlotte finds museums boring.",
@@ -440,11 +441,11 @@
       "focus": "langweilig"
     },
     {
-      "en": "We're booking the tour for the family.",
-      "de": "Wir buchen die Führung für die Familie.",
+      "en": "Your tour guide was really funny. [plural]",
+      "de": "Euer Reiseführer war wirklich lustig.",
       "alt": [],
       "difficulty": "easy",
-      "focus": "buchen"
+      "focus": "euer / war (review L1)"
     },
     {
       "en": "The traditional brewpub is full.",
@@ -595,11 +596,11 @@
       "focus": "der Höhepunkt"
     },
     {
-      "en": "What do you find uninteresting in the old town? [formal]",
-      "de": "Was finden Sie in der Altstadt uninteressant?",
+      "en": "The colourful brochure is lying on the table next to the new camera.",
+      "de": "Der bunte Prospekt liegt auf dem Tisch neben der neuen Kamera.",
       "alt": [],
       "difficulty": "medium",
-      "focus": "rating sights"
+      "focus": "Wo? + dative (review L2)"
     },
     {
       "en": "I'd like to see the new windows in the cathedral.",
@@ -622,23 +623,20 @@
       "focus": "im + -en / neben (review)"
     },
     {
-      "en": "The friendly waiter gets a tip from us.",
-      "de": "Der nette Kellner bekommt von uns Trinkgeld.",
-      "alt": [
-        "Der nette Kellner bekommt von uns ein Trinkgeld.",
-        "Der freundliche Kellner bekommt von uns Trinkgeld."
-      ],
+      "en": "Hang the old map on the wall next to the door. [informal]",
+      "de": "Häng die alte Karte an die Wand neben der Tür.",
+      "alt": [],
       "difficulty": "medium",
-      "focus": "der + -e (nominative)"
+      "focus": "Wohin? + accusative (review L2)"
     },
     {
-      "en": "Can I change money at reception?",
-      "de": "Kann ich an der Rezeption Geld wechseln?",
+      "en": "After the tour we need a bit of relaxation in the café.",
+      "de": "Nach der Führung brauchen wir ein bisschen Erholung im Café.",
       "alt": [
-        "Kann ich Geld an der Rezeption wechseln?"
+        "Nach der Führung brauchen wir ein bisschen Entspannung im Café."
       ],
       "difficulty": "medium",
-      "focus": "Geld wechseln"
+      "focus": "verb + -ung (review L3)"
     },
     {
       "en": "Our visitors will definitely like the old town hall.",
@@ -659,11 +657,13 @@
       "focus": "das + -e (accusative)"
     },
     {
-      "en": "The tour guide has lots of information about the cathedral.",
-      "de": "Der Reiseführer hat viele Informationen über den Dom.",
-      "alt": [],
+      "en": "I'd most like to book the boat trip on the Rhine.",
+      "de": "Ich würde am liebsten die Schifffahrt auf dem Rhein buchen.",
+      "alt": [
+        "Am liebsten würde ich die Schifffahrt auf dem Rhein buchen."
+      ],
       "difficulty": "medium",
-      "focus": "der Reiseführer"
+      "focus": "würde am liebsten (review L3)"
     },
     {
       "en": "My daughter didn't like the boring tour.",
@@ -746,14 +746,11 @@
       "focus": "die + -en (plural)"
     },
     {
-      "en": "The famous cathedral is open until 6 pm.",
-      "de": "Der berühmte Dom ist bis 18 Uhr geöffnet.",
-      "alt": [
-        "Der berühmte Dom ist bis 18 Uhr offen.",
-        "Der berühmte Dom ist bis sechs Uhr abends geöffnet."
-      ],
+      "en": "The guided tour is a great experience, but it's also tiring.",
+      "de": "Die Führung ist eine tolle Erfahrung, aber sie ist auch anstrengend.",
+      "alt": [],
       "difficulty": "medium",
-      "focus": "geöffnet"
+      "focus": "eine + -e / verb + -ung (review L3, L4)"
     },
     {
       "en": "Where did you buy the new camera? [informal]",
@@ -763,13 +760,11 @@
       "focus": "die + -e (accusative)"
     },
     {
-      "en": "We took the brochure from the tourist information office.",
-      "de": "Wir haben den Prospekt von der Touristeninformation mitgenommen.",
-      "alt": [
-        "Wir haben den Prospekt aus der Touristeninformation mitgenommen."
-      ],
+      "en": "At the market we bought a big pretzel and a cold iced tea.",
+      "de": "Auf dem Markt haben wir eine große Brezel und einen kalten Eistee gekauft.",
+      "alt": [],
       "difficulty": "medium",
-      "focus": "der Prospekt"
+      "focus": "indefinite endings (review L4)"
     },
     {
       "en": "My grandma booked a tour of the cathedral for us.",
@@ -829,11 +824,13 @@
       "focus": "der Rundgang"
     },
     {
-      "en": "The tourist asks the tour guide lots of questions.",
-      "de": "Der Tourist stellt dem Reiseführer viele Fragen.",
-      "alt": [],
+      "en": "Our uncle was a tour guide in Cologne for ten years.",
+      "de": "Unser Onkel war zehn Jahre Reiseführer in Köln.",
+      "alt": [
+        "Unser Onkel war zehn Jahre lang Reiseführer in Köln."
+      ],
       "difficulty": "medium",
-      "focus": "dative object"
+      "focus": "unser / war (review L1)"
     },
     {
       "en": "We're in Cologne for a week, and we like the old town very much.",
@@ -863,11 +860,11 @@
       "focus": "vom + -en (dative)"
     },
     {
-      "en": "The new camera takes really good photos.",
-      "de": "Die neue Kamera macht wirklich gute Fotos.",
+      "en": "Did you like the traditional brewpub? – Yes, we had a great evening. [plural]",
+      "de": "Hat euch das traditionelle Brauhaus gefallen? – Ja, wir hatten einen tollen Abend.",
       "alt": [],
       "difficulty": "medium",
-      "focus": "die + -e (nominative)"
+      "focus": "hatten / einen + -en (review L1, L4)"
     },
     {
       "en": "Excuse me, how do I get to the famous cathedral? – Turn left at the traffic lights. [formal]",
@@ -937,14 +934,13 @@
       "focus": "nach + dative (review) / den + -en"
     },
     {
-      "en": "Shall we look at the old town hall in the morning? The famous museum is closed until twelve.",
-      "de": "Wollen wir am Vormittag das alte Rathaus ansehen? Das berühmte Museum ist bis zwölf Uhr geschlossen.",
+      "en": "The hike along the Rhine was tiring, but the view of the famous cathedral was wonderful.",
+      "de": "Die Wanderung am Rhein war anstrengend, aber der Blick auf den berühmten Dom war wunderbar.",
       "alt": [
-        "Wollen wir vormittags das alte Rathaus ansehen? Das berühmte Museum ist bis zwölf Uhr geschlossen.",
-        "Wollen wir am Morgen das alte Rathaus ansehen? Das berühmte Museum ist bis zwölf geschlossen."
+        "Die Wanderung am Rheinufer war anstrengend, aber der Blick auf den berühmten Dom war wunderbar."
       ],
       "difficulty": "hard",
-      "focus": "planning together"
+      "focus": "verb + -ung / den + -en (review L3)"
     },
     {
       "en": "The new exhibition in the small museum is really impressive; you'll definitely like it. [informal]",
@@ -956,23 +952,22 @@
       "focus": "nominative + dative endings"
     },
     {
-      "en": "My mother wanted to see the new window by Gerhard Richter in the famous cathedral.",
-      "de": "Meine Mutter wollte das neue Fenster von Gerhard Richter im berühmten Dom sehen.",
+      "en": "My mother wants to see the new window in the famous cathedral, but my father would most like to go to a small brewpub.",
+      "de": "Meine Mutter möchte das neue Fenster im berühmten Dom sehen, aber mein Vater würde am liebsten in ein kleines Brauhaus gehen.",
       "alt": [
-        "Meine Mutter wollte im berühmten Dom das neue Fenster von Gerhard Richter sehen."
+        "Meine Mutter will das neue Fenster im berühmten Dom sehen, aber mein Vater würde am liebsten in ein kleines Brauhaus gehen."
       ],
       "difficulty": "hard",
-      "focus": "accusative + dative endings"
+      "focus": "definite + indefinite endings (review L3, L4)"
     },
     {
-      "en": "In the evening we went to the chic club, and it was really great.",
-      "de": "Am Abend sind wir in den schicken Club gegangen, und es war wirklich toll.",
+      "en": "Have I told you about our trip to Cologne? Listen: the funny tour guide was really crazy! [plural]",
+      "de": "Habe ich euch schon von unserer Reise nach Köln erzählt? Also passt auf: Der lustige Reiseführer war schon verrückt!",
       "alt": [
-        "Am Abend sind wir in den schicken Club gegangen und das war wirklich toll.",
-        "Abends sind wir in den schicken Club gegangen, und es war wirklich toll."
+        "Habe ich euch schon von unserer Reise nach Köln erzählt? Passt auf: Der lustige Reiseführer war wirklich verrückt!"
       ],
       "difficulty": "hard",
-      "focus": "den + -en / Perfekt"
+      "focus": "telling stories (review L1)"
     },
     {
       "en": "Unfortunately my son forgot the new camera in the museum yesterday.",
@@ -1005,21 +1000,20 @@
       "focus": "in einer Stunde (review)"
     },
     {
-      "en": "Did you like the traditional brewpub, or was the chic club better? [plural]",
-      "de": "Hat euch das traditionelle Brauhaus gefallen oder war der schicke Club besser?",
-      "alt": [],
-      "difficulty": "hard",
-      "focus": "gefallen + euch"
-    },
-    {
-      "en": "Before the trip I look for information about the city on the internet.",
-      "de": "Vor der Reise suche ich im Internet Informationen über die Stadt.",
+      "en": "Where shall I put the colourful souvenirs? – Put them on the shelf next to the old photos. [informal]",
+      "de": "Wohin soll ich die bunten Souvenirs stellen? – Stell sie auf das Regal neben die alten Fotos.",
       "alt": [
-        "Vor der Reise suche ich Informationen über die Stadt im Internet.",
-        "Ich suche vor der Reise im Internet Informationen über die Stadt."
+        "Wohin soll ich die bunten Souvenirs stellen? – Stell sie aufs Regal neben die alten Fotos."
       ],
       "difficulty": "hard",
-      "focus": "vor + dative (review)"
+      "focus": "Wohin? + accusative (review L2)"
+    },
+    {
+      "en": "I'd like a big coffee and a fresh pretzel, and then we'll visit the famous cathedral.",
+      "de": "Ich hätte gern einen großen Kaffee und eine frische Brezel und dann besichtigen wir den berühmten Dom.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "indefinite + definite endings (review L4)"
     },
     {
       "en": "We can't visit the old church today, because it's closed on Sundays.",
@@ -1090,14 +1084,13 @@
       "focus": "planning together"
     },
     {
-      "en": "We sent the postcard with the old town hall to my grandma.",
-      "de": "Wir haben die Postkarte mit dem alten Rathaus an meine Oma geschickt.",
+      "en": "We sent our grandma a postcard with the old town hall, and she hung it on the wall in her kitchen.",
+      "de": "Wir haben unserer Oma eine Postkarte mit dem alten Rathaus geschickt und sie hat sie an die Wand in ihrer Küche gehängt.",
       "alt": [
-        "Wir haben meiner Oma die Postkarte mit dem alten Rathaus geschickt.",
-        "Wir haben die Postkarte mit dem alten Rathaus an meine Großmutter geschickt."
+        "Wir haben unserer Oma eine Postkarte mit dem alten Rathaus geschickt, und sie hat sie in ihrer Küche an die Wand gehängt."
       ],
       "difficulty": "hard",
-      "focus": "dem + -en (dative)"
+      "focus": "dem + -en / hängen (review L1, L2)"
     },
     {
       "en": "Do we have to? I find the long boat trip boring, let's go to the museum instead.",
@@ -1130,12 +1123,10 @@
       "note": "offen is a little more colloquial."
     },
     {
-      "en": "closed on Mondays",
-      "de": "montags geschlossen",
-      "alt": [
-        "am Montag geschlossen"
-      ],
-      "focus": "geschlossen",
+      "en": "our nice tour guide",
+      "de": "unser netter Reiseführer",
+      "alt": [],
+      "focus": "unser + -er (review L1, L4)",
       "note": ""
     },
     {
@@ -1146,10 +1137,10 @@
       "note": ""
     },
     {
-      "en": "to take a guided tour",
-      "de": "eine Führung machen",
+      "en": "a great experience",
+      "de": "eine tolle Erfahrung",
       "alt": [],
-      "focus": "tourism",
+      "focus": "verb + -ung (review L3)",
       "note": ""
     },
     {
@@ -1162,12 +1153,10 @@
       "note": ""
     },
     {
-      "en": "a walking tour of the city",
-      "de": "ein Stadtrundgang",
-      "alt": [
-        "ein Rundgang durch die Stadt"
-      ],
-      "focus": "tourism",
+      "en": "to put the camera in the bag",
+      "de": "die Kamera in die Tasche legen",
+      "alt": [],
+      "focus": "Wohin? + accusative (review L2)",
       "note": ""
     },
     {
@@ -1217,10 +1206,10 @@
       "note": ""
     },
     {
-      "en": "the colourful windows",
-      "de": "die bunten Fenster",
+      "en": "The camera is lying on the table.",
+      "de": "Die Kamera liegt auf dem Tisch.",
       "alt": [],
-      "focus": "die + -en (plural)",
+      "focus": "Wo? + dative (review L2)",
       "note": ""
     },
     {
@@ -1304,10 +1293,10 @@
       "note": ""
     },
     {
-      "en": "All right then.",
-      "de": "Also gut.",
+      "en": "We had a great evening.",
+      "de": "Wir hatten einen tollen Abend.",
       "alt": [],
-      "focus": "agreeing",
+      "focus": "hatten (review L1)",
       "note": ""
     },
     {
@@ -1325,10 +1314,12 @@
       "note": "Sounds a bit reluctant."
     },
     {
-      "en": "That's boring, though.",
-      "de": "Das ist doch langweilig.",
-      "alt": [],
-      "focus": "disagreeing",
+      "en": "I'd most like to book a guided tour.",
+      "de": "Ich würde am liebsten eine Führung buchen.",
+      "alt": [
+        "Am liebsten würde ich eine Führung buchen."
+      ],
+      "focus": "würde am liebsten (review L3)",
       "note": ""
     },
     {
@@ -1394,10 +1385,10 @@
       "note": ""
     },
     {
-      "en": "Dear Anna,",
-      "de": "Liebe Anna,",
+      "en": "I'd like a big pretzel.",
+      "de": "Ich hätte gern eine große Brezel.",
       "alt": [],
-      "focus": "postcards",
+      "focus": "eine + -e (review L4)",
       "note": ""
     },
     {
@@ -1486,26 +1477,26 @@
       "note": ""
     },
     {
-      "en": "The city is great.",
-      "de": "Die Stadt ist großartig.",
+      "en": "Have I told you about our trip? [plural]",
+      "de": "Habe ich euch schon von unserer Reise erzählt?",
       "alt": [],
-      "focus": "rating sights",
+      "focus": "telling stories (review L1)",
       "note": ""
     },
     {
-      "en": "at the tourist information office",
-      "de": "in der Touristeninformation",
+      "en": "a small hotel near the station",
+      "de": "ein kleines Hotel in der Nähe vom Bahnhof",
+      "alt": [],
+      "focus": "ein + -es (review L4, A1.2)",
+      "note": ""
+    },
+    {
+      "en": "with a cheap bike",
+      "de": "mit einem billigen Fahrrad",
       "alt": [
-        "bei der Touristeninformation"
+        "mit einem günstigen Fahrrad"
       ],
-      "focus": "tourism",
-      "note": ""
-    },
-    {
-      "en": "to invite someone for a cola",
-      "de": "jemanden auf eine Cola einladen",
-      "alt": [],
-      "focus": "einladen",
+      "focus": "einem + -en (review L4)",
       "note": ""
     }
   ],
