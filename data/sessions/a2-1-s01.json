@@ -1,0 +1,1402 @@
+{
+  "id": "a2-1-s01",
+  "level": "A2.1",
+  "number": 1,
+  "title": "Family stories",
+  "createdAt": "2026-09-16",
+  "content": {
+    "topics": [
+      "family and relatives",
+      "jobs in the family",
+      "childhood memories",
+      "telling family stories"
+    ],
+    "vocabulary": [
+      {
+        "de": "der Bäcker, - / die Bäckerin, -nen",
+        "en": "baker"
+      },
+      {
+        "de": "die Bäckerei, -en",
+        "en": "bakery"
+      },
+      {
+        "de": "die Brezel, -n",
+        "en": "pretzel"
+      },
+      {
+        "de": "backen",
+        "en": "to bake"
+      },
+      {
+        "de": "der Teig, -e",
+        "en": "dough"
+      },
+      {
+        "de": "am Anfang / am Ende",
+        "en": "at the beginning / in the end"
+      },
+      {
+        "de": "kompliziert / einfach",
+        "en": "complicated / simple"
+      },
+      {
+        "de": "klappen",
+        "en": "to work out"
+      },
+      {
+        "de": "die Großeltern (Pl.)",
+        "en": "grandparents"
+      },
+      {
+        "de": "der Beruf, -e",
+        "en": "job, profession"
+      },
+      {
+        "de": "der Arzt, -¨e / die Ärztin, -nen",
+        "en": "doctor"
+      },
+      {
+        "de": "das Studium",
+        "en": "university studies, degree"
+      },
+      {
+        "de": "der Onkel, - / die Tante, -n",
+        "en": "uncle / aunt"
+      },
+      {
+        "de": "der Neffe, -n / die Nichte, -n",
+        "en": "nephew / niece"
+      },
+      {
+        "de": "der Cousin, -s / die Cousine, -n",
+        "en": "cousin"
+      },
+      {
+        "de": "der Schwiegersohn, -¨e",
+        "en": "son-in-law"
+      },
+      {
+        "de": "der Schwiegervater, -¨ / die Schwiegermutter, -¨",
+        "en": "father-in-law / mother-in-law"
+      },
+      {
+        "de": "übergeben",
+        "en": "to hand over"
+      },
+      {
+        "de": "Geschichten erzählen",
+        "en": "to tell stories"
+      },
+      {
+        "de": "draußen übernachten",
+        "en": "to sleep outside"
+      },
+      {
+        "de": "auf Bäume klettern",
+        "en": "to climb trees"
+      },
+      {
+        "de": "Fußballbilder sammeln",
+        "en": "to collect football stickers"
+      },
+      {
+        "de": "Sachen auf dem Flohmarkt verkaufen",
+        "en": "to sell things at the flea market"
+      },
+      {
+        "de": "Einrad fahren",
+        "en": "to ride a unicycle"
+      },
+      {
+        "de": "Skateboard fahren",
+        "en": "to skateboard"
+      },
+      {
+        "de": "Comics lesen",
+        "en": "to read comics"
+      },
+      {
+        "de": "zeichnen",
+        "en": "to draw"
+      },
+      {
+        "de": "mit Puppen spielen",
+        "en": "to play with dolls"
+      },
+      {
+        "de": "Süßigkeiten essen",
+        "en": "to eat sweets"
+      },
+      {
+        "de": "Witze erzählen",
+        "en": "to tell jokes"
+      },
+      {
+        "de": "verrückt",
+        "en": "crazy"
+      },
+      {
+        "de": "fleißig",
+        "en": "hard-working"
+      },
+      {
+        "de": "streiten (gestritten)",
+        "en": "to argue"
+      },
+      {
+        "de": "rufen (gerufen)",
+        "en": "to shout, to call"
+      },
+      {
+        "de": "passieren (ist passiert)",
+        "en": "to happen"
+      },
+      {
+        "de": "das Motorrad, -¨er",
+        "en": "motorbike"
+      },
+      {
+        "de": "zuerst – dann – danach – zum Schluss",
+        "en": "first – then – afterwards – finally"
+      },
+      {
+        "de": "die Erinnerung, -en",
+        "en": "memory"
+      },
+      {
+        "de": "die Kindheit",
+        "en": "childhood"
+      },
+      {
+        "de": "der/die Jugendliche, -n",
+        "en": "teenager"
+      }
+    ],
+    "grammar": [
+      {
+        "name": "Possessive articles unser / euer / ihr / Ihr",
+        "explanation": "wir → unser, ihr → euer, sie (plural) → ihr, Sie → Ihr. They take the same endings as mein. euer drops its e before an ending: eure, euren.",
+        "examples": [
+          "Das ist unser Opa.",
+          "Ist das eure Tante?",
+          "Wir backen mit unserem Opa."
+        ]
+      },
+      {
+        "name": "Possessive articles in nominative, accusative and dative",
+        "explanation": "Masculine: mein / meinen / meinem. Neuter: mein / mein / meinem. Feminine: meine / meine / meiner. Plural: meine / meine / meinen + -n on the noun.",
+        "examples": [
+          "Siehst du meinen Opa?",
+          "mit meiner Tante",
+          "mit meinen Neffen"
+        ]
+      },
+      {
+        "name": "Review: Perfekt with haben or sein",
+        "explanation": "Most verbs use haben; verbs of movement or change use sein. Types: gemacht, angemacht, telefoniert, erkannt; irregular: gebacken, gestritten, gerufen, gefahren.",
+        "examples": [
+          "Er hat nicht gearbeitet.",
+          "Er ist tanzen gegangen.",
+          "Was ist passiert?"
+        ]
+      },
+      {
+        "name": "Präteritum of sein and haben",
+        "explanation": "For sein and haben, the past is usually war and hatte, not the Perfekt: ich war, du warst, er war, wir waren, ihr wart; ich hatte, du hattest, er hatte, wir hatten.",
+        "examples": [
+          "Mein Opa war Bäcker.",
+          "Ich hatte auch einen Opa."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "de": "Mein Großvater war Arzt und mein Vater ist auch Arzt.",
+        "en": "My grandfather was a doctor and my father is a doctor too."
+      },
+      {
+        "de": "Ich möchte auf keinen Fall Arzt werden.",
+        "en": "I don't want to be a doctor under any circumstances."
+      },
+      {
+        "de": "Habe ich euch schon von meinem/meiner ... erzählt?",
+        "en": "Have I told you about my ...?"
+      },
+      {
+        "de": "Also passt auf: ...",
+        "en": "Listen: ..."
+      },
+      {
+        "de": "Wisst ihr, was dann passiert ist?",
+        "en": "Do you know what happened then?"
+      },
+      {
+        "de": "Er/Sie war schon verrückt, mein/meine ...",
+        "en": "He/She was really crazy, my ..."
+      }
+    ]
+  },
+  "sentences": [
+    {
+      "en": "My grandpa was a baker too.",
+      "de": "Mein Opa war auch Bäcker.",
+      "alt": [
+        "Mein Opa war auch schon Bäcker.",
+        "Mein Großvater war auch Bäcker."
+      ],
+      "difficulty": "easy",
+      "focus": "war"
+    },
+    {
+      "en": "Our grandpa has a bakery.",
+      "de": "Unser Opa hat eine Bäckerei.",
+      "alt": [
+        "Unser Großvater hat eine Bäckerei."
+      ],
+      "difficulty": "easy",
+      "focus": "unser (nominative)"
+    },
+    {
+      "en": "Is that your grandma? [plural]",
+      "de": "Ist das eure Oma?",
+      "alt": [
+        "Ist das eure Großmutter?"
+      ],
+      "difficulty": "easy",
+      "focus": "euer → eure"
+    },
+    {
+      "en": "Their uncle is crazy.",
+      "de": "Ihr Onkel ist verrückt.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "ihr (their)"
+    },
+    {
+      "en": "Is that your bag? [formal]",
+      "de": "Ist das Ihre Tasche?",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "Ihr (formal)"
+    },
+    {
+      "en": "We're visiting our grandparents.",
+      "de": "Wir besuchen unsere Großeltern.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "unsere (accusative plural)"
+    },
+    {
+      "en": "Do you see our dog? [informal]",
+      "de": "Siehst du unseren Hund?",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "unseren (accusative)"
+    },
+    {
+      "en": "We're baking pretzels with our grandpa.",
+      "de": "Wir backen Brezeln mit unserem Opa.",
+      "alt": [
+        "Wir backen mit unserem Opa Brezeln."
+      ],
+      "difficulty": "easy",
+      "focus": "unserem (dative)"
+    },
+    {
+      "en": "The children are playing with their aunt.",
+      "de": "Die Kinder spielen mit ihrer Tante.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "ihrer (dative)"
+    },
+    {
+      "en": "At first, baking pretzels is complicated.",
+      "de": "Am Anfang ist Brezelnbacken kompliziert.",
+      "alt": [
+        "Brezelnbacken ist am Anfang kompliziert."
+      ],
+      "difficulty": "easy",
+      "focus": "am Anfang"
+    },
+    {
+      "en": "In the end it works well.",
+      "de": "Am Ende klappt es gut.",
+      "alt": [
+        "Am Ende klappt das gut."
+      ],
+      "difficulty": "easy",
+      "focus": "klappen"
+    },
+    {
+      "en": "My father's brother is my uncle.",
+      "de": "Der Bruder von meinem Vater ist mein Onkel.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "family words"
+    },
+    {
+      "en": "My cousin [male] is 13 years old.",
+      "de": "Mein Cousin ist 13 Jahre alt.",
+      "alt": [
+        "Mein Cousin ist dreizehn Jahre alt."
+      ],
+      "difficulty": "easy",
+      "focus": "der Cousin"
+    },
+    {
+      "en": "My niece likes eating sweets.",
+      "de": "Meine Nichte isst gern Süßigkeiten.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "die Nichte"
+    },
+    {
+      "en": "I had a grandpa too.",
+      "de": "Ich hatte auch einen Opa.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "hatte"
+    },
+    {
+      "en": "What was your grandfather's job? [informal]",
+      "de": "Was war dein Großvater von Beruf?",
+      "alt": [
+        "Was war dein Opa von Beruf?"
+      ],
+      "difficulty": "easy",
+      "focus": "war / von Beruf"
+    },
+    {
+      "en": "My grandfather was a doctor.",
+      "de": "Mein Großvater war Arzt.",
+      "alt": [
+        "Mein Opa war Arzt."
+      ],
+      "difficulty": "easy",
+      "focus": "war"
+    },
+    {
+      "en": "I don't want to become a doctor.",
+      "de": "Ich möchte kein Arzt werden.",
+      "alt": [
+        "Ich will kein Arzt werden.",
+        "Ich möchte nicht Arzt werden."
+      ],
+      "difficulty": "easy",
+      "focus": "talking about jobs"
+    },
+    {
+      "en": "As a child I liked climbing trees.",
+      "de": "Als Kind bin ich gern auf Bäume geklettert.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "Perfekt with sein"
+    },
+    {
+      "en": "We collected football stickers.",
+      "de": "Wir haben Fußballbilder gesammelt.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "Perfekt with haben"
+    },
+    {
+      "en": "Did you sleep outside? [informal]",
+      "de": "Hast du draußen übernachtet?",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "Perfekt"
+    },
+    {
+      "en": "My sister played with dolls.",
+      "de": "Meine Schwester hat mit Puppen gespielt.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "Perfekt"
+    },
+    {
+      "en": "My brother liked telling jokes.",
+      "de": "Mein Bruder hat gern Witze erzählt.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "Perfekt (erzählt)"
+    },
+    {
+      "en": "Uncle Willi wasn't hard-working.",
+      "de": "Onkel Willi war nicht fleißig.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "war"
+    },
+    {
+      "en": "His father was ill.",
+      "de": "Sein Vater war krank.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "war"
+    },
+    {
+      "en": "The bakery was closed.",
+      "de": "Die Bäckerei war geschlossen.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "war"
+    },
+    {
+      "en": "They argued.",
+      "de": "Sie haben gestritten.",
+      "alt": [
+        "Sie haben sich gestritten."
+      ],
+      "difficulty": "easy",
+      "focus": "gestritten"
+    },
+    {
+      "en": "What happened?",
+      "de": "Was ist passiert?",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "ist passiert"
+    },
+    {
+      "en": "He bought a motorbike.",
+      "de": "Er hat ein Motorrad gekauft.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "Perfekt"
+    },
+    {
+      "en": "Then he rode to India.",
+      "de": "Dann ist er nach Indien gefahren.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "Perfekt with sein"
+    },
+    {
+      "en": "Did you call your parents? [informal]",
+      "de": "Hast du deine Eltern angerufen?",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "Perfekt (angerufen)"
+    },
+    {
+      "en": "I didn't recognise my uncle.",
+      "de": "Ich habe meinen Onkel nicht erkannt.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "Perfekt (erkannt)"
+    },
+    {
+      "en": "My grandma sold things at the flea market.",
+      "de": "Meine Oma hat Sachen auf dem Flohmarkt verkauft.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "Perfekt (verkauft)"
+    },
+    {
+      "en": "The photo is on our table.",
+      "de": "Das Foto liegt auf unserem Tisch.",
+      "alt": [
+        "Das Foto ist auf unserem Tisch."
+      ],
+      "difficulty": "easy",
+      "focus": "auf + dative (review)"
+    },
+    {
+      "en": "Their house is near the station.",
+      "de": "Ihr Haus ist in der Nähe vom Bahnhof.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "in der Nähe von (review)"
+    },
+    {
+      "en": "My grandfather was a doctor and my father is also a doctor.",
+      "de": "Mein Großvater war Arzt und mein Vater ist auch Arzt.",
+      "alt": [
+        "Mein Opa war Arzt und mein Vater ist auch Arzt."
+      ],
+      "difficulty": "medium",
+      "focus": "talking about jobs"
+    },
+    {
+      "en": "I don't want to be a doctor under any circumstances. The degree takes too long for me.",
+      "de": "Ich möchte auf keinen Fall Arzt werden. Mir dauert das Studium zu lange.",
+      "alt": [
+        "Ich will auf keinen Fall Arzt werden. Das Studium dauert mir zu lange."
+      ],
+      "difficulty": "medium",
+      "focus": "auf keinen Fall"
+    },
+    {
+      "en": "Paul gets help from his grandpa.",
+      "de": "Paul bekommt Hilfe von seinem Opa.",
+      "alt": [
+        "Paul bekommt von seinem Opa Hilfe."
+      ],
+      "difficulty": "medium",
+      "focus": "seinem (dative)"
+    },
+    {
+      "en": "My aunt's son is my cousin.",
+      "de": "Der Sohn von meiner Tante ist mein Cousin.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "family words"
+    },
+    {
+      "en": "His sister's daughter is his niece.",
+      "de": "Die Tochter von seiner Schwester ist seine Nichte.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "family words"
+    },
+    {
+      "en": "Those are my parents in front of their bakery.",
+      "de": "Das sind meine Eltern vor ihrer Bäckerei.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "ihrer (dative)"
+    },
+    {
+      "en": "And that one there was our grandpa.",
+      "de": "Und das da war unser Opa.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "unser / war"
+    },
+    {
+      "en": "But you're our grandpa! [informal]",
+      "de": "Aber du bist doch unser Opa!",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "unser"
+    },
+    {
+      "en": "Yes, I'm your grandpa, but the one in the photo was my grandpa. [plural]",
+      "de": "Ja, ich bin euer Opa, aber das auf dem Foto war mein Opa.",
+      "alt": [
+        "Ja, ich bin euer Opa. Aber das auf dem Foto war mein Opa."
+      ],
+      "difficulty": "medium",
+      "focus": "euer / mein"
+    },
+    {
+      "en": "My grandpa handed his bakery over to his son-in-law.",
+      "de": "Mein Opa hat seine Bäckerei seinem Schwiegersohn übergeben.",
+      "alt": [
+        "Mein Opa hat seinem Schwiegersohn seine Bäckerei übergeben."
+      ],
+      "difficulty": "medium",
+      "focus": "seine / seinem"
+    },
+    {
+      "en": "Have I told you about my uncle yet? [plural]",
+      "de": "Habe ich euch schon von meinem Onkel erzählt?",
+      "alt": [
+        "Hab ich euch schon von meinem Onkel erzählt?"
+      ],
+      "difficulty": "medium",
+      "focus": "telling family stories"
+    },
+    {
+      "en": "Listen: my aunt was really crazy. [plural]",
+      "de": "Also passt auf: Meine Tante war schon verrückt.",
+      "alt": [
+        "Passt auf: Meine Tante war wirklich verrückt."
+      ],
+      "difficulty": "medium",
+      "focus": "telling family stories"
+    },
+    {
+      "en": "And do you know what he did then? [plural]",
+      "de": "Und wisst ihr, was er dann gemacht hat?",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "telling family stories"
+    },
+    {
+      "en": "Do you know what happened then? [plural]",
+      "de": "Wisst ihr, was dann passiert ist?",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "telling family stories"
+    },
+    {
+      "en": "Uncle Willi didn't like working; he preferred going dancing.",
+      "de": "Onkel Willi hat nicht gern gearbeitet, er ist lieber tanzen gegangen.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "Perfekt with haben / sein"
+    },
+    {
+      "en": "Willi didn't open the bakery and didn't bake any pretzels.",
+      "de": "Willi hat die Bäckerei nicht aufgemacht und keine Brezeln gebacken.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "Perfekt (aufgemacht, gebacken)"
+    },
+    {
+      "en": "His father shouted: “Go where the pepper grows!”",
+      "de": "Sein Vater hat gerufen: „Geh doch dahin, wo der Pfeffer wächst!“",
+      "alt": [
+        "Sein Vater hat gerufen: „Geh dahin, wo der Pfeffer wächst!“"
+      ],
+      "difficulty": "medium",
+      "focus": "gerufen / idiom"
+    },
+    {
+      "en": "First he bought a motorbike, then he rode to India.",
+      "de": "Zuerst hat er ein Motorrad gekauft, dann ist er nach Indien gefahren.",
+      "alt": [
+        "Zuerst hat er ein Motorrad gekauft und dann ist er nach Indien gefahren."
+      ],
+      "difficulty": "medium",
+      "focus": "zuerst / dann"
+    },
+    {
+      "en": "Did you often visit your grandparents in the past? [informal]",
+      "de": "Hast du früher oft deine Großeltern besucht?",
+      "alt": [
+        "Hast du deine Großeltern früher oft besucht?"
+      ],
+      "difficulty": "medium",
+      "focus": "Perfekt (besucht)"
+    },
+    {
+      "en": "Did you often go dancing as a teenager? [informal]",
+      "de": "Bist du als Jugendlicher oft tanzen gegangen?",
+      "alt": [
+        "Bist du als Jugendliche oft tanzen gegangen?"
+      ],
+      "difficulty": "medium",
+      "focus": "Perfekt with sein"
+    },
+    {
+      "en": "Have you ever sold things at a flea market? [informal]",
+      "de": "Hast du schon einmal Sachen auf dem Flohmarkt verkauft?",
+      "alt": [
+        "Hast du schon mal Sachen auf dem Flohmarkt verkauft?"
+      ],
+      "difficulty": "medium",
+      "focus": "schon einmal"
+    },
+    {
+      "en": "As a child I didn't like playing computer games; I preferred reading comics.",
+      "de": "Als Kind habe ich nicht gern Computerspiele gespielt, ich habe lieber Comics gelesen.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "Perfekt / lieber"
+    },
+    {
+      "en": "We had a dog, and our dog was very funny.",
+      "de": "Wir hatten einen Hund und unser Hund war sehr lustig.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "hatten / unser"
+    },
+    {
+      "en": "Where were you yesterday? – We were at our aunt's. [plural]",
+      "de": "Wo wart ihr gestern? – Wir waren bei unserer Tante.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "wart / waren / unserer"
+    },
+    {
+      "en": "Is that your car? – No, that's their car. [formal]",
+      "de": "Ist das Ihr Auto? – Nein, das ist ihr Auto.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "Ihr / ihr"
+    },
+    {
+      "en": "The children can still bake 30 pretzels with the dough.",
+      "de": "Die Kinder können mit dem Teig noch 30 Brezeln backen.",
+      "alt": [
+        "Mit dem Teig können die Kinder noch 30 Brezeln backen.",
+        "Die Kinder können mit dem Teig noch dreißig Brezeln backen."
+      ],
+      "difficulty": "medium",
+      "focus": "der Teig"
+    },
+    {
+      "en": "My parents met at university.",
+      "de": "Meine Eltern haben sich an der Uni kennengelernt.",
+      "alt": [
+        "Meine Eltern haben sich an der Universität kennengelernt."
+      ],
+      "difficulty": "medium",
+      "focus": "Perfekt (kennengelernt)"
+    },
+    {
+      "en": "Are those your keys? – No, they belong to our neighbours. [plural]",
+      "de": "Sind das eure Schlüssel? – Nein, die gehören unseren Nachbarn.",
+      "alt": [
+        "Sind das eure Schlüssel? – Nein, sie gehören unseren Nachbarn."
+      ],
+      "difficulty": "medium",
+      "focus": "eure / unseren (review gehören)"
+    },
+    {
+      "en": "My grandparents live with us and take care of the household.",
+      "de": "Meine Großeltern wohnen bei uns und kümmern sich um den Haushalt.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "sich kümmern um (review)"
+    },
+    {
+      "en": "What did you do as a child? [formal]",
+      "de": "Was haben Sie als Kind gemacht?",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "als Kind"
+    },
+    {
+      "en": "My uncle was on the phone for an hour.",
+      "de": "Mein Onkel hat eine Stunde telefoniert.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "Perfekt (telefoniert)"
+    },
+    {
+      "en": "My brother forgot his keys and came home late.",
+      "de": "Mein Bruder hat seine Schlüssel vergessen und ist spät nach Hause gekommen.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "Perfekt (vergessen, gekommen)"
+    },
+    {
+      "en": "Did you understand the story? [plural]",
+      "de": "Habt ihr die Geschichte verstanden?",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "Perfekt (verstanden)"
+    },
+    {
+      "en": "We got a letter from our grandma.",
+      "de": "Wir haben einen Brief von unserer Oma bekommen.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "unserer / bekommen"
+    },
+    {
+      "en": "At the beginning of the holiday our grandpa was ill.",
+      "de": "Am Anfang vom Urlaub war unser Opa krank.",
+      "alt": [
+        "Am Anfang des Urlaubs war unser Opa krank."
+      ],
+      "difficulty": "medium",
+      "focus": "am Anfang / war"
+    },
+    {
+      "en": "My father-in-law is a baker, and my mother-in-law works in the bakery.",
+      "de": "Mein Schwiegervater ist Bäcker und meine Schwiegermutter arbeitet in der Bäckerei.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "in-laws"
+    },
+    {
+      "en": "Can you help us? We're looking for our daughter. [formal]",
+      "de": "Können Sie uns helfen? Wir suchen unsere Tochter.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "unsere (review helfen)"
+    },
+    {
+      "en": "After school we always climbed trees.",
+      "de": "Nach der Schule sind wir immer auf Bäume geklettert.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "nach + dative (review)"
+    },
+    {
+      "en": "I found the photo of my grandparents in the cellar.",
+      "de": "Ich habe das Foto von meinen Großeltern im Keller gefunden.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "meinen (dative plural)"
+    },
+    {
+      "en": "Our nephew likes the story very much.",
+      "de": "Unserem Neffen gefällt die Geschichte sehr.",
+      "alt": [
+        "Die Geschichte gefällt unserem Neffen sehr."
+      ],
+      "difficulty": "medium",
+      "focus": "unserem Neffen (review gefallen)"
+    },
+    {
+      "en": "My grandpa was a baker too, and he handed his bakery over to his son-in-law.",
+      "de": "Mein Opa war auch schon Bäcker und er hat seine Bäckerei seinem Schwiegersohn übergeben.",
+      "alt": [
+        "Mein Opa war auch Bäcker und hat seine Bäckerei seinem Schwiegersohn übergeben."
+      ],
+      "difficulty": "hard",
+      "focus": "war / Perfekt / possessives"
+    },
+    {
+      "en": "Uncle Willi wasn't hard-working: he didn't open the bakery and preferred to go dancing.",
+      "de": "Onkel Willi war nicht fleißig: Er hat die Bäckerei nicht aufgemacht und ist lieber tanzen gegangen.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "telling a story"
+    },
+    {
+      "en": "His father was ill, the bakery was closed, and then they argued.",
+      "de": "Sein Vater war krank, die Bäckerei war geschlossen und dann haben sie gestritten.",
+      "alt": [
+        "Sein Vater war krank, die Bäckerei war geschlossen und dann haben sie sich gestritten."
+      ],
+      "difficulty": "hard",
+      "focus": "war / gestritten"
+    },
+    {
+      "en": "Have I told you about my aunt? Listen: she was really crazy. [plural]",
+      "de": "Habe ich euch schon von meiner Tante erzählt? Also passt auf: Sie war schon verrückt.",
+      "alt": [
+        "Habe ich euch schon von meiner Tante erzählt? Passt auf: Sie war wirklich verrückt."
+      ],
+      "difficulty": "hard",
+      "focus": "telling family stories"
+    },
+    {
+      "en": "First he bought a motorbike, then he rode to India, and finally he opened a restaurant there.",
+      "de": "Zuerst hat er ein Motorrad gekauft, dann ist er nach Indien gefahren und zum Schluss hat er dort ein Restaurant aufgemacht.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "zuerst / dann / zum Schluss"
+    },
+    {
+      "en": "At first Paul found baking pretzels complicated, but in the end it worked well.",
+      "de": "Am Anfang hat Paul Brezelnbacken kompliziert gefunden, aber am Ende hat es gut geklappt.",
+      "alt": [
+        "Paul hat Brezelnbacken am Anfang kompliziert gefunden, aber am Ende hat es gut geklappt."
+      ],
+      "difficulty": "hard",
+      "focus": "am Anfang / am Ende"
+    },
+    {
+      "en": "Our grandparents live in Turkey, and every summer we spend our holiday with them.",
+      "de": "Unsere Großeltern wohnen in der Türkei und jeden Sommer verbringen wir unseren Urlaub bei ihnen.",
+      "alt": [
+        "Unsere Großeltern wohnen in der Türkei und wir verbringen jeden Sommer unseren Urlaub bei ihnen."
+      ],
+      "difficulty": "hard",
+      "focus": "unsere / unseren"
+    },
+    {
+      "en": "Are those your parents in front of the bakery? – Yes, and next to them is our uncle. [plural]",
+      "de": "Sind das eure Eltern vor der Bäckerei? – Ja, und neben ihnen ist unser Onkel.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "eure / unser (review)"
+    },
+    {
+      "en": "As children we slept outside in the garden and told stories.",
+      "de": "Als Kinder haben wir draußen im Garten übernachtet und Geschichten erzählt.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "childhood memories"
+    },
+    {
+      "en": "My brother collected football stickers, and my sister rode a unicycle.",
+      "de": "Mein Bruder hat Fußballbilder gesammelt und meine Schwester ist Einrad gefahren.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "Perfekt with haben / sein"
+    },
+    {
+      "en": "Did you often play with your cousins as a child, or were you alone a lot? [informal]",
+      "de": "Hast du als Kind oft mit deinen Cousins gespielt oder warst du viel allein?",
+      "alt": [
+        "Hast du als Kind oft mit deinen Cousinen gespielt oder warst du viel allein?"
+      ],
+      "difficulty": "hard",
+      "focus": "deinen / warst"
+    },
+    {
+      "en": "We had problems with our car, and then our phone didn't work either.",
+      "de": "Wir hatten Probleme mit unserem Auto und dann hat auch unser Handy nicht funktioniert.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "hatten / unserem (review)"
+    },
+    {
+      "en": "My mother's father was a doctor, but my mother became a teacher.",
+      "de": "Der Vater von meiner Mutter war Arzt, aber meine Mutter ist Lehrerin geworden.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "war / geworden"
+    },
+    {
+      "en": "Our children love Grandpa's stories, because he tells them really well.",
+      "de": "Unseren Kindern gefallen Opas Geschichten sehr, denn er erzählt sie wirklich gut.",
+      "alt": [
+        "Opas Geschichten gefallen unseren Kindern sehr, denn er erzählt sie wirklich gut."
+      ],
+      "difficulty": "hard",
+      "focus": "unseren / gefallen (review)"
+    },
+    {
+      "en": "Excuse me, is this your suitcase? – No, our suitcases are already in the car. [formal]",
+      "de": "Entschuldigung, ist das Ihr Koffer? – Nein, unsere Koffer sind schon im Auto.",
+      "alt": [
+        "Entschuldigen Sie, ist das Ihr Koffer? – Nein, unsere Koffer sind schon im Auto."
+      ],
+      "difficulty": "hard",
+      "focus": "Ihr / unsere"
+    },
+    {
+      "en": "Uncle Willi didn't come to the party. Do you know what happened? [plural]",
+      "de": "Onkel Willi ist nicht zur Party gekommen. Wisst ihr, was passiert ist?",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "telling family stories"
+    },
+    {
+      "en": "Two years ago my grandpa sold his bakery and moved to the countryside with my grandma.",
+      "de": "Vor zwei Jahren hat mein Opa seine Bäckerei verkauft und ist mit meiner Oma aufs Land gezogen.",
+      "alt": [
+        "Vor zwei Jahren hat mein Opa seine Bäckerei verkauft und ist mit meiner Oma auf das Land gezogen."
+      ],
+      "difficulty": "hard",
+      "focus": "vor + dative (review) / Perfekt"
+    },
+    {
+      "en": "I called my niece, but she didn't understand me, because the connection was bad.",
+      "de": "Ich habe meine Nichte angerufen, aber sie hat mich nicht verstanden, denn die Verbindung war schlecht.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "Perfekt / denn"
+    },
+    {
+      "en": "He was a bit crazy, my uncle, but we all loved him.",
+      "de": "Er war schon ein bisschen verrückt, mein Onkel, aber wir haben ihn alle geliebt.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "telling family stories"
+    },
+    {
+      "en": "Tell us about your grandparents: what did they do for a living? [plural]",
+      "de": "Erzählt mal von euren Großeltern: Was waren sie von Beruf?",
+      "alt": [
+        "Erzählt von euren Großeltern: Was waren sie von Beruf?"
+      ],
+      "difficulty": "hard",
+      "focus": "euren / waren"
+    },
+    {
+      "en": "My grandmother was a housewife and my grandfather had a job at BMW.",
+      "de": "Meine Großmutter war Hausfrau und mein Großvater hatte einen Job bei BMW.",
+      "alt": [
+        "Meine Oma war Hausfrau und mein Opa hatte einen Job bei BMW."
+      ],
+      "difficulty": "hard",
+      "focus": "war / hatte"
+    },
+    {
+      "en": "In a week we're visiting our uncle in Hamburg for three days.",
+      "de": "In einer Woche besuchen wir für drei Tage unseren Onkel in Hamburg.",
+      "alt": [
+        "In einer Woche besuchen wir unseren Onkel in Hamburg für drei Tage."
+      ],
+      "difficulty": "hard",
+      "focus": "in / für (review)"
+    },
+    {
+      "en": "The children forgot their keys and waited at their neighbours' place.",
+      "de": "Die Kinder haben ihre Schlüssel vergessen und haben bei ihren Nachbarn gewartet.",
+      "alt": [
+        "Die Kinder haben ihre Schlüssel vergessen und bei ihren Nachbarn gewartet."
+      ],
+      "difficulty": "hard",
+      "focus": "ihre / ihren"
+    },
+    {
+      "en": "Our grandpa explained everything to us, and in the end we baked thirty pretzels.",
+      "de": "Unser Opa hat uns alles erklärt und am Ende haben wir dreißig Brezeln gebacken.",
+      "alt": [
+        "Unser Opa hat uns alles erklärt und am Ende haben wir 30 Brezeln gebacken."
+      ],
+      "difficulty": "hard",
+      "focus": "am Ende / gebacken"
+    },
+    {
+      "en": "Where are your photos? – They're in the box in our cellar. [plural]",
+      "de": "Wo sind eure Fotos? – Sie sind in der Kiste in unserem Keller.",
+      "alt": [
+        "Wo sind eure Fotos? – Die sind in der Kiste in unserem Keller."
+      ],
+      "difficulty": "hard",
+      "focus": "eure / unserem"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "our grandpa",
+      "de": "unser Opa",
+      "alt": [],
+      "focus": "unser",
+      "note": ""
+    },
+    {
+      "en": "our grandma",
+      "de": "unsere Oma",
+      "alt": [],
+      "focus": "unser",
+      "note": ""
+    },
+    {
+      "en": "your uncle [plural]",
+      "de": "euer Onkel",
+      "alt": [],
+      "focus": "euer",
+      "note": ""
+    },
+    {
+      "en": "your aunt [plural]",
+      "de": "eure Tante",
+      "alt": [],
+      "focus": "euer",
+      "note": ""
+    },
+    {
+      "en": "their children",
+      "de": "ihre Kinder",
+      "alt": [],
+      "focus": "ihr",
+      "note": ""
+    },
+    {
+      "en": "your parents [formal]",
+      "de": "Ihre Eltern",
+      "alt": [],
+      "focus": "Ihr",
+      "note": ""
+    },
+    {
+      "en": "with our grandpa",
+      "de": "mit unserem Opa",
+      "alt": [],
+      "focus": "dative",
+      "note": ""
+    },
+    {
+      "en": "with your aunt [plural]",
+      "de": "mit eurer Tante",
+      "alt": [],
+      "focus": "dative",
+      "note": ""
+    },
+    {
+      "en": "I see our dog.",
+      "de": "Ich sehe unseren Hund.",
+      "alt": [],
+      "focus": "accusative",
+      "note": ""
+    },
+    {
+      "en": "What did your grandparents do for a living? [formal]",
+      "de": "Was waren Ihre Großeltern von Beruf?",
+      "alt": [],
+      "focus": "jobs",
+      "note": ""
+    },
+    {
+      "en": "My grandfather was a doctor.",
+      "de": "Mein Großvater war Arzt.",
+      "alt": [
+        "Mein Opa war Arzt."
+      ],
+      "focus": "jobs",
+      "note": ""
+    },
+    {
+      "en": "I don't want to be a doctor under any circumstances.",
+      "de": "Ich möchte auf keinen Fall Arzt werden.",
+      "alt": [],
+      "focus": "jobs",
+      "note": ""
+    },
+    {
+      "en": "The degree takes too long for me.",
+      "de": "Mir dauert das Studium zu lange.",
+      "alt": [
+        "Das Studium dauert mir zu lange."
+      ],
+      "focus": "jobs",
+      "note": ""
+    },
+    {
+      "en": "at the beginning",
+      "de": "am Anfang",
+      "alt": [],
+      "focus": "time",
+      "note": ""
+    },
+    {
+      "en": "in the end",
+      "de": "am Ende",
+      "alt": [],
+      "focus": "time",
+      "note": ""
+    },
+    {
+      "en": "It works well.",
+      "de": "Es klappt gut.",
+      "alt": [
+        "Das klappt gut."
+      ],
+      "focus": "klappen",
+      "note": ""
+    },
+    {
+      "en": "to bake pretzels",
+      "de": "Brezeln backen",
+      "alt": [],
+      "focus": "baking",
+      "note": ""
+    },
+    {
+      "en": "my nephew and my niece",
+      "de": "mein Neffe und meine Nichte",
+      "alt": [],
+      "focus": "family",
+      "note": ""
+    },
+    {
+      "en": "my cousin [male]",
+      "de": "mein Cousin",
+      "alt": [],
+      "focus": "family",
+      "note": ""
+    },
+    {
+      "en": "my cousin [female]",
+      "de": "meine Cousine",
+      "alt": [],
+      "focus": "family",
+      "note": ""
+    },
+    {
+      "en": "the son-in-law",
+      "de": "der Schwiegersohn",
+      "alt": [],
+      "focus": "family",
+      "note": ""
+    },
+    {
+      "en": "the father-in-law",
+      "de": "der Schwiegervater",
+      "alt": [],
+      "focus": "family",
+      "note": ""
+    },
+    {
+      "en": "to tell stories",
+      "de": "Geschichten erzählen",
+      "alt": [],
+      "focus": "childhood",
+      "note": ""
+    },
+    {
+      "en": "to sleep outside",
+      "de": "draußen übernachten",
+      "alt": [],
+      "focus": "childhood",
+      "note": ""
+    },
+    {
+      "en": "to climb trees",
+      "de": "auf Bäume klettern",
+      "alt": [],
+      "focus": "childhood",
+      "note": ""
+    },
+    {
+      "en": "to collect football stickers",
+      "de": "Fußballbilder sammeln",
+      "alt": [],
+      "focus": "childhood",
+      "note": ""
+    },
+    {
+      "en": "to sell things at the flea market",
+      "de": "Sachen auf dem Flohmarkt verkaufen",
+      "alt": [],
+      "focus": "childhood",
+      "note": ""
+    },
+    {
+      "en": "to ride a unicycle",
+      "de": "Einrad fahren",
+      "alt": [],
+      "focus": "childhood",
+      "note": ""
+    },
+    {
+      "en": "to skateboard",
+      "de": "Skateboard fahren",
+      "alt": [],
+      "focus": "childhood",
+      "note": ""
+    },
+    {
+      "en": "to read comics",
+      "de": "Comics lesen",
+      "alt": [],
+      "focus": "childhood",
+      "note": ""
+    },
+    {
+      "en": "to play with dolls",
+      "de": "mit Puppen spielen",
+      "alt": [],
+      "focus": "childhood",
+      "note": ""
+    },
+    {
+      "en": "to eat sweets",
+      "de": "Süßigkeiten essen",
+      "alt": [],
+      "focus": "childhood",
+      "note": ""
+    },
+    {
+      "en": "to tell jokes",
+      "de": "Witze erzählen",
+      "alt": [],
+      "focus": "childhood",
+      "note": ""
+    },
+    {
+      "en": "Have I told you about my uncle yet? [plural]",
+      "de": "Habe ich euch schon von meinem Onkel erzählt?",
+      "alt": [],
+      "focus": "family stories",
+      "note": ""
+    },
+    {
+      "en": "Listen: [plural]",
+      "de": "Also passt auf:",
+      "alt": [
+        "Passt auf:"
+      ],
+      "focus": "family stories",
+      "note": ""
+    },
+    {
+      "en": "And do you know what he did then? [plural]",
+      "de": "Und wisst ihr, was er dann gemacht hat?",
+      "alt": [],
+      "focus": "family stories",
+      "note": ""
+    },
+    {
+      "en": "Do you know what happened then? [plural]",
+      "de": "Wisst ihr, was dann passiert ist?",
+      "alt": [],
+      "focus": "family stories",
+      "note": ""
+    },
+    {
+      "en": "He was really crazy, my uncle.",
+      "de": "Er war schon verrückt, mein Onkel.",
+      "alt": [],
+      "focus": "family stories",
+      "note": "schon adds emphasis here: really, quite."
+    },
+    {
+      "en": "first – then – afterwards – finally",
+      "de": "zuerst – dann – danach – zum Schluss",
+      "alt": [],
+      "focus": "sequence",
+      "note": ""
+    },
+    {
+      "en": "not hard-working",
+      "de": "nicht fleißig",
+      "alt": [],
+      "focus": "character",
+      "note": ""
+    },
+    {
+      "en": "to go dancing",
+      "de": "tanzen gehen",
+      "alt": [],
+      "focus": "free time",
+      "note": ""
+    },
+    {
+      "en": "The bakery was closed.",
+      "de": "Die Bäckerei war geschlossen.",
+      "alt": [],
+      "focus": "war",
+      "note": ""
+    },
+    {
+      "en": "Go where the pepper grows!",
+      "de": "Geh doch dahin, wo der Pfeffer wächst!",
+      "alt": [],
+      "focus": "idiom",
+      "note": "An old way of saying: Get lost!"
+    },
+    {
+      "en": "I had a dog.",
+      "de": "Ich hatte einen Hund.",
+      "alt": [],
+      "focus": "hatte",
+      "note": ""
+    },
+    {
+      "en": "We were at home.",
+      "de": "Wir waren zu Hause.",
+      "alt": [],
+      "focus": "waren",
+      "note": ""
+    },
+    {
+      "en": "as a child",
+      "de": "als Kind",
+      "alt": [],
+      "focus": "childhood",
+      "note": ""
+    },
+    {
+      "en": "in the past",
+      "de": "früher",
+      "alt": [],
+      "focus": "time",
+      "note": ""
+    },
+    {
+      "en": "Have you ever ...? [informal]",
+      "de": "Hast du schon einmal ...?",
+      "alt": [
+        "Hast du schon mal ...?"
+      ],
+      "focus": "questions",
+      "note": ""
+    },
+    {
+      "en": "childhood memories",
+      "de": "Kindheitserinnerungen",
+      "alt": [
+        "Erinnerungen an die Kindheit"
+      ],
+      "focus": "memories",
+      "note": ""
+    },
+    {
+      "en": "to hand over the bakery",
+      "de": "die Bäckerei übergeben",
+      "alt": [],
+      "focus": "übergeben",
+      "note": ""
+    }
+  ],
+  "text": {
+    "title": "My crazy aunt",
+    "en": "Have I told you about my aunt Rosa? Listen: she was really crazy, my aunt!\n\nRosa was my mother's sister. As a child she didn't like playing with dolls. She preferred climbing trees, and she often slept outside in the garden. Our grandparents weren't happy about that.\n\nLater Rosa worked in our grandpa's bakery. But she wasn't very hard-working. She preferred telling jokes to the customers, and she often forgot the pretzels in the oven.\n\nAnd do you know what happened then? One day she sold her car, bought a bike and rode to Italy. There she opened a café. At first it was complicated, but in the end it worked well.\n\nToday her café belongs to her daughter, and every summer we visit our cousin in Italy.",
+    "de": "Habe ich euch schon von meiner Tante Rosa erzählt? Also passt auf: Sie war schon verrückt, meine Tante!\n\nRosa war die Schwester von meiner Mutter. Als Kind hat sie nicht gern mit Puppen gespielt. Sie ist lieber auf Bäume geklettert und hat oft draußen im Garten übernachtet. Unsere Großeltern waren darüber nicht glücklich.\n\nSpäter hat Rosa in der Bäckerei von unserem Opa gearbeitet. Aber sie war nicht sehr fleißig. Sie hat den Kunden lieber Witze erzählt und oft hat sie die Brezeln im Ofen vergessen.\n\nUnd wisst ihr, was dann passiert ist? Eines Tages hat sie ihr Auto verkauft, ein Fahrrad gekauft und ist nach Italien gefahren. Dort hat sie ein Café aufgemacht. Am Anfang war das kompliziert, aber am Ende hat es gut geklappt.\n\nHeute gehört ihr Café ihrer Tochter und jeden Sommer besuchen wir unsere Cousine in Italien."
+  }
+}

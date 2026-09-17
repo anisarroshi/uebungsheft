@@ -1,0 +1,1399 @@
+{
+  "id": "a2-1-s04",
+  "level": "A2.1",
+  "number": 4,
+  "title": "At the supermarket",
+  "createdAt": "2026-09-16",
+  "content": {
+    "topics": [
+      "food shopping",
+      "packaging and quantities",
+      "at the cheese and meat counter",
+      "shopping for a flatshare",
+      "ordering breakfast"
+    ],
+    "vocabulary": [
+      {
+        "de": "der Thunfisch",
+        "en": "tuna"
+      },
+      {
+        "de": "die Salami, -s",
+        "en": "salami"
+      },
+      {
+        "de": "der Pfirsich, -e",
+        "en": "peach"
+      },
+      {
+        "de": "der Eistee",
+        "en": "iced tea"
+      },
+      {
+        "de": "die Paprika, -s",
+        "en": "pepper (vegetable)"
+      },
+      {
+        "de": "der Knoblauch",
+        "en": "garlic"
+      },
+      {
+        "de": "die Banane, -n / die Birne, -n",
+        "en": "banana / pear"
+      },
+      {
+        "de": "der Saft, -¨e",
+        "en": "juice"
+      },
+      {
+        "de": "die Bohne, -n",
+        "en": "bean"
+      },
+      {
+        "de": "das Mehl",
+        "en": "flour"
+      },
+      {
+        "de": "die Marmelade, -n",
+        "en": "jam"
+      },
+      {
+        "de": "der Quark",
+        "en": "quark"
+      },
+      {
+        "de": "die Cola, -s",
+        "en": "cola"
+      },
+      {
+        "de": "der/das Bonbon, -s",
+        "en": "sweet, candy"
+      },
+      {
+        "de": "die Tüte / die Dose / die Flasche / das Glas / die Packung",
+        "en": "bag / can / bottle / jar / packet"
+      },
+      {
+        "de": "der Einkaufszettel, -",
+        "en": "shopping list"
+      },
+      {
+        "de": "die Angabe, -n",
+        "en": "detail, information"
+      },
+      {
+        "de": "der Mitbewohner, - / die Mitbewohnerin, -nen",
+        "en": "flatmate"
+      },
+      {
+        "de": "die WG (Wohngemeinschaft)",
+        "en": "flatshare"
+      },
+      {
+        "de": "die Essgewohnheit, -en",
+        "en": "eating habit"
+      },
+      {
+        "de": "der Frischkäse / der Käse (weich / hart)",
+        "en": "cream cheese / cheese (soft / hard)"
+      },
+      {
+        "de": "die Vollmilch / fettarme Milch / die Magermilch",
+        "en": "whole milk / low-fat milk / skimmed milk"
+      },
+      {
+        "de": "die Buttermilch",
+        "en": "buttermilk"
+      },
+      {
+        "de": "der Schinken (roh / gekocht)",
+        "en": "ham (raw / cooked)"
+      },
+      {
+        "de": "mild / mager",
+        "en": "mild / lean"
+      },
+      {
+        "de": "das Kilogramm / das Gramm / das Pfund / der Liter",
+        "en": "kilogram / gram / pound (500 g) / litre"
+      },
+      {
+        "de": "das Angebot, -e",
+        "en": "special offer"
+      },
+      {
+        "de": "der Kunde, -n / die Kundin, -nen",
+        "en": "customer"
+      },
+      {
+        "de": "der Verkäufer, - / die Verkäuferin, -nen",
+        "en": "sales assistant"
+      },
+      {
+        "de": "der Einkauf, -¨e",
+        "en": "shopping"
+      },
+      {
+        "de": "die Nerven (Pl.)",
+        "en": "nerves"
+      },
+      {
+        "de": "das Brötchen, -",
+        "en": "bread roll"
+      },
+      {
+        "de": "hell / dunkel (Brot)",
+        "en": "white / dark (bread)"
+      },
+      {
+        "de": "der Brotkorb, -¨e",
+        "en": "bread basket"
+      },
+      {
+        "de": "die Scheibe, -n",
+        "en": "slice"
+      },
+      {
+        "de": "das Ei, -er (weich / hart gekocht)",
+        "en": "egg (soft-boiled / hard-boiled)"
+      },
+      {
+        "de": "das Rührei",
+        "en": "scrambled eggs"
+      },
+      {
+        "de": "der Obstsalat, -e",
+        "en": "fruit salad"
+      },
+      {
+        "de": "der Milchkaffee / der Espresso (einfach / doppelt)",
+        "en": "milky coffee / espresso (single / double)"
+      },
+      {
+        "de": "frisch gepresst",
+        "en": "freshly squeezed"
+      }
+    ],
+    "grammar": [
+      {
+        "name": "Adjective endings after the indefinite article",
+        "explanation": "After ein/kein/mein the adjective shows the gender when the article can't: masculine nominative -er (ein magerer Schinken), neuter nominative and accusative -es (ein helles Brot). Feminine nominative and accusative -e (eine grüne Paprika). Masculine accusative and all dative forms -en (einen mageren Schinken, einem hellen Brot, einer grünen Paprika).",
+        "examples": [
+          "ein magerer Schinken / einen mageren Schinken / einem mageren Schinken",
+          "ein helles Brot / ein helles Brot / einem hellen Brot",
+          "eine grüne Paprika / eine grüne Paprika / einer grünen Paprika"
+        ]
+      },
+      {
+        "name": "Plural with and without an article",
+        "explanation": "Without an article the plural adjective ends in -e (helle Brötchen), but -en in the dative (hellen Brötchen). After kein- or mein- the plural ending is always -en.",
+        "examples": [
+          "Wir brauchen helle Brötchen.",
+          "Wir haben keine hellen Brötchen mehr."
+        ]
+      },
+      {
+        "name": "Polite requests with hätte gern",
+        "explanation": "Ich hätte gern ... is a polite way to say what you want in a shop or café.",
+        "examples": [
+          "Ich hätte gern einen milden Käse."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "de": "Was darf es sein? / Kann ich Ihnen helfen?",
+        "en": "What can I get you? / Can I help you?"
+      },
+      {
+        "de": "Ich hätte gern ... / Ich möchte ... / Ich brauche ...",
+        "en": "I'd like ... / I want ... / I need ..."
+      },
+      {
+        "de": "Möchten Sie lieber ... oder ...?",
+        "en": "Would you prefer ... or ...?"
+      },
+      {
+        "de": "Soll es ... oder ... sein?",
+        "en": "Should it be ... or ...?"
+      },
+      {
+        "de": "Die sind heute beide im Angebot.",
+        "en": "Both are on offer today."
+      },
+      {
+        "de": "Wie viel darf es sein?",
+        "en": "How much would you like?"
+      },
+      {
+        "de": "Darf es noch etwas sein? – Nein, danke. Das ist alles.",
+        "en": "Anything else? – No, thank you. That's all."
+      },
+      {
+        "de": "Ich hoffe, du magst ... – Oh ja, ... esse ich gern.",
+        "en": "I hope you like ... – Oh yes, I like eating ..."
+      }
+    ]
+  },
+  "sentences": [
+    {
+      "en": "I'd like a mild cheese.",
+      "de": "Ich hätte gern einen milden Käse.",
+      "alt": [
+        "Ich möchte einen milden Käse."
+      ],
+      "difficulty": "easy",
+      "focus": "einen + -en (accusative)"
+    },
+    {
+      "en": "That's a good question.",
+      "de": "Das ist eine gute Frage.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "eine + -e"
+    },
+    {
+      "en": "Don't you have normal milk? [formal]",
+      "de": "Haben Sie denn keine normale Milch?",
+      "alt": [
+        "Haben Sie keine normale Milch?"
+      ],
+      "difficulty": "easy",
+      "focus": "keine + -e (accusative)"
+    },
+    {
+      "en": "I'd like a lean ham.",
+      "de": "Ich hätte gern einen mageren Schinken.",
+      "alt": [
+        "Ich möchte einen mageren Schinken."
+      ],
+      "difficulty": "easy",
+      "focus": "einen + -en (accusative)"
+    },
+    {
+      "en": "Should it be a raw ham or a cooked one?",
+      "de": "Soll es ein roher Schinken oder ein gekochter sein?",
+      "alt": [
+        "Soll es ein roher oder ein gekochter Schinken sein?"
+      ],
+      "difficulty": "easy",
+      "focus": "ein + -er (nominative)"
+    },
+    {
+      "en": "That's a white loaf.",
+      "de": "Das ist ein helles Brot.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "ein + -es (nominative)"
+    },
+    {
+      "en": "I'm buying a green pepper.",
+      "de": "Ich kaufe eine grüne Paprika.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "eine + -e (accusative)"
+    },
+    {
+      "en": "We need white bread rolls.",
+      "de": "Wir brauchen helle Brötchen.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "plural without article -e"
+    },
+    {
+      "en": "I'd like a can of tuna.",
+      "de": "Ich hätte gern eine Dose Thunfisch.",
+      "alt": [
+        "Ich möchte eine Dose Thunfisch."
+      ],
+      "difficulty": "easy",
+      "focus": "packaging"
+    },
+    {
+      "en": "Please give me a packet of flour. [formal]",
+      "de": "Geben Sie mir bitte eine Packung Mehl.",
+      "alt": [
+        "Geben Sie mir bitte ein Paket Mehl."
+      ],
+      "difficulty": "easy",
+      "focus": "packaging"
+    },
+    {
+      "en": "We need a bottle of cola.",
+      "de": "Wir brauchen eine Flasche Cola.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "packaging"
+    },
+    {
+      "en": "A jar of jam, please.",
+      "de": "Ein Glas Marmelade, bitte.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "packaging"
+    },
+    {
+      "en": "I'll take a bag of sweets.",
+      "de": "Ich nehme eine Tüte Bonbons.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "packaging"
+    },
+    {
+      "en": "What can I get you?",
+      "de": "Was darf es sein?",
+      "alt": [
+        "Was darf's sein?"
+      ],
+      "difficulty": "easy",
+      "focus": "shopping"
+    },
+    {
+      "en": "How much would you like?",
+      "de": "Wie viel darf es sein?",
+      "alt": [
+        "Wie viel darf's sein?"
+      ],
+      "difficulty": "easy",
+      "focus": "shopping"
+    },
+    {
+      "en": "200 grams, please.",
+      "de": "200 Gramm, bitte.",
+      "alt": [
+        "Zweihundert Gramm, bitte."
+      ],
+      "difficulty": "easy",
+      "focus": "quantities"
+    },
+    {
+      "en": "A kilo is 1000 grams.",
+      "de": "Ein Kilo sind 1000 Gramm.",
+      "alt": [
+        "Ein Kilogramm sind 1000 Gramm.",
+        "Ein Kilo sind tausend Gramm."
+      ],
+      "difficulty": "easy",
+      "focus": "quantities"
+    },
+    {
+      "en": "Anything else? [formal]",
+      "de": "Möchten Sie sonst noch etwas?",
+      "alt": [
+        "Darf es noch etwas sein?"
+      ],
+      "difficulty": "easy",
+      "focus": "shopping"
+    },
+    {
+      "en": "No, thank you. That's all.",
+      "de": "Nein, danke. Das ist alles.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "shopping"
+    },
+    {
+      "en": "Both are on offer today.",
+      "de": "Die sind heute beide im Angebot.",
+      "alt": [
+        "Beide sind heute im Angebot."
+      ],
+      "difficulty": "easy",
+      "focus": "im Angebot"
+    },
+    {
+      "en": "Otto has a shopping list.",
+      "de": "Otto hat einen Einkaufszettel.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "Einkaufszettel"
+    },
+    {
+      "en": "He's buying two litres of whole milk.",
+      "de": "Er kauft zwei Liter Vollmilch.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "quantities"
+    },
+    {
+      "en": "Bruno drinks low-fat milk.",
+      "de": "Bruno trinkt fettarme Milch.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "adjective without article"
+    },
+    {
+      "en": "I don't like jam.",
+      "de": "Ich mag keine Marmelade.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "keine"
+    },
+    {
+      "en": "I hope you like eggs. [informal]",
+      "de": "Ich hoffe, du magst Eier.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "expressing preferences"
+    },
+    {
+      "en": "I've ordered you a soft-boiled egg. [informal]",
+      "de": "Ich habe dir ein weich gekochtes Ei bestellt.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "ein + -es (accusative)"
+    },
+    {
+      "en": "I'd like a big breakfast.",
+      "de": "Ich hätte gern ein großes Frühstück.",
+      "alt": [
+        "Ich möchte ein großes Frühstück."
+      ],
+      "difficulty": "easy",
+      "focus": "ein + -es (accusative)"
+    },
+    {
+      "en": "I'll have a small milky coffee.",
+      "de": "Ich nehme einen kleinen Milchkaffee.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "einen + -en (accusative)"
+    },
+    {
+      "en": "Is the orange juice freshly squeezed?",
+      "de": "Ist der Orangensaft frisch gepresst?",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "frisch gepresst"
+    },
+    {
+      "en": "I bought a new phone.",
+      "de": "Ich habe ein neues Handy gekauft.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "ein + -es (accusative)"
+    },
+    {
+      "en": "She has a blue pen.",
+      "de": "Sie hat einen blauen Kugelschreiber.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "einen + -en (accusative)"
+    },
+    {
+      "en": "He's buying red trousers with a black belt.",
+      "de": "Er kauft eine rote Hose mit einem schwarzen Gürtel.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "eine + -e / einem + -en"
+    },
+    {
+      "en": "The customer is looking for garlic.",
+      "de": "Die Kundin sucht Knoblauch.",
+      "alt": [
+        "Der Kunde sucht Knoblauch."
+      ],
+      "difficulty": "easy",
+      "focus": "Kunde / Kundin"
+    },
+    {
+      "en": "The sales assistant is very friendly.",
+      "de": "Die Verkäuferin ist sehr freundlich.",
+      "alt": [
+        "Der Verkäufer ist sehr freundlich."
+      ],
+      "difficulty": "easy",
+      "focus": "Verkäufer / Verkäuferin"
+    },
+    {
+      "en": "Otto lives in a flatshare.",
+      "de": "Otto wohnt in einer WG.",
+      "alt": [
+        "Otto wohnt in einer Wohngemeinschaft."
+      ],
+      "difficulty": "easy",
+      "focus": "die WG"
+    },
+    {
+      "en": "Would you prefer a soft cheese or a hard cheese? [formal]",
+      "de": "Möchten Sie lieber einen weichen oder einen harten Käse?",
+      "alt": [
+        "Möchten Sie lieber einen weichen Käse oder einen harten?",
+        "Möchten Sie lieber einen weichen Käse oder einen harten Käse?"
+      ],
+      "difficulty": "medium",
+      "focus": "einen + -en (accusative)"
+    },
+    {
+      "en": "Do you mean whole milk, low-fat milk or skimmed milk? [formal]",
+      "de": "Meinen Sie Vollmilch, fettarme Milch oder Magermilch?",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "shopping"
+    },
+    {
+      "en": "Otto has problems, because exact details are missing from the shopping list.",
+      "de": "Otto hat Probleme, denn auf dem Einkaufszettel fehlen genaue Angaben.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "plural without article -e"
+    },
+    {
+      "en": "He wants to call home, but his phone isn't working.",
+      "de": "Er will zu Hause anrufen, aber sein Handy funktioniert nicht.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "funktionieren (review)"
+    },
+    {
+      "en": "He buys too much, because he doesn't want to make any mistakes.",
+      "de": "Er kauft zu viel ein, denn er will keine Fehler machen.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "einkaufen / denn"
+    },
+    {
+      "en": "Otto bought 250 grams of raw ham and 250 grams of cooked ham.",
+      "de": "Otto hat 250 Gramm rohen Schinken und 250 Gramm gekochten Schinken gekauft.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "adjective without article"
+    },
+    {
+      "en": "Please give me 200 grams of garlic salami. [formal]",
+      "de": "Geben Sie mir bitte 200 Gramm Knoblauchsalami.",
+      "alt": [
+        "Geben Sie mir bitte zweihundert Gramm Knoblauchsalami."
+      ],
+      "difficulty": "medium",
+      "focus": "quantities"
+    },
+    {
+      "en": "Why did you buy so much? [informal]",
+      "de": "Warum hast du denn so viel eingekauft?",
+      "alt": [
+        "Warum hast du so viel eingekauft?"
+      ],
+      "difficulty": "medium",
+      "focus": "einkaufen (Perfekt)"
+    },
+    {
+      "en": "The shopping costs 87.30 euros.",
+      "de": "Der Einkauf kostet 87,30 Euro.",
+      "alt": [
+        "Der Einkauf kostet 87 Euro 30."
+      ],
+      "difficulty": "medium",
+      "focus": "der Einkauf"
+    },
+    {
+      "en": "Jochen and Bruno think Otto bought too much.",
+      "de": "Jochen und Bruno meinen, Otto hat zu viel eingekauft.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "meinen"
+    },
+    {
+      "en": "I'd like a lean ham and a bottle of iced tea.",
+      "de": "Ich hätte gern einen mageren Schinken und eine Flasche Eistee.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "einen + -en / packaging"
+    },
+    {
+      "en": "We need a green pepper, two bananas and a pear.",
+      "de": "Wir brauchen eine grüne Paprika, zwei Bananen und eine Birne.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "eine + -e"
+    },
+    {
+      "en": "I've ordered you a small breakfast with a bread roll. [informal]",
+      "de": "Ich habe dir ein kleines Frühstück mit einem Brötchen bestellt.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "ein + -es (accusative)"
+    },
+    {
+      "en": "But I don't like jam. I'd rather have cheese.",
+      "de": "Aber ich mag keine Marmelade. Ich möchte lieber Käse.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "expressing preferences"
+    },
+    {
+      "en": "Oh yes, I like eating soft-boiled eggs.",
+      "de": "Oh ja, weich gekochte Eier esse ich gern.",
+      "alt": [
+        "Oh ja, ich esse gern weich gekochte Eier."
+      ],
+      "difficulty": "medium",
+      "focus": "plural without article -e"
+    },
+    {
+      "en": "I'd like a coffee with warm milk.",
+      "de": "Ich hätte gern einen Kaffee mit warmer Milch.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "dative without article -er"
+    },
+    {
+      "en": "Last month I bought two kilos of green beans for three people.",
+      "de": "Letzten Monat habe ich für drei Personen zwei Kilo grüne Bohnen gekauft.",
+      "alt": [
+        "Letzten Monat habe ich zwei Kilo grüne Bohnen für drei Personen gekauft."
+      ],
+      "difficulty": "medium",
+      "focus": "plural without article -e"
+    },
+    {
+      "en": "That was far too much, so we ate beans for three days.",
+      "de": "Das war viel zu viel, so haben wir drei Tage Bohnen gegessen.",
+      "alt": [
+        "Das war viel zu viel. Wir haben dann drei Tage Bohnen gegessen."
+      ],
+      "difficulty": "medium",
+      "focus": "viel zu viel"
+    },
+    {
+      "en": "Can I help you? – Yes, I need a pound of quark.",
+      "de": "Kann ich Ihnen helfen? – Ja, ich brauche ein Pfund Quark.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "quantities"
+    },
+    {
+      "en": "Otto doesn't know his flatmates' eating habits well.",
+      "de": "Otto kennt die Essgewohnheiten von seinen Mitbewohnern nicht gut.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "Essgewohnheiten"
+    },
+    {
+      "en": "I've bought a new sofa and a big lamp.",
+      "de": "Ich habe ein neues Sofa und eine große Lampe gekauft.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "ein + -es / eine + -e"
+    },
+    {
+      "en": "We have a new shelf. Where shall we put it?",
+      "de": "Wir haben ein neues Regal. Wohin sollen wir es stellen?",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "Wohin? (review)"
+    },
+    {
+      "en": "My brother has a small flat with a big balcony.",
+      "de": "Mein Bruder hat eine kleine Wohnung mit einem großen Balkon.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "eine + -e / einem + -en"
+    },
+    {
+      "en": "Our grandpa had an old bakery in a small village.",
+      "de": "Unser Opa hatte eine alte Bäckerei in einem kleinen Dorf.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "hatte (review) / einem + -en"
+    },
+    {
+      "en": "My aunt lives in a pretty house with a big garden.",
+      "de": "Meine Tante wohnt in einem schönen Haus mit einem großen Garten.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "einem + -en (dative)"
+    },
+    {
+      "en": "We're looking for a quiet hotel by the sea.",
+      "de": "Wir suchen ein ruhiges Hotel am Meer.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "ein + -es (accusative)"
+    },
+    {
+      "en": "Here you'll find a clean beach and a small campsite. [formal]",
+      "de": "Hier finden Sie einen sauberen Strand und einen kleinen Campingplatz.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "einen + -en (review holidays)"
+    },
+    {
+      "en": "Do you have a cheap bike for one day? [formal]",
+      "de": "Haben Sie ein billiges Fahrrad für einen Tag?",
+      "alt": [
+        "Haben Sie ein günstiges Fahrrad für einen Tag?"
+      ],
+      "difficulty": "medium",
+      "focus": "ein + -es (accusative)"
+    },
+    {
+      "en": "I'd like a large portion of scrambled eggs.",
+      "de": "Ich hätte gern eine große Portion Rührei.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "eine + -e"
+    },
+    {
+      "en": "Would you like a black tea or a green tea? [informal]",
+      "de": "Möchtest du einen schwarzen Tee oder einen grünen Tee?",
+      "alt": [
+        "Möchtest du einen schwarzen oder einen grünen Tee?"
+      ],
+      "difficulty": "medium",
+      "focus": "einen + -en"
+    },
+    {
+      "en": "A double espresso and a small fruit salad, please.",
+      "de": "Einen doppelten Espresso und einen kleinen Obstsalat, bitte.",
+      "alt": [
+        "Ein doppelter Espresso und ein kleiner Obstsalat, bitte."
+      ],
+      "difficulty": "medium",
+      "focus": "ordering"
+    },
+    {
+      "en": "Dark bread rolls are really delicious.",
+      "de": "Dunkle Brötchen sind wirklich lecker.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "plural without article -e"
+    },
+    {
+      "en": "We don't have any white rolls left, only dark ones.",
+      "de": "Wir haben keine hellen Brötchen mehr, nur dunkle.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "keine + -en (plural)"
+    },
+    {
+      "en": "Bruno doesn't drink low-fat milk; he wants whole milk.",
+      "de": "Bruno trinkt keine fettarme Milch, er will Vollmilch.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "keine + -e"
+    },
+    {
+      "en": "Do you have a small bag for me? [formal]",
+      "de": "Haben Sie eine kleine Tüte für mich?",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "eine + -e"
+    },
+    {
+      "en": "There's a bottle of juice and a jar of jam in the fridge.",
+      "de": "Im Kühlschrank stehen eine Flasche Saft und ein Glas Marmelade.",
+      "alt": [
+        "Im Kühlschrank steht eine Flasche Saft und ein Glas Marmelade."
+      ],
+      "difficulty": "medium",
+      "focus": "stehen (review)"
+    },
+    {
+      "en": "Put the milk in the fridge, please! [informal]",
+      "de": "Stell die Milch bitte in den Kühlschrank!",
+      "alt": [
+        "Stell bitte die Milch in den Kühlschrank!"
+      ],
+      "difficulty": "medium",
+      "focus": "stellen + accusative (review)"
+    },
+    {
+      "en": "I'm looking for a mild cheese with little fat.",
+      "de": "Ich suche einen milden Käse mit wenig Fett.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "einen + -en"
+    },
+    {
+      "en": "The customer asks the sales assistant for a soft cheese.",
+      "de": "Die Kundin fragt den Verkäufer nach einem weichen Käse.",
+      "alt": [
+        "Der Kunde fragt die Verkäuferin nach einem weichen Käse."
+      ],
+      "difficulty": "medium",
+      "focus": "einem + -en (dative)"
+    },
+    {
+      "en": "Should it be a big bottle or a small one?",
+      "de": "Soll es eine große Flasche oder eine kleine sein?",
+      "alt": [
+        "Soll es eine große oder eine kleine Flasche sein?"
+      ],
+      "difficulty": "medium",
+      "focus": "eine + -e"
+    },
+    {
+      "en": "Otto has problems, because exact details are missing from the shopping list, and his phone isn't working either.",
+      "de": "Otto hat Probleme, denn auf dem Einkaufszettel fehlen genaue Angaben und sein Handy funktioniert auch nicht.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "denn / review"
+    },
+    {
+      "en": "Good morning, I'd like a mild cheese and 200 grams of lean ham.",
+      "de": "Guten Morgen, ich hätte gern einen milden Käse und 200 Gramm mageren Schinken.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "adjective endings"
+    },
+    {
+      "en": "Would you like a raw ham or a cooked one? – Both are on offer today. [formal]",
+      "de": "Möchten Sie einen rohen Schinken oder einen gekochten? – Die sind heute beide im Angebot.",
+      "alt": [
+        "Möchten Sie lieber einen rohen oder einen gekochten Schinken? – Die sind heute beide im Angebot."
+      ],
+      "difficulty": "hard",
+      "focus": "einen + -en / im Angebot"
+    },
+    {
+      "en": "I bought a new phone, a blue pen and red trousers with a black belt.",
+      "de": "Ich habe ein neues Handy, einen blauen Kugelschreiber und eine rote Hose mit einem schwarzen Gürtel gekauft.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "all accusative endings"
+    },
+    {
+      "en": "I've ordered you a big breakfast with a soft-boiled egg and a fresh orange juice. [informal]",
+      "de": "Ich habe dir ein großes Frühstück mit einem weich gekochten Ei und einem frischen Orangensaft bestellt.",
+      "alt": [
+        "Ich habe dir ein großes Frühstück mit einem weich gekochten Ei und einem frisch gepressten Orangensaft bestellt."
+      ],
+      "difficulty": "hard",
+      "focus": "accusative + dative endings"
+    },
+    {
+      "en": "Bruno is annoyed: he doesn't drink skimmed milk, and Otto hasn't bought any whole milk.",
+      "de": "Bruno ist sauer: Er trinkt keine Magermilch und Otto hat keine Vollmilch gekauft.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "keine"
+    },
+    {
+      "en": "We have a big kitchen with a new fridge, but unfortunately no dishwasher.",
+      "de": "Wir haben eine große Küche mit einem neuen Kühlschrank, aber leider keine Spülmaschine.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "eine + -e / einem + -en"
+    },
+    {
+      "en": "Otto has lived in the flatshare for 18 days, and he doesn't have good nerves, says Bruno.",
+      "de": "Otto wohnt seit 18 Tagen in der WG und er hat keine guten Nerven, meint Bruno.",
+      "alt": [
+        "Otto wohnt seit 18 Tagen in der WG und hat keine guten Nerven, sagt Bruno."
+      ],
+      "difficulty": "hard",
+      "focus": "keine + -en (plural)"
+    },
+    {
+      "en": "For my uncle's birthday I baked a big cake and bought a good wine.",
+      "de": "Zum Geburtstag von meinem Onkel habe ich einen großen Kuchen gebacken und einen guten Wein gekauft.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "einen + -en / Perfekt (review)"
+    },
+    {
+      "en": "I'd most like to book a small hotel with a big garden in a quiet village.",
+      "de": "Ich würde am liebsten ein kleines Hotel mit einem großen Garten in einem ruhigen Dorf buchen.",
+      "alt": [
+        "Am liebsten würde ich ein kleines Hotel mit einem großen Garten in einem ruhigen Dorf buchen."
+      ],
+      "difficulty": "hard",
+      "focus": "würde am liebsten (review) / endings"
+    },
+    {
+      "en": "Put a small lamp on the table next to the sofa; then the light is warm. [formal]",
+      "de": "Stellen Sie eine kleine Lampe auf den Tisch neben dem Sofa, dann ist das Licht warm.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "eine + -e / Wohin? (review)"
+    },
+    {
+      "en": "Anything else? – Yes, a packet of flour, a can of tuna and a bag of sweets, please.",
+      "de": "Darf es noch etwas sein? – Ja, eine Packung Mehl, eine Dose Thunfisch und eine Tüte Bonbons, bitte.",
+      "alt": [
+        "Möchten Sie sonst noch etwas? – Ja, eine Packung Mehl, eine Dose Thunfisch und eine Tüte Bonbons, bitte."
+      ],
+      "difficulty": "hard",
+      "focus": "packaging"
+    },
+    {
+      "en": "My grandpa had a small bakery, and every morning he sold fresh bread rolls.",
+      "de": "Mein Opa hatte eine kleine Bäckerei und jeden Morgen hat er frische Brötchen verkauft.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "hatte (review) / plural -e"
+    },
+    {
+      "en": "We slept in a small tent by a quiet lake and heard a lot of birds.",
+      "de": "Wir haben in einem kleinen Zelt an einem ruhigen See übernachtet und viele Vögel gehört.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "einem + -en (review holidays)"
+    },
+    {
+      "en": "Don't you have normal milk? I don't want low-fat milk. [formal]",
+      "de": "Haben Sie denn keine normale Milch? Ich möchte keine fettarme Milch.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "keine + -e"
+    },
+    {
+      "en": "I'd like a French breakfast: a croissant with butter and jam.",
+      "de": "Ich hätte gern ein französisches Frühstück: ein Croissant mit Butter und Marmelade.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "ein + -es (accusative)"
+    },
+    {
+      "en": "My flatmate has a new girlfriend, and she only eats vegetarian food.",
+      "de": "Mein Mitbewohner hat eine neue Freundin und sie isst nur vegetarisch.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "eine + -e"
+    },
+    {
+      "en": "I've bought a heavy chest of drawers. Can you help me? [informal]",
+      "de": "Ich habe eine schwere Kommode gekauft. Kannst du mir helfen?",
+      "alt": [
+        "Ich habe eine schwere Kommode gekauft, kannst du mir helfen?"
+      ],
+      "difficulty": "hard",
+      "focus": "eine + -e (review)"
+    },
+    {
+      "en": "In a small shop around the corner there's a nice sales assistant and good cheese.",
+      "de": "In einem kleinen Laden um die Ecke gibt es eine nette Verkäuferin und guten Käse.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "einem + -en / eine + -e (review)"
+    },
+    {
+      "en": "Should it be a big breakfast or a small one? – A small one, please, but with a big coffee.",
+      "de": "Soll es ein großes Frühstück oder ein kleines sein? – Ein kleines, bitte, aber mit einem großen Kaffee.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "ein + -es / einem + -en"
+    },
+    {
+      "en": "Otto didn't know: his flatmates don't eat garlic salami.",
+      "de": "Otto hat das nicht gewusst: Seine Mitbewohner essen keine Knoblauchsalami.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "seine (review)"
+    },
+    {
+      "en": "For three people you don't need two kilos of beans; half a kilo is enough.",
+      "de": "Für drei Personen braucht man keine zwei Kilo Bohnen, ein halbes Kilo reicht.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "quantities"
+    },
+    {
+      "en": "Excuse me, where can I find the flour? – Next to the sugar, on a small shelf on the left.",
+      "de": "Entschuldigung, wo finde ich das Mehl? – Neben dem Zucker, auf einem kleinen Regal links.",
+      "alt": [
+        "Entschuldigen Sie, wo finde ich das Mehl? – Neben dem Zucker, auf einem kleinen Regal links."
+      ],
+      "difficulty": "hard",
+      "focus": "einem + -en / Wo? (review)"
+    },
+    {
+      "en": "I hope you like fish: I've ordered you a small fish soup. [informal]",
+      "de": "Ich hoffe, du magst Fisch: Ich habe dir eine kleine Fischsuppe bestellt.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "expressing preferences"
+    },
+    {
+      "en": "Our Uncle Willi was a crazy baker: he often baked a pretzel with a funny face.",
+      "de": "Unser Onkel Willi war ein verrückter Bäcker: Er hat oft eine Brezel mit einem lustigen Gesicht gebacken.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "ein + -er / einem + -en (review)"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "What can I get you?",
+      "de": "Was darf es sein?",
+      "alt": [
+        "Was darf's sein?"
+      ],
+      "focus": "shopping",
+      "note": ""
+    },
+    {
+      "en": "Can I help you? [formal]",
+      "de": "Kann ich Ihnen helfen?",
+      "alt": [],
+      "focus": "shopping",
+      "note": ""
+    },
+    {
+      "en": "I'd like some cheese.",
+      "de": "Ich hätte gern Käse.",
+      "alt": [
+        "Ich möchte Käse."
+      ],
+      "focus": "shopping",
+      "note": ""
+    },
+    {
+      "en": "I need milk.",
+      "de": "Ich brauche Milch.",
+      "alt": [],
+      "focus": "shopping",
+      "note": ""
+    },
+    {
+      "en": "Would you prefer tea or coffee? [formal]",
+      "de": "Möchten Sie lieber Tee oder Kaffee?",
+      "alt": [],
+      "focus": "shopping",
+      "note": ""
+    },
+    {
+      "en": "Do you mean cheese or quark? [formal]",
+      "de": "Meinen Sie Käse oder Quark?",
+      "alt": [],
+      "focus": "shopping",
+      "note": ""
+    },
+    {
+      "en": "Should it be raw or cooked?",
+      "de": "Soll es roh oder gekocht sein?",
+      "alt": [],
+      "focus": "shopping",
+      "note": ""
+    },
+    {
+      "en": "Both are on offer today.",
+      "de": "Die sind heute beide im Angebot.",
+      "alt": [
+        "Beide sind heute im Angebot."
+      ],
+      "focus": "shopping",
+      "note": ""
+    },
+    {
+      "en": "How much would you like?",
+      "de": "Wie viel darf es sein?",
+      "alt": [],
+      "focus": "shopping",
+      "note": ""
+    },
+    {
+      "en": "Please give me 100 grams. [formal]",
+      "de": "Geben Sie mir bitte 100 Gramm.",
+      "alt": [
+        "Geben Sie mir bitte hundert Gramm."
+      ],
+      "focus": "shopping",
+      "note": ""
+    },
+    {
+      "en": "Then I'll take the salami.",
+      "de": "Dann nehme ich die Salami.",
+      "alt": [],
+      "focus": "shopping",
+      "note": ""
+    },
+    {
+      "en": "Anything else? [formal]",
+      "de": "Möchten Sie sonst noch etwas?",
+      "alt": [],
+      "focus": "shopping",
+      "note": ""
+    },
+    {
+      "en": "Is there anything else?",
+      "de": "Darf es noch etwas sein?",
+      "alt": [],
+      "focus": "shopping",
+      "note": ""
+    },
+    {
+      "en": "No, thank you. That's all.",
+      "de": "Nein, danke. Das ist alles.",
+      "alt": [],
+      "focus": "shopping",
+      "note": ""
+    },
+    {
+      "en": "a bag of sweets",
+      "de": "eine Tüte Bonbons",
+      "alt": [],
+      "focus": "packaging",
+      "note": ""
+    },
+    {
+      "en": "a can of tuna",
+      "de": "eine Dose Thunfisch",
+      "alt": [],
+      "focus": "packaging",
+      "note": ""
+    },
+    {
+      "en": "a bottle of cola",
+      "de": "eine Flasche Cola",
+      "alt": [],
+      "focus": "packaging",
+      "note": ""
+    },
+    {
+      "en": "a jar of jam",
+      "de": "ein Glas Marmelade",
+      "alt": [],
+      "focus": "packaging",
+      "note": ""
+    },
+    {
+      "en": "a packet of flour",
+      "de": "eine Packung Mehl",
+      "alt": [],
+      "focus": "packaging",
+      "note": ""
+    },
+    {
+      "en": "a lean ham",
+      "de": "ein magerer Schinken",
+      "alt": [],
+      "focus": "ein + -er",
+      "note": ""
+    },
+    {
+      "en": "a white loaf",
+      "de": "ein helles Brot",
+      "alt": [],
+      "focus": "ein + -es",
+      "note": ""
+    },
+    {
+      "en": "a green pepper",
+      "de": "eine grüne Paprika",
+      "alt": [],
+      "focus": "eine + -e",
+      "note": ""
+    },
+    {
+      "en": "white bread rolls",
+      "de": "helle Brötchen",
+      "alt": [],
+      "focus": "plural -e",
+      "note": ""
+    },
+    {
+      "en": "with a lean ham",
+      "de": "mit einem mageren Schinken",
+      "alt": [],
+      "focus": "einem + -en",
+      "note": ""
+    },
+    {
+      "en": "no white bread rolls",
+      "de": "keine hellen Brötchen",
+      "alt": [],
+      "focus": "keine + -en",
+      "note": ""
+    },
+    {
+      "en": "soft cheese",
+      "de": "weicher Käse",
+      "alt": [
+        "der Weichkäse"
+      ],
+      "focus": "cheese",
+      "note": ""
+    },
+    {
+      "en": "hard cheese",
+      "de": "harter Käse",
+      "alt": [
+        "der Hartkäse"
+      ],
+      "focus": "cheese",
+      "note": ""
+    },
+    {
+      "en": "whole milk",
+      "de": "die Vollmilch",
+      "alt": [
+        "Vollmilch"
+      ],
+      "focus": "milk",
+      "note": ""
+    },
+    {
+      "en": "low-fat milk",
+      "de": "fettarme Milch",
+      "alt": [],
+      "focus": "milk",
+      "note": ""
+    },
+    {
+      "en": "skimmed milk",
+      "de": "die Magermilch",
+      "alt": [
+        "Magermilch"
+      ],
+      "focus": "milk",
+      "note": ""
+    },
+    {
+      "en": "raw ham / cooked ham",
+      "de": "roher Schinken / gekochter Schinken",
+      "alt": [],
+      "focus": "ham",
+      "note": ""
+    },
+    {
+      "en": "1 kilogram is 1000 grams",
+      "de": "1 Kilogramm sind 1000 Gramm",
+      "alt": [
+        "ein Kilogramm sind tausend Gramm"
+      ],
+      "focus": "quantities",
+      "note": ""
+    },
+    {
+      "en": "a pound",
+      "de": "ein Pfund",
+      "alt": [],
+      "focus": "quantities",
+      "note": "In Germany a Pfund is exactly 500 grams."
+    },
+    {
+      "en": "two litres of milk",
+      "de": "zwei Liter Milch",
+      "alt": [],
+      "focus": "quantities",
+      "note": ""
+    },
+    {
+      "en": "the shopping list",
+      "de": "der Einkaufszettel",
+      "alt": [],
+      "focus": "shopping",
+      "note": ""
+    },
+    {
+      "en": "the flatmate",
+      "de": "der Mitbewohner",
+      "alt": [
+        "die Mitbewohnerin"
+      ],
+      "focus": "flatshare",
+      "note": ""
+    },
+    {
+      "en": "eating habits",
+      "de": "die Essgewohnheiten",
+      "alt": [
+        "Essgewohnheiten"
+      ],
+      "focus": "flatshare",
+      "note": ""
+    },
+    {
+      "en": "customer / sales assistant",
+      "de": "Kunde / Verkäufer",
+      "alt": [
+        "Kundin / Verkäuferin"
+      ],
+      "focus": "shopping",
+      "note": ""
+    },
+    {
+      "en": "far too much",
+      "de": "viel zu viel",
+      "alt": [],
+      "focus": "quantities",
+      "note": ""
+    },
+    {
+      "en": "Why did you buy so much? [informal]",
+      "de": "Warum hast du denn so viel eingekauft?",
+      "alt": [],
+      "focus": "flatshare",
+      "note": ""
+    },
+    {
+      "en": "a small breakfast",
+      "de": "ein kleines Frühstück",
+      "alt": [],
+      "focus": "breakfast",
+      "note": ""
+    },
+    {
+      "en": "a big breakfast",
+      "de": "ein großes Frühstück",
+      "alt": [],
+      "focus": "breakfast",
+      "note": ""
+    },
+    {
+      "en": "a bread basket",
+      "de": "ein Brotkorb",
+      "alt": [],
+      "focus": "breakfast",
+      "note": ""
+    },
+    {
+      "en": "a slice of bread",
+      "de": "eine Scheibe Brot",
+      "alt": [],
+      "focus": "breakfast",
+      "note": ""
+    },
+    {
+      "en": "a soft-boiled egg",
+      "de": "ein weich gekochtes Ei",
+      "alt": [],
+      "focus": "breakfast",
+      "note": ""
+    },
+    {
+      "en": "scrambled eggs",
+      "de": "das Rührei",
+      "alt": [
+        "Rührei"
+      ],
+      "focus": "breakfast",
+      "note": ""
+    },
+    {
+      "en": "a double espresso",
+      "de": "ein doppelter Espresso",
+      "alt": [],
+      "focus": "breakfast",
+      "note": ""
+    },
+    {
+      "en": "freshly squeezed orange juice",
+      "de": "frisch gepresster Orangensaft",
+      "alt": [],
+      "focus": "breakfast",
+      "note": ""
+    },
+    {
+      "en": "I hope you like eggs. [informal]",
+      "de": "Ich hoffe, du magst Eier.",
+      "alt": [],
+      "focus": "preferences",
+      "note": ""
+    },
+    {
+      "en": "But I don't like jam. I'd rather have cheese.",
+      "de": "Aber ich mag keine Marmelade. Ich möchte lieber Käse.",
+      "alt": [],
+      "focus": "preferences",
+      "note": ""
+    }
+  ],
+  "text": {
+    "title": "Shopping for the flatshare",
+    "en": "Last Saturday I did the shopping for our flatshare. My flatmates wrote a shopping list, but there were no exact details on the list.\n\nAt the cheese counter the sales assistant asked: “Would you prefer a soft cheese or a hard one?” I didn't know, so I bought both. Then she asked: “Should it be a raw ham or a cooked one?” Both were on offer, so I took 250 grams of each.\n\nFor breakfast I also bought fresh bread rolls, a jar of jam, a big bottle of orange juice and two litres of whole milk.\n\nAt home my flatmates laughed. Anna doesn't eat meat, Tim only drinks low-fat milk and nobody likes jam! Next time I'll take my phone and call them.",
+    "de": "Letzten Samstag habe ich für unsere WG eingekauft. Meine Mitbewohner haben einen Einkaufszettel geschrieben, aber auf dem Zettel waren keine genauen Angaben.\n\nAn der Käsetheke hat die Verkäuferin gefragt: „Möchten Sie lieber einen weichen Käse oder einen harten?“ Ich habe es nicht gewusst, also habe ich beide gekauft. Dann hat sie gefragt: „Soll es ein roher Schinken oder ein gekochter sein?“ Beide waren im Angebot, also habe ich von jedem 250 Gramm genommen.\n\nZum Frühstück habe ich auch frische Brötchen, ein Glas Marmelade, eine große Flasche Orangensaft und zwei Liter Vollmilch gekauft.\n\nZu Hause haben meine Mitbewohner gelacht. Anna isst kein Fleisch, Tim trinkt nur fettarme Milch und niemand mag Marmelade! Nächstes Mal nehme ich mein Handy mit und rufe sie an."
+  }
+}

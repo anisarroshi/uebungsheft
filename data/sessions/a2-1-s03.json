@@ -1,0 +1,1399 @@
+{
+  "id": "a2-1-s03",
+  "level": "A2.1",
+  "number": 3,
+  "title": "Holidays in nature",
+  "createdAt": "2026-09-16",
+  "content": {
+    "topics": [
+      "holidays in nature and cities",
+      "landscapes and animals",
+      "travel adverts",
+      "rating offers and expressing preferences",
+      "regional greetings",
+      "module reading: a family tree",
+      "module film: the move, good and bad luck"
+    ],
+    "vocabulary": [
+      {
+        "de": "die Ruhe",
+        "en": "peace and quiet"
+      },
+      {
+        "de": "die Erholung",
+        "en": "rest, recovery"
+      },
+      {
+        "de": "die Entspannung",
+        "en": "relaxation"
+      },
+      {
+        "de": "der Bauernhof, -¨e",
+        "en": "farm"
+      },
+      {
+        "de": "der Wald, -¨er",
+        "en": "forest"
+      },
+      {
+        "de": "die Wiese, -n",
+        "en": "meadow"
+      },
+      {
+        "de": "die Pflanze, -n",
+        "en": "plant"
+      },
+      {
+        "de": "das Dorf, -¨er",
+        "en": "village"
+      },
+      {
+        "de": "die Katze, -n / der Hund, -e",
+        "en": "cat / dog"
+      },
+      {
+        "de": "der Vogel, -¨",
+        "en": "bird"
+      },
+      {
+        "de": "der Frosch, -¨e",
+        "en": "frog"
+      },
+      {
+        "de": "das Meer, -e / der Strand, -¨e",
+        "en": "sea / beach"
+      },
+      {
+        "de": "der See, -n / der Fluss, -¨e",
+        "en": "lake / river"
+      },
+      {
+        "de": "das Ufer, -",
+        "en": "shore, bank"
+      },
+      {
+        "de": "die Landschaft, -en",
+        "en": "landscape"
+      },
+      {
+        "de": "der Berg, -e / der Hügel, -",
+        "en": "mountain / hill"
+      },
+      {
+        "de": "wandern / der Wanderer, - / die Wanderung, -en",
+        "en": "to hike / hiker / hike"
+      },
+      {
+        "de": "genießen",
+        "en": "to enjoy"
+      },
+      {
+        "de": "der Einkaufsbummel / der Stadtbummel",
+        "en": "shopping trip / stroll around town"
+      },
+      {
+        "de": "der Unterricht",
+        "en": "lessons"
+      },
+      {
+        "de": "der Anfänger, - / der Fortgeschrittene, -n",
+        "en": "beginner / advanced learner"
+      },
+      {
+        "de": "draußen",
+        "en": "outside"
+      },
+      {
+        "de": "der Vermieter, - / vermieten",
+        "en": "person who rents out / to rent out"
+      },
+      {
+        "de": "die Anstrengung, -en",
+        "en": "effort"
+      },
+      {
+        "de": "die Beratung / beraten",
+        "en": "advice / to advise"
+      },
+      {
+        "de": "die Ausrüstung",
+        "en": "equipment"
+      },
+      {
+        "de": "die Erfahrung, -en",
+        "en": "experience"
+      },
+      {
+        "de": "die Übernachtung, -en",
+        "en": "overnight stay"
+      },
+      {
+        "de": "die Anmeldung, -en",
+        "en": "registration"
+      },
+      {
+        "de": "der Naturliebhaber, -",
+        "en": "nature lover"
+      },
+      {
+        "de": "quaken / singen",
+        "en": "to croak / to sing"
+      },
+      {
+        "de": "das Zelt, -e / der Campingplatz, -¨e",
+        "en": "tent / campsite"
+      },
+      {
+        "de": "das Kajak, -s",
+        "en": "kayak"
+      },
+      {
+        "de": "das Angebot, -e",
+        "en": "offer"
+      },
+      {
+        "de": "hellgrün / dunkelgrün",
+        "en": "light green / dark green"
+      },
+      {
+        "de": "im Trend liegen / in sein",
+        "en": "to be trendy"
+      },
+      {
+        "de": "Grüß Gott / Grüezi / Tach",
+        "en": "regional greetings (Austria and Bavaria / Switzerland / northern Germany)"
+      },
+      {
+        "de": "väterlicherseits / mütterlicherseits",
+        "en": "on the father's / mother's side"
+      },
+      {
+        "de": "die Zwillinge (Pl.)",
+        "en": "twins"
+      },
+      {
+        "de": "auswandern",
+        "en": "to emigrate"
+      },
+      {
+        "de": "stolz sein auf",
+        "en": "to be proud of"
+      },
+      {
+        "de": "das Glück / das Pech",
+        "en": "good luck / bad luck"
+      },
+      {
+        "de": "der Schlüsselbund / der Schlüsseldienst",
+        "en": "bunch of keys / locksmith"
+      }
+    ],
+    "grammar": [
+      {
+        "name": "Word formation: verb + -er → noun (usually a person)",
+        "explanation": "Take the verb stem and add -er: wandern → der Wanderer, vermieten → der Vermieter, mieten → der Mieter, fahren → der Fahrer, surfen → der Surfer. These nouns are masculine; the female form adds -in.",
+        "examples": [
+          "Der Wanderer ist müde.",
+          "Der Vermieter berät seine Kunden."
+        ]
+      },
+      {
+        "name": "Word formation: verb + -ung → noun",
+        "explanation": "Verb stem + -ung makes a feminine noun: erfahren → die Erfahrung, erholen → die Erholung, entspannen → die Entspannung, anstrengen → die Anstrengung, ausrüsten → die Ausrüstung, übernachten → die Übernachtung, wandern → die Wanderung, anmelden → die Anmeldung, beraten → die Beratung.",
+        "examples": [
+          "Wir haben Erfahrung.",
+          "Die Anmeldung ist online."
+        ]
+      },
+      {
+        "name": "Rating things and expressing preferences",
+        "explanation": "gefallen + dative for opinions; Ich würde am liebsten ... buchen for what you'd like most; lieber for preferences.",
+        "examples": [
+          "Mir gefällt das Angebot überhaupt nicht.",
+          "Ich würde am liebsten die Kajak-Tour buchen.",
+          "Ich fahre lieber ans Meer."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "de": "Welche Idee gefällt Ihnen am besten?",
+        "en": "Which idea do you like best?"
+      },
+      {
+        "de": "Mir gefällt das Angebot auch sehr gut / nicht besonders / überhaupt nicht.",
+        "en": "I like the offer very much too / not particularly / not at all."
+      },
+      {
+        "de": "Glaubst du, das funktioniert?",
+        "en": "Do you think that works?"
+      },
+      {
+        "de": "Ja, ich glaube schon. ... liegt im Trend.",
+        "en": "Yes, I think so. ... is trendy."
+      },
+      {
+        "de": "Welche Reise würden Sie am liebsten buchen?",
+        "en": "Which trip would you most like to book?"
+      },
+      {
+        "de": "Echt? / Wirklich? Ich fahre lieber ...",
+        "en": "Really? I'd rather go ..."
+      }
+    ]
+  },
+  "sentences": [
+    {
+      "en": "Here you'll find peace and relaxation. [formal]",
+      "de": "Hier finden Sie Ruhe und Erholung.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "Ruhe / Erholung"
+    },
+    {
+      "en": "I like photo B best.",
+      "de": "Mir gefällt Foto B am besten.",
+      "alt": [
+        "Foto B gefällt mir am besten."
+      ],
+      "difficulty": "easy",
+      "focus": "gefallen / am besten"
+    },
+    {
+      "en": "I like the mountains so much.",
+      "de": "Ich mag die Berge so gern.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "landscapes"
+    },
+    {
+      "en": "In Innsbruck people say “Grüß Gott”.",
+      "de": "In Innsbruck sagt man „Grüß Gott“.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "regional greetings"
+    },
+    {
+      "en": "The farm is near Innsbruck.",
+      "de": "Der Bauernhof liegt in der Nähe von Innsbruck.",
+      "alt": [
+        "Der Bauernhof ist in der Nähe von Innsbruck."
+      ],
+      "difficulty": "easy",
+      "focus": "in der Nähe von (review)"
+    },
+    {
+      "en": "We hike over meadows and through forests.",
+      "de": "Wir wandern über Wiesen und durch Wälder.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "wandern"
+    },
+    {
+      "en": "The children love the cats and dogs on the farm.",
+      "de": "Die Kinder lieben die Katzen und Hunde auf dem Bauernhof.",
+      "alt": [
+        "Die Kinder lieben die Katzen und die Hunde auf dem Bauernhof."
+      ],
+      "difficulty": "easy",
+      "focus": "animals"
+    },
+    {
+      "en": "The birds are singing.",
+      "de": "Die Vögel singen.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "animals"
+    },
+    {
+      "en": "The frogs are croaking at the lake.",
+      "de": "Die Frösche quaken am See.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "animals"
+    },
+    {
+      "en": "We're sleeping in a tent.",
+      "de": "Wir übernachten im Zelt.",
+      "alt": [
+        "Wir schlafen im Zelt."
+      ],
+      "difficulty": "easy",
+      "focus": "übernachten"
+    },
+    {
+      "en": "The campsite is right by the water.",
+      "de": "Der Campingplatz liegt direkt am Wasser.",
+      "alt": [
+        "Der Campingplatz ist direkt am Wasser."
+      ],
+      "difficulty": "easy",
+      "focus": "am Wasser"
+    },
+    {
+      "en": "The hiker is tired.",
+      "de": "Der Wanderer ist müde.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "verb + -er"
+    },
+    {
+      "en": "The man rents out bikes.",
+      "de": "Der Mann vermietet Fahrräder.",
+      "alt": [
+        "Der Vermieter vermietet Fahrräder."
+      ],
+      "difficulty": "easy",
+      "focus": "vermieten"
+    },
+    {
+      "en": "The surfers are on the beach all day.",
+      "de": "Die Surfer sind den ganzen Tag am Strand.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "verb + -er"
+    },
+    {
+      "en": "The advice is free.",
+      "de": "Die Beratung ist kostenlos.",
+      "alt": [
+        "Die Beratung ist gratis."
+      ],
+      "difficulty": "easy",
+      "focus": "verb + -ung"
+    },
+    {
+      "en": "Registration is online.",
+      "de": "Die Anmeldung ist online.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "verb + -ung"
+    },
+    {
+      "en": "The equipment is expensive.",
+      "de": "Die Ausrüstung ist teuer.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "verb + -ung"
+    },
+    {
+      "en": "I need rest.",
+      "de": "Ich brauche Erholung.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "verb + -ung"
+    },
+    {
+      "en": "We have experience.",
+      "de": "Wir haben Erfahrung.",
+      "alt": [
+        "Wir haben die Erfahrung."
+      ],
+      "difficulty": "easy",
+      "focus": "verb + -ung"
+    },
+    {
+      "en": "The tour starts in Lübben.",
+      "de": "Die Tour beginnt in Lübben.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "travel adverts"
+    },
+    {
+      "en": "We're travelling by kayak.",
+      "de": "Wir fahren mit dem Kajak.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "mit dem"
+    },
+    {
+      "en": "There is always wind here.",
+      "de": "Hier gibt es immer Wind.",
+      "alt": [
+        "Es gibt hier immer Wind."
+      ],
+      "difficulty": "easy",
+      "focus": "es gibt"
+    },
+    {
+      "en": "Here the world is still in order.",
+      "de": "Hier ist die Welt noch in Ordnung.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "in Ordnung"
+    },
+    {
+      "en": "There are no appointments here.",
+      "de": "Hier gibt es keine Termine.",
+      "alt": [
+        "Bei uns gibt es keine Termine."
+      ],
+      "difficulty": "easy",
+      "focus": "keine Termine"
+    },
+    {
+      "en": "You can sleep in. [formal]",
+      "de": "Sie können lange schlafen.",
+      "alt": [
+        "Sie dürfen lange schlafen."
+      ],
+      "difficulty": "easy",
+      "focus": "lange schlafen"
+    },
+    {
+      "en": "We're enjoying the view of the lake.",
+      "de": "Wir genießen den Blick auf den See.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "genießen"
+    },
+    {
+      "en": "The courses are not expensive.",
+      "de": "Die Kurse sind nicht teuer.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "travel adverts"
+    },
+    {
+      "en": "The groups are small.",
+      "de": "Die Gruppen sind klein.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "travel adverts"
+    },
+    {
+      "en": "What do you think of the idea? [formal]",
+      "de": "Wie finden Sie die Idee?",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "rating things"
+    },
+    {
+      "en": "I don't like the offer at all.",
+      "de": "Das Angebot gefällt mir überhaupt nicht.",
+      "alt": [
+        "Mir gefällt das Angebot überhaupt nicht."
+      ],
+      "difficulty": "easy",
+      "focus": "überhaupt nicht"
+    },
+    {
+      "en": "Hiking is trendy.",
+      "de": "Wandern liegt im Trend.",
+      "alt": [
+        "Wandern ist gerade in."
+      ],
+      "difficulty": "easy",
+      "focus": "im Trend"
+    },
+    {
+      "en": "I prefer going to the seaside.",
+      "de": "Ich fahre lieber ans Meer.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "lieber"
+    },
+    {
+      "en": "Do you think that works? [informal]",
+      "de": "Glaubst du, das funktioniert?",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "rating things"
+    },
+    {
+      "en": "Kiraz and Murat are twins.",
+      "de": "Kiraz und Murat sind Zwillinge.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "family (reading)"
+    },
+    {
+      "en": "Broken pieces bring luck.",
+      "de": "Scherben bringen Glück.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "Glück (film)"
+    },
+    {
+      "en": "Too much stress? Then come to us on the farm. [formal]",
+      "de": "Zu viel Stress? Dann kommen Sie zu uns auf den Bauernhof.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "travel adverts"
+    },
+    {
+      "en": "By car it's only 15 minutes to Innsbruck.",
+      "de": "Mit dem Auto sind es nur 15 Minuten nach Innsbruck.",
+      "alt": [
+        "Mit dem Auto sind es nur fünfzehn Minuten nach Innsbruck."
+      ],
+      "difficulty": "medium",
+      "focus": "distance"
+    },
+    {
+      "en": "There are lessons for beginners and advanced learners.",
+      "de": "Es gibt Unterricht für Anfänger und Fortgeschrittene.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "Anfänger / Fortgeschrittene"
+    },
+    {
+      "en": "We're outside all day: on the beach and on the sea.",
+      "de": "Wir sind den ganzen Tag draußen: am Strand und auf dem Meer.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "am / auf dem (review)"
+    },
+    {
+      "en": "You can ride along the shore and enjoy the view of the lake. [formal]",
+      "de": "Sie können am Ufer entlang fahren und den Blick auf den See genießen.",
+      "alt": [
+        "Sie können am Ufer entlangfahren und den Blick auf den See genießen."
+      ],
+      "difficulty": "medium",
+      "focus": "genießen"
+    },
+    {
+      "en": "In the south you see the Alps and in the north the whole lake. [formal]",
+      "de": "Im Süden sehen Sie die Alpen und im Norden den ganzen See.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "landscapes"
+    },
+    {
+      "en": "With us you get maps, tips and of course bikes. [formal]",
+      "de": "Bei uns bekommen Sie Karten, Tipps und natürlich Fahrräder.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "travel adverts"
+    },
+    {
+      "en": "The tour starts in Lübben and ends in Berlin.",
+      "de": "Die Tour beginnt in Lübben und endet in Berlin.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "travel adverts"
+    },
+    {
+      "en": "Are you a nature lover, and do you like hearing birds sing? [formal]",
+      "de": "Sind Sie Naturliebhaber und hören Sie gern Vögel singen?",
+      "alt": [
+        "Sind Sie Naturliebhaberin und hören Sie gern Vögel singen?"
+      ],
+      "difficulty": "medium",
+      "focus": "Naturliebhaber"
+    },
+    {
+      "en": "Tell us your wishes, and we'll make you an offer. [formal]",
+      "de": "Sagen Sie uns Ihre Wünsche und wir machen Ihnen ein Angebot.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "das Angebot"
+    },
+    {
+      "en": "The hikers need a map and water.",
+      "de": "Die Wanderer brauchen eine Karte und Wasser.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "verb + -er"
+    },
+    {
+      "en": "The hike takes four hours.",
+      "de": "Die Wanderung dauert vier Stunden.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "verb + -ung"
+    },
+    {
+      "en": "After the hike we relax in the sauna.",
+      "de": "Nach der Wanderung entspannen wir uns in der Sauna.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "nach + dative (review)"
+    },
+    {
+      "en": "The overnight stay in the tent costs 15 euros.",
+      "de": "Die Übernachtung im Zelt kostet 15 Euro.",
+      "alt": [
+        "Die Übernachtung im Zelt kostet fünfzehn Euro."
+      ],
+      "difficulty": "medium",
+      "focus": "verb + -ung"
+    },
+    {
+      "en": "I like the idea very much too.",
+      "de": "Mir gefällt die Idee auch sehr gut.",
+      "alt": [
+        "Die Idee gefällt mir auch sehr gut."
+      ],
+      "difficulty": "medium",
+      "focus": "rating things"
+    },
+    {
+      "en": "I don't particularly like the offer.",
+      "de": "Das Angebot gefällt mir nicht besonders.",
+      "alt": [
+        "Mir gefällt das Angebot nicht besonders."
+      ],
+      "difficulty": "medium",
+      "focus": "nicht besonders"
+    },
+    {
+      "en": "I don't think that works.",
+      "de": "Ich glaube, das funktioniert nicht.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "rating things"
+    },
+    {
+      "en": "Yes, I think so. Kite-surfing is trendy right now.",
+      "de": "Ja, ich glaube schon. Kite-Surfen ist gerade in.",
+      "alt": [
+        "Ja, ich glaube schon. Kitesurfen liegt gerade im Trend."
+      ],
+      "difficulty": "medium",
+      "focus": "rating things"
+    },
+    {
+      "en": "Which trip would you most like to book? [formal]",
+      "de": "Welche Reise würden Sie am liebsten buchen?",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "würde am liebsten"
+    },
+    {
+      "en": "I'd most like to book the kayak tour.",
+      "de": "Ich würde am liebsten die Kajak-Tour buchen.",
+      "alt": [
+        "Am liebsten würde ich die Kajaktour buchen.",
+        "Ich würde am liebsten die Kajaktour buchen."
+      ],
+      "difficulty": "medium",
+      "focus": "würde am liebsten"
+    },
+    {
+      "en": "Really? I'd rather go to the mountains.",
+      "de": "Echt? Ich fahre lieber in die Berge.",
+      "alt": [
+        "Wirklich? Ich fahre lieber in die Berge."
+      ],
+      "difficulty": "medium",
+      "focus": "lieber"
+    },
+    {
+      "en": "Which offer do you like best? [informal]",
+      "de": "Welches Angebot gefällt dir am besten?",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "am besten"
+    },
+    {
+      "en": "I think the idea is good, because many people have too much stress.",
+      "de": "Ich finde die Idee gut, denn viele Menschen haben zu viel Stress.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "rating / denn"
+    },
+    {
+      "en": "The farm is too boring for me; there are too few people there.",
+      "de": "Der Bauernhof ist mir zu langweilig, da sind zu wenig Menschen.",
+      "alt": [
+        "Der Bauernhof ist mir zu langweilig, dort sind zu wenige Menschen."
+      ],
+      "difficulty": "medium",
+      "focus": "rating things"
+    },
+    {
+      "en": "From the hill you can see the village and the river.",
+      "de": "Vom Hügel kann man das Dorf und den Fluss sehen.",
+      "alt": [
+        "Von dem Hügel sieht man das Dorf und den Fluss."
+      ],
+      "difficulty": "medium",
+      "focus": "landscapes"
+    },
+    {
+      "en": "The cat is lying in the meadow under the tree.",
+      "de": "Die Katze liegt auf der Wiese unter dem Baum.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "liegen + dative (review)"
+    },
+    {
+      "en": "Put the tent next to the lake, not under the trees. [plural]",
+      "de": "Stellt das Zelt neben den See, nicht unter die Bäume.",
+      "alt": [
+        "Baut das Zelt neben dem See auf, nicht unter den Bäumen."
+      ],
+      "difficulty": "medium",
+      "focus": "Wohin? + accusative (review)"
+    },
+    {
+      "en": "In Switzerland a bike is called “Velo”.",
+      "de": "In der Schweiz heißt das Fahrrad „Velo“.",
+      "alt": [
+        "In der Schweiz sagt man „Velo“ zum Fahrrad."
+      ],
+      "difficulty": "medium",
+      "focus": "regional words"
+    },
+    {
+      "en": "In Rostock people say “Tach” instead of “Guten Tag”.",
+      "de": "In Rostock sagt man „Tach“ statt „Guten Tag“.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "regional greetings"
+    },
+    {
+      "en": "The surf school is ideal for you. [informal]",
+      "de": "Die Surfschule ist ideal für dich.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "travel adverts"
+    },
+    {
+      "en": "All our teachers really like doing their job.",
+      "de": "Alle unsere Lehrer machen ihren Job wirklich gern.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "unsere / ihren (review)"
+    },
+    {
+      "en": "So what are you waiting for? Register here! [informal]",
+      "de": "Also, worauf wartest du noch? Melde dich hier an!",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "anmelden"
+    },
+    {
+      "en": "Want to go on a shopping trip? Then drive to Innsbruck. [formal]",
+      "de": "Sie wollen einen Einkaufsbummel machen? Dann fahren Sie nach Innsbruck.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "Einkaufsbummel"
+    },
+    {
+      "en": "We spend our holidays with our grandparents in Turkey.",
+      "de": "Wir verbringen unseren Urlaub bei unseren Großeltern in der Türkei.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "unseren (review)"
+    },
+    {
+      "en": "My grandparents on my father's side live by the sea.",
+      "de": "Meine Großeltern väterlicherseits wohnen am Meer.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "väterlicherseits (reading)"
+    },
+    {
+      "en": "My sister is training to be a nurse.",
+      "de": "Meine Schwester macht eine Ausbildung zur Krankenschwester.",
+      "alt": [
+        "Meine Schwester macht eine Ausbildung als Krankenschwester."
+      ],
+      "difficulty": "medium",
+      "focus": "Ausbildung (reading)"
+    },
+    {
+      "en": "They emigrated to Germany in the 1950s.",
+      "de": "Sie sind in den 50er-Jahren nach Deutschland ausgewandert.",
+      "alt": [
+        "Sie sind in den 50er Jahren nach Deutschland ausgewandert.",
+        "Sie sind in den fünfziger Jahren nach Deutschland ausgewandert."
+      ],
+      "difficulty": "medium",
+      "focus": "auswandern (reading)"
+    },
+    {
+      "en": "A mirror is broken: that means seven years of bad luck.",
+      "de": "Ein Spiegel ist kaputt: Das bedeutet sieben Jahre Pech.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "Pech (film)"
+    },
+    {
+      "en": "The neighbours bring bread and salt and wish us luck.",
+      "de": "Die Nachbarn bringen Brot und Salz und wünschen uns Glück.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "Glück (film)"
+    },
+    {
+      "en": "Lena and Christian moved to Hamburg, because Christian got a job offer.",
+      "de": "Lena und Christian sind nach Hamburg gezogen, denn Christian hat ein Jobangebot bekommen.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "Perfekt (film)"
+    },
+    {
+      "en": "Here there are no appointments: you can sleep in, have a long breakfast and enjoy the air. [formal]",
+      "de": "Hier gibt es keine Termine: Sie können lange schlafen, lange frühstücken und die Luft genießen.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "travel adverts"
+    },
+    {
+      "en": "Hike over meadows and through forests, and you'll see: here the world is still in order. [formal]",
+      "de": "Wandern Sie über Wiesen und durch Wälder und Sie werden erleben: Hier ist die Welt noch in Ordnung.",
+      "alt": [
+        "Wandern Sie über Wiesen und durch Wälder, dann erleben Sie: Hier ist die Welt noch in Ordnung."
+      ],
+      "difficulty": "hard",
+      "focus": "travel adverts"
+    },
+    {
+      "en": "At the Windkind surf school the courses aren't expensive, the groups are small and there's almost always wind.",
+      "de": "In der Surfschule Windkind sind die Kurse nicht teuer, die Gruppen sind klein und es gibt fast immer Wind.",
+      "alt": [
+        "Bei der Surfschule Windkind sind die Kurse nicht teuer, die Gruppen sind klein und es gibt fast immer Wind."
+      ],
+      "difficulty": "hard",
+      "focus": "travel adverts"
+    },
+    {
+      "en": "You can take a ride over the hills and through the villages and see the Alps in the south. [formal]",
+      "de": "Sie können eine Fahrt über die Hügel und durch die Dörfer machen und im Süden die Alpen sehen.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "landscapes"
+    },
+    {
+      "en": "You paddle by kayak from the Spreewald to Berlin and sleep in a tent at campsites. [formal]",
+      "de": "Sie fahren mit dem Kajak vom Spreewald bis nach Berlin und übernachten im Zelt auf Campingplätzen.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "travel adverts"
+    },
+    {
+      "en": "I think the idea is great, but I wouldn't book the trip: it's too boring for me.",
+      "de": "Ich finde die Idee toll, aber ich würde die Reise nicht buchen, sie ist mir zu langweilig.",
+      "alt": [
+        "Die Idee finde ich toll, aber ich würde die Reise nicht buchen: Sie ist mir zu langweilig."
+      ],
+      "difficulty": "hard",
+      "focus": "rating / würde"
+    },
+    {
+      "en": "Do you think kite-surfing works for beginners? – Yes, I think so; there are lessons for beginners. [informal]",
+      "de": "Glaubst du, Kite-Surfen funktioniert für Anfänger? – Ja, ich glaube schon, es gibt Unterricht für Anfänger.",
+      "alt": [
+        "Glaubst du, Kitesurfen funktioniert für Anfänger? – Ja, ich glaube schon, es gibt Unterricht für Anfänger."
+      ],
+      "difficulty": "hard",
+      "focus": "rating things"
+    },
+    {
+      "en": "My brother would most like to book a ski course, but I'd rather go to the sea.",
+      "de": "Mein Bruder würde am liebsten einen Skikurs buchen, aber ich fahre lieber ans Meer.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "würde am liebsten / lieber"
+    },
+    {
+      "en": "The bike rental man knows all the tours and is happy to advise his customers.",
+      "de": "Der Fahrradvermieter kennt alle Touren und berät seine Kunden gern.",
+      "alt": [
+        "Der Velovermieter kennt alle Touren und berät seine Kunden gern."
+      ],
+      "difficulty": "hard",
+      "focus": "Vermieter / beraten"
+    },
+    {
+      "en": "After the hike through the forest we were tired, but the relaxation in the sauna was wonderful.",
+      "de": "Nach der Wanderung durch den Wald waren wir müde, aber die Entspannung in der Sauna war wunderbar.",
+      "alt": [
+        "Nach der Wanderung durch den Wald waren wir müde, aber die Erholung in der Sauna war wunderbar."
+      ],
+      "difficulty": "hard",
+      "focus": "verb + -ung / waren"
+    },
+    {
+      "en": "Last summer we slept in a tent by the lake and heard the frogs every night.",
+      "de": "Letzten Sommer haben wir im Zelt am See übernachtet und jede Nacht die Frösche gehört.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "Perfekt"
+    },
+    {
+      "en": "Our grandparents have a hotel by the sea, and we often spend our holidays there.",
+      "de": "Unsere Großeltern haben ein Hotel am Meer und wir verbringen dort oft unseren Urlaub.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "unsere (review)"
+    },
+    {
+      "en": "My cousin's father is my uncle, and his wife Leyla lives in Patara with the children.",
+      "de": "Der Vater von meinem Cousin ist mein Onkel und seine Frau Leyla wohnt mit den Kindern in Patara.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "family (reading)"
+    },
+    {
+      "en": "I'm very proud of my family: we laugh and talk late into the night.",
+      "de": "Ich bin sehr stolz auf meine Familie: Wir lachen und reden bis tief in die Nacht.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "stolz sein auf (reading)"
+    },
+    {
+      "en": "Where shall we put the tent? – Put it on the meadow between the trees. [informal]",
+      "de": "Wohin sollen wir das Zelt stellen? – Stell es auf die Wiese zwischen die Bäume.",
+      "alt": [
+        "Wo sollen wir das Zelt aufbauen? – Bau es auf der Wiese zwischen den Bäumen auf."
+      ],
+      "difficulty": "hard",
+      "focus": "Wohin? + accusative (review)"
+    },
+    {
+      "en": "Christian didn't find the key, but luckily Max found the bunch of keys in the street.",
+      "de": "Christian hat den Schlüssel nicht gefunden, aber zum Glück hat Max den Schlüsselbund auf der Straße gefunden.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "zum Glück (film)"
+    },
+    {
+      "en": "Our company offers ski courses, sledge rides and a sauna, and of course breakfast too.",
+      "de": "Unsere Firma bietet Skikurse, Schlittenfahrten und eine Sauna an, und natürlich auch Frühstück.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "anbieten"
+    },
+    {
+      "en": "What do you like better, the city or the countryside? – I like the countryside, because I need peace and quiet. [informal]",
+      "de": "Was gefällt dir besser: die Stadt oder das Land? – Mir gefällt das Land, denn ich brauche Ruhe.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "gefallen / denn"
+    },
+    {
+      "en": "Registration for the course is online, and the equipment is included in the price.",
+      "de": "Die Anmeldung für den Kurs ist im Internet und die Ausrüstung ist im Preis inklusive.",
+      "alt": [
+        "Die Anmeldung für den Kurs ist online und die Ausrüstung ist im Preis inklusive."
+      ],
+      "difficulty": "hard",
+      "focus": "verb + -ung"
+    },
+    {
+      "en": "Are you a big-city fan too, and do you like going for a stroll around town? [formal]",
+      "de": "Sind Sie auch Großstadt-Fan und machen Sie gern mal einen Stadtbummel?",
+      "alt": [
+        "Sind Sie auch Großstadtfan und machen Sie gerne mal einen Stadtbummel?"
+      ],
+      "difficulty": "hard",
+      "focus": "Stadtbummel"
+    },
+    {
+      "en": "On the Lindthalers' farm the clocks run differently: nobody is in a hurry.",
+      "de": "Auf dem Bauernhof von Familie Lindthaler gehen die Uhren anders: Niemand hat es eilig.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "travel adverts"
+    },
+    {
+      "en": "Thanks for your tip: the kayak tour on the Spree was really great! [informal]",
+      "de": "Danke für deinen Tipp, die Kajak-Tour auf der Spree war wirklich toll!",
+      "alt": [
+        "Danke für deinen Tipp, die Kajaktour auf der Spree war wirklich toll!"
+      ],
+      "difficulty": "hard",
+      "focus": "danken (review)"
+    },
+    {
+      "en": "In a month we're going to the Baltic Sea for a week, and I'm already looking forward to the beach.",
+      "de": "In einem Monat fahren wir für eine Woche an die Ostsee und ich freue mich schon auf den Strand.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "in / für (review)"
+    },
+    {
+      "en": "Which greeting do you like best: “Grüß Gott”, “Grüezi” or “Tach”? [informal]",
+      "de": "Welcher Gruß gefällt dir am besten: „Grüß Gott“, „Grüezi“ oder „Tach“?",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "regional greetings"
+    },
+    {
+      "en": "Mert is in 7th grade, and Meral wants to become a teacher after school.",
+      "de": "Mert geht in die 7. Klasse und Meral will nach der Schule Lehrerin werden.",
+      "alt": [
+        "Mert geht in die siebte Klasse und Meral will nach der Schule Lehrerin werden.",
+        "Mert geht in die 7. Klasse und Meral möchte nach der Schule Lehrerin werden."
+      ],
+      "difficulty": "hard",
+      "focus": "family (reading)"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "peace and relaxation",
+      "de": "Ruhe und Erholung",
+      "alt": [],
+      "focus": "holidays",
+      "note": ""
+    },
+    {
+      "en": "peace, relaxation and rest",
+      "de": "Ruhe, Entspannung und Erholung",
+      "alt": [],
+      "focus": "holidays",
+      "note": ""
+    },
+    {
+      "en": "I like photo B best.",
+      "de": "Mir gefällt Foto B am besten.",
+      "alt": [
+        "Foto B gefällt mir am besten."
+      ],
+      "focus": "rating",
+      "note": ""
+    },
+    {
+      "en": "over meadows and through forests",
+      "de": "über Wiesen und durch Wälder",
+      "alt": [],
+      "focus": "nature",
+      "note": ""
+    },
+    {
+      "en": "to enjoy the air",
+      "de": "die Luft genießen",
+      "alt": [],
+      "focus": "genießen",
+      "note": ""
+    },
+    {
+      "en": "to sleep in",
+      "de": "lange schlafen",
+      "alt": [],
+      "focus": "holidays",
+      "note": ""
+    },
+    {
+      "en": "to go on a shopping trip",
+      "de": "einen Einkaufsbummel machen",
+      "alt": [],
+      "focus": "holidays",
+      "note": ""
+    },
+    {
+      "en": "a stroll around town",
+      "de": "ein Stadtbummel",
+      "alt": [],
+      "focus": "holidays",
+      "note": ""
+    },
+    {
+      "en": "The clocks run differently here.",
+      "de": "Hier gehen die Uhren anders.",
+      "alt": [],
+      "focus": "idiom",
+      "note": "Life is slower and more relaxed here."
+    },
+    {
+      "en": "Here the world is still in order.",
+      "de": "Hier ist die Welt noch in Ordnung.",
+      "alt": [],
+      "focus": "idiom",
+      "note": ""
+    },
+    {
+      "en": "light green / dark green",
+      "de": "hellgrün / dunkelgrün",
+      "alt": [],
+      "focus": "colours",
+      "note": ""
+    },
+    {
+      "en": "lessons for beginners",
+      "de": "Unterricht für Anfänger",
+      "alt": [],
+      "focus": "courses",
+      "note": ""
+    },
+    {
+      "en": "advanced learners",
+      "de": "Fortgeschrittene",
+      "alt": [],
+      "focus": "courses",
+      "note": ""
+    },
+    {
+      "en": "on the beach and on the sea",
+      "de": "am Strand und auf dem Meer",
+      "alt": [],
+      "focus": "nature",
+      "note": ""
+    },
+    {
+      "en": "all day",
+      "de": "den ganzen Tag",
+      "alt": [],
+      "focus": "time",
+      "note": ""
+    },
+    {
+      "en": "What are you waiting for? [informal]",
+      "de": "Worauf wartest du noch?",
+      "alt": [],
+      "focus": "adverts",
+      "note": ""
+    },
+    {
+      "en": "Register here! [informal]",
+      "de": "Melde dich hier an!",
+      "alt": [],
+      "focus": "adverts",
+      "note": ""
+    },
+    {
+      "en": "along the shore",
+      "de": "am Ufer entlang",
+      "alt": [],
+      "focus": "nature",
+      "note": ""
+    },
+    {
+      "en": "without effort",
+      "de": "ohne Anstrengung",
+      "alt": [],
+      "focus": "verb + -ung",
+      "note": ""
+    },
+    {
+      "en": "maps, tips and equipment",
+      "de": "Karten, Tipps und Ausrüstung",
+      "alt": [],
+      "focus": "adverts",
+      "note": ""
+    },
+    {
+      "en": "to sleep in a tent",
+      "de": "im Zelt übernachten",
+      "alt": [],
+      "focus": "camping",
+      "note": ""
+    },
+    {
+      "en": "right by the water",
+      "de": "direkt am Wasser",
+      "alt": [],
+      "focus": "camping",
+      "note": ""
+    },
+    {
+      "en": "by kayak",
+      "de": "mit dem Kajak",
+      "alt": [],
+      "focus": "travel",
+      "note": ""
+    },
+    {
+      "en": "to hear frogs croak",
+      "de": "Frösche quaken hören",
+      "alt": [],
+      "focus": "nature",
+      "note": ""
+    },
+    {
+      "en": "a nature lover",
+      "de": "ein Naturliebhaber",
+      "alt": [
+        "eine Naturliebhaberin"
+      ],
+      "focus": "verb + -er",
+      "note": ""
+    },
+    {
+      "en": "an offer tailored to your wishes [formal]",
+      "de": "ein Angebot genau nach Ihren Wünschen",
+      "alt": [],
+      "focus": "adverts",
+      "note": ""
+    },
+    {
+      "en": "the hiker",
+      "de": "der Wanderer",
+      "alt": [],
+      "focus": "verb + -er",
+      "note": ""
+    },
+    {
+      "en": "the landlord / the tenant",
+      "de": "der Vermieter / der Mieter",
+      "alt": [],
+      "focus": "verb + -er",
+      "note": ""
+    },
+    {
+      "en": "the experience",
+      "de": "die Erfahrung",
+      "alt": [],
+      "focus": "verb + -ung",
+      "note": ""
+    },
+    {
+      "en": "the advice",
+      "de": "die Beratung",
+      "alt": [],
+      "focus": "verb + -ung",
+      "note": ""
+    },
+    {
+      "en": "the overnight stay",
+      "de": "die Übernachtung",
+      "alt": [],
+      "focus": "verb + -ung",
+      "note": ""
+    },
+    {
+      "en": "the registration",
+      "de": "die Anmeldung",
+      "alt": [],
+      "focus": "verb + -ung",
+      "note": ""
+    },
+    {
+      "en": "What do you think of the idea? [formal]",
+      "de": "Wie finden Sie die Idee?",
+      "alt": [],
+      "focus": "rating",
+      "note": ""
+    },
+    {
+      "en": "I like the offer too.",
+      "de": "Mir gefällt das Angebot auch.",
+      "alt": [
+        "Das Angebot gefällt mir auch."
+      ],
+      "focus": "rating",
+      "note": ""
+    },
+    {
+      "en": "not particularly",
+      "de": "nicht besonders",
+      "alt": [],
+      "focus": "rating",
+      "note": ""
+    },
+    {
+      "en": "not at all",
+      "de": "überhaupt nicht",
+      "alt": [],
+      "focus": "rating",
+      "note": ""
+    },
+    {
+      "en": "Do you think that works? [informal]",
+      "de": "Glaubst du, das funktioniert?",
+      "alt": [],
+      "focus": "rating",
+      "note": ""
+    },
+    {
+      "en": "I don't think that works.",
+      "de": "Ich glaube, das funktioniert nicht.",
+      "alt": [],
+      "focus": "rating",
+      "note": ""
+    },
+    {
+      "en": "Yes, I think so.",
+      "de": "Ja, ich glaube schon.",
+      "alt": [],
+      "focus": "rating",
+      "note": ""
+    },
+    {
+      "en": "It's trendy.",
+      "de": "Das liegt im Trend.",
+      "alt": [
+        "Das ist gerade in."
+      ],
+      "focus": "rating",
+      "note": ""
+    },
+    {
+      "en": "I'd most like to book the bike tour.",
+      "de": "Ich würde am liebsten die Fahrradtour buchen.",
+      "alt": [
+        "Am liebsten würde ich die Fahrradtour buchen."
+      ],
+      "focus": "preferences",
+      "note": ""
+    },
+    {
+      "en": "Really? I'd rather go to the sea.",
+      "de": "Echt? Ich fahre lieber ans Meer.",
+      "alt": [
+        "Wirklich? Ich fahre lieber ans Meer."
+      ],
+      "focus": "preferences",
+      "note": ""
+    },
+    {
+      "en": "Hello (in Switzerland)",
+      "de": "Grüezi",
+      "alt": [
+        "Grüezi mitenand"
+      ],
+      "focus": "regional greetings",
+      "note": "Grüezi mitenand greets a group."
+    },
+    {
+      "en": "Hello (in Austria and Bavaria)",
+      "de": "Grüß Gott",
+      "alt": [],
+      "focus": "regional greetings",
+      "note": ""
+    },
+    {
+      "en": "Hello (casual, northern Germany)",
+      "de": "Tach",
+      "alt": [],
+      "focus": "regional greetings",
+      "note": ""
+    },
+    {
+      "en": "my grandparents on my father's side",
+      "de": "meine Großeltern väterlicherseits",
+      "alt": [],
+      "focus": "family",
+      "note": ""
+    },
+    {
+      "en": "my family on my mother's side",
+      "de": "meine Familie mütterlicherseits",
+      "alt": [],
+      "focus": "family",
+      "note": ""
+    },
+    {
+      "en": "They're twins.",
+      "de": "Sie sind Zwillinge.",
+      "alt": [],
+      "focus": "family",
+      "note": ""
+    },
+    {
+      "en": "to be lucky / to be unlucky",
+      "de": "Glück haben / Pech haben",
+      "alt": [],
+      "focus": "luck",
+      "note": ""
+    },
+    {
+      "en": "Broken pieces bring luck.",
+      "de": "Scherben bringen Glück.",
+      "alt": [],
+      "focus": "luck",
+      "note": "A German saying when something breaks."
+    }
+  ],
+  "text": {
+    "title": "Which holiday?",
+    "en": "Hi Jonas,\n\nthanks for your email! You want to know which trip I'd most like to book. Well, I've read three offers.\n\nThe first offer is a farm in Tyrol. There you can sleep in, hike over meadows and enjoy the peace and quiet. The idea is nice, but I think it's too boring for me.\n\nThe second offer is a surf school on the Baltic Sea. There are lessons for beginners, and you're outside all day. Kite-surfing is trendy right now, but the equipment is expensive.\n\nThe third offer is a bike tour along the shore of Lake Constance. At the bike rental you get maps, tips and advice. I like this offer best, because I love lakes and mountains.\n\nWhat do you think? Would you like to come along?\n\nMany greetings\nMia",
+    "de": "Hallo Jonas,\n\ndanke für deine E-Mail! Du willst wissen: Welche Reise würde ich am liebsten buchen? Also, ich habe drei Angebote gelesen.\n\nDas erste Angebot ist ein Bauernhof in Tirol. Dort kann man lange schlafen, über Wiesen wandern und die Ruhe genießen. Die Idee ist schön, aber ich glaube, das ist mir zu langweilig.\n\nDas zweite Angebot ist eine Surfschule an der Ostsee. Es gibt Unterricht für Anfänger und man ist den ganzen Tag draußen. Kite-Surfen ist gerade in, aber die Ausrüstung ist teuer.\n\nDas dritte Angebot ist eine Fahrradtour am Ufer vom Bodensee. Beim Vermieter bekommt man Karten, Tipps und Beratung. Dieses Angebot gefällt mir am besten, denn ich liebe Seen und Berge.\n\nWas denkst du? Möchtest du mitkommen?\n\nViele Grüße\nMia"
+  }
+}

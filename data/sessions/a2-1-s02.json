@@ -1,0 +1,1418 @@
+{
+  "id": "a2-1-s02",
+  "level": "A2.1",
+  "number": 2,
+  "title": "Moving and furnishing",
+  "createdAt": "2026-09-16",
+  "content": {
+    "topics": [
+      "moving house",
+      "furniture",
+      "furnishing tips",
+      "a short poem about an object"
+    ],
+    "vocabulary": [
+      {
+        "de": "umziehen (ist umgezogen)",
+        "en": "to move house"
+      },
+      {
+        "de": "der Umzug, -¨e",
+        "en": "move (house)"
+      },
+      {
+        "de": "einrichten",
+        "en": "to furnish"
+      },
+      {
+        "de": "renovieren",
+        "en": "to renovate"
+      },
+      {
+        "de": "die Kommode, -n",
+        "en": "chest of drawers"
+      },
+      {
+        "de": "das Sofa, -s",
+        "en": "sofa"
+      },
+      {
+        "de": "der Schrank, -¨e",
+        "en": "cupboard, wardrobe"
+      },
+      {
+        "de": "das Regal, -e",
+        "en": "shelf"
+      },
+      {
+        "de": "die Lampe, -n",
+        "en": "lamp"
+      },
+      {
+        "de": "der Teppich, -e",
+        "en": "carpet, rug"
+      },
+      {
+        "de": "das Kissen, -",
+        "en": "cushion"
+      },
+      {
+        "de": "das Fernsehgerät, -e",
+        "en": "TV set"
+      },
+      {
+        "de": "das Bild, -er",
+        "en": "picture"
+      },
+      {
+        "de": "die Wand, -¨e",
+        "en": "wall"
+      },
+      {
+        "de": "die Tür, -en",
+        "en": "door"
+      },
+      {
+        "de": "die Ecke, -n",
+        "en": "corner"
+      },
+      {
+        "de": "der Boden, -¨",
+        "en": "floor"
+      },
+      {
+        "de": "die Heizung, -en",
+        "en": "heating, radiator"
+      },
+      {
+        "de": "das Deckenlicht, -er",
+        "en": "ceiling light"
+      },
+      {
+        "de": "das Möbelstück, -e",
+        "en": "piece of furniture"
+      },
+      {
+        "de": "der Möbelpacker, -",
+        "en": "removal man"
+      },
+      {
+        "de": "der Raum, -¨e",
+        "en": "room, space"
+      },
+      {
+        "de": "das Souvenir, -s",
+        "en": "souvenir"
+      },
+      {
+        "de": "der Flohmarkt, -¨e",
+        "en": "flea market"
+      },
+      {
+        "de": "schwer",
+        "en": "heavy"
+      },
+      {
+        "de": "hell / dunkel",
+        "en": "bright / dark"
+      },
+      {
+        "de": "gemütlich / ungemütlich",
+        "en": "cosy / not cosy"
+      },
+      {
+        "de": "indirekt",
+        "en": "indirect"
+      },
+      {
+        "de": "die Geschmackssache",
+        "en": "matter of taste"
+      },
+      {
+        "de": "beachten",
+        "en": "to pay attention to"
+      },
+      {
+        "de": "verstecken",
+        "en": "to hide"
+      },
+      {
+        "de": "diskutieren",
+        "en": "to discuss, to argue"
+      },
+      {
+        "de": "stellen / stehen",
+        "en": "to put (upright) / to stand"
+      },
+      {
+        "de": "legen / liegen",
+        "en": "to lay / to lie"
+      },
+      {
+        "de": "hängen / hängen",
+        "en": "to hang (something) / to be hanging"
+      },
+      {
+        "de": "blöd",
+        "en": "silly, stupid"
+      },
+      {
+        "de": "das Gedicht, -e",
+        "en": "poem"
+      },
+      {
+        "de": "der Gegenstand, -¨e",
+        "en": "object"
+      },
+      {
+        "de": "die Farbe / die Form / die Eigenschaft",
+        "en": "colour / shape / property"
+      },
+      {
+        "de": "das Werkzeug",
+        "en": "tools"
+      }
+    ],
+    "grammar": [
+      {
+        "name": "Two-way prepositions: Wo? + dative, Wohin? + accusative",
+        "explanation": "an, auf, hinter, in, neben, über, unter, vor and zwischen take the dative for a location (Wo?) and the accusative for a direction or placement (Wohin?).",
+        "examples": [
+          "Wo? Das Buch liegt auf dem Tisch.",
+          "Wohin? Ich lege das Buch auf den Tisch.",
+          "zwischen den Türen / zwischen die Türen"
+        ]
+      },
+      {
+        "name": "Verb pairs: stellen – stehen, legen – liegen, hängen – hängen",
+        "explanation": "stellen, legen and hängen (placing something) go with Wohin? + accusative. stehen, liegen and hängen (being somewhere) go with Wo? + dative.",
+        "examples": [
+          "Ich stelle die Lampe auf den Tisch. – Die Lampe steht auf dem Tisch.",
+          "Ich hänge das Bild an die Wand. – Das Bild hängt an der Wand."
+        ]
+      },
+      {
+        "name": "Contractions",
+        "explanation": "in dem = im, an dem = am, in das = ins, an das = ans.",
+        "examples": [
+          "im Schrank",
+          "ins Wohnzimmer"
+        ]
+      },
+      {
+        "name": "Giving furnishing tips",
+        "explanation": "Use the imperative (Sie or ihr) and add a consequence with sonst or dann.",
+        "examples": [
+          "Stellen Sie nur wenige Souvenirs auf ein Regal. Sonst sieht es aus wie auf einem Flohmarkt."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "de": "Stellt/Stellen Sie nicht/nur ...",
+        "en": "Don't put / Only put ..."
+      },
+      {
+        "de": "Sonst wird der Raum / das Zimmer ...",
+        "en": "Otherwise the room becomes ..."
+      },
+      {
+        "de": "Dann sieht man ...",
+        "en": "Then you see ..."
+      },
+      {
+        "de": "Vorsicht mit ... / Passt auf mit ... / Seid vorsichtig mit ...",
+        "en": "Be careful with ..."
+      },
+      {
+        "de": "Schön ist ein Bild an der Wand.",
+        "en": "A picture on the wall is nice."
+      },
+      {
+        "de": "Weniger ist mehr!",
+        "en": "Less is more!"
+      }
+    ]
+  },
+  "sentences": [
+    {
+      "en": "The chest of drawers is next to the door.",
+      "de": "Die Kommode steht neben der Tür.",
+      "alt": [
+        "Die Kommode ist neben der Tür."
+      ],
+      "difficulty": "easy",
+      "focus": "Wo? + dative"
+    },
+    {
+      "en": "Put the chest of drawers next to the door. [formal]",
+      "de": "Stellen Sie die Kommode neben die Tür.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "Wohin? + accusative"
+    },
+    {
+      "en": "The picture is hanging on the wall.",
+      "de": "Das Bild hängt an der Wand.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "hängen + dative"
+    },
+    {
+      "en": "I'm hanging the picture on the wall.",
+      "de": "Ich hänge das Bild an die Wand.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "hängen + accusative"
+    },
+    {
+      "en": "The book is lying on the table.",
+      "de": "Das Buch liegt auf dem Tisch.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "liegen + dative"
+    },
+    {
+      "en": "Put the book on the table. [informal]",
+      "de": "Leg das Buch auf den Tisch.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "legen + accusative"
+    },
+    {
+      "en": "Where should I put your book? [informal]",
+      "de": "Wohin soll ich dein Buch legen?",
+      "alt": [
+        "Wo soll ich dein Buch hinlegen?"
+      ],
+      "difficulty": "easy",
+      "focus": "Wohin?"
+    },
+    {
+      "en": "The TV is in front of the sofa.",
+      "de": "Der Fernseher steht vor dem Sofa.",
+      "alt": [
+        "Das Fernsehgerät steht vor dem Sofa."
+      ],
+      "difficulty": "easy",
+      "focus": "stehen + dative"
+    },
+    {
+      "en": "Put the lamp on the table. [formal]",
+      "de": "Stellen Sie die Lampe auf den Tisch.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "stellen + accusative"
+    },
+    {
+      "en": "The carpet is on the floor.",
+      "de": "Der Teppich liegt auf dem Boden.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "liegen + dative"
+    },
+    {
+      "en": "I'm putting the carpet on the floor.",
+      "de": "Ich lege den Teppich auf den Boden.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "legen + accusative"
+    },
+    {
+      "en": "The suitcase is under the bed.",
+      "de": "Der Koffer liegt unter dem Bett.",
+      "alt": [
+        "Der Koffer ist unter dem Bett.",
+        "Der Koffer steht unter dem Bett."
+      ],
+      "difficulty": "easy",
+      "focus": "unter + dative"
+    },
+    {
+      "en": "He puts the suitcase under the bed.",
+      "de": "Er legt den Koffer unter das Bett.",
+      "alt": [
+        "Er stellt den Koffer unter das Bett.",
+        "Er legt den Koffer unters Bett."
+      ],
+      "difficulty": "easy",
+      "focus": "unter + accusative"
+    },
+    {
+      "en": "The cupboard is in the corner.",
+      "de": "Der Schrank steht in der Ecke.",
+      "alt": [
+        "Der Schrank ist in der Ecke."
+      ],
+      "difficulty": "easy",
+      "focus": "in + dative"
+    },
+    {
+      "en": "Put the cupboard in the corner. [plural]",
+      "de": "Stellt den Schrank in die Ecke.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "in + accusative"
+    },
+    {
+      "en": "The clothes are in the wardrobe.",
+      "de": "Die Kleider sind im Schrank.",
+      "alt": [
+        "Die Kleidung ist im Schrank.",
+        "Die Kleider hängen im Schrank."
+      ],
+      "difficulty": "easy",
+      "focus": "im"
+    },
+    {
+      "en": "I'm hiding the TV in the cupboard.",
+      "de": "Ich verstecke den Fernseher im Schrank.",
+      "alt": [
+        "Ich verstecke das Fernsehgerät im Schrank."
+      ],
+      "difficulty": "easy",
+      "focus": "verstecken"
+    },
+    {
+      "en": "There are cushions on the sofa.",
+      "de": "Auf dem Sofa liegen Kissen.",
+      "alt": [
+        "Auf dem Sofa liegen ein paar Kissen."
+      ],
+      "difficulty": "easy",
+      "focus": "liegen + dative"
+    },
+    {
+      "en": "The lamp is hanging above the table.",
+      "de": "Die Lampe hängt über dem Tisch.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "über + dative"
+    },
+    {
+      "en": "Hang the lamp above the table. [informal]",
+      "de": "Häng die Lampe über den Tisch.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "über + accusative"
+    },
+    {
+      "en": "The chest of drawers is heavy.",
+      "de": "Die Kommode ist schwer.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "schwer"
+    },
+    {
+      "en": "I've moved house four times.",
+      "de": "Ich bin schon viermal umgezogen.",
+      "alt": [
+        "Ich bin viermal umgezogen."
+      ],
+      "difficulty": "easy",
+      "focus": "umziehen (Perfekt)"
+    },
+    {
+      "en": "Moving is fun for me.",
+      "de": "Umziehen macht mir Spaß.",
+      "alt": [
+        "Das Umziehen macht mir Spaß."
+      ],
+      "difficulty": "easy",
+      "focus": "Spaß machen"
+    },
+    {
+      "en": "I like furnishing flats.",
+      "de": "Ich richte gern Wohnungen ein.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "einrichten"
+    },
+    {
+      "en": "I don't like moving at all.",
+      "de": "Ich ziehe gar nicht gern um.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "umziehen"
+    },
+    {
+      "en": "Stop arguing! [plural]",
+      "de": "Diskutiert nicht mehr!",
+      "alt": [
+        "Hört auf zu diskutieren!"
+      ],
+      "difficulty": "easy",
+      "focus": "diskutieren"
+    },
+    {
+      "en": "The room is too dark.",
+      "de": "Das Zimmer ist zu dunkel.",
+      "alt": [
+        "Der Raum ist zu dunkel."
+      ],
+      "difficulty": "easy",
+      "focus": "dunkel"
+    },
+    {
+      "en": "A carpet makes the room cosy.",
+      "de": "Ein Teppich macht das Zimmer gemütlich.",
+      "alt": [
+        "Ein Teppich macht den Raum gemütlich."
+      ],
+      "difficulty": "easy",
+      "focus": "gemütlich"
+    },
+    {
+      "en": "Less is more!",
+      "de": "Weniger ist mehr!",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "furnishing tips"
+    },
+    {
+      "en": "Furnishing is a matter of taste.",
+      "de": "Einrichten ist Geschmackssache.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "Geschmackssache"
+    },
+    {
+      "en": "The bag is between the chairs.",
+      "de": "Die Tasche steht zwischen den Stühlen.",
+      "alt": [
+        "Die Tasche ist zwischen den Stühlen."
+      ],
+      "difficulty": "easy",
+      "focus": "zwischen + dative plural"
+    },
+    {
+      "en": "Where is my book now?",
+      "de": "Wo ist mein Buch jetzt?",
+      "alt": [
+        "Wo ist jetzt mein Buch?"
+      ],
+      "difficulty": "easy",
+      "focus": "Wo?"
+    },
+    {
+      "en": "Your book is lying on the exercise book. [informal]",
+      "de": "Dein Buch liegt auf dem Heft.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "liegen + dative"
+    },
+    {
+      "en": "Our sofa is in the living room.",
+      "de": "Unser Sofa steht im Wohnzimmer.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "unser (review)"
+    },
+    {
+      "en": "Grandma's photos are hanging in the hall.",
+      "de": "Omas Fotos hängen im Flur.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "genitive -s (review)"
+    },
+    {
+      "en": "The chest of drawers should rather go under the window.",
+      "de": "Die Kommode soll lieber unter dem Fenster stehen.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "stehen + dative"
+    },
+    {
+      "en": "Please put the chest of drawers under the window. [formal]",
+      "de": "Stellen Sie die Kommode bitte unter das Fenster.",
+      "alt": [
+        "Bitte stellen Sie die Kommode unter das Fenster."
+      ],
+      "difficulty": "medium",
+      "focus": "stellen + accusative"
+    },
+    {
+      "en": "The cupboard can go in the corner or next to the sofa.",
+      "de": "Der Schrank kann in der Ecke oder neben dem Sofa stehen.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "stehen + dative"
+    },
+    {
+      "en": "Only put a few souvenirs on a shelf. [formal]",
+      "de": "Stellen Sie nur wenige Souvenirs auf ein Regal.",
+      "alt": [
+        "Stellen Sie nur wenige Urlaubs-Souvenirs auf ein Regal."
+      ],
+      "difficulty": "medium",
+      "focus": "auf ein (accusative)"
+    },
+    {
+      "en": "Don't put the sofa in front of the radiator. [formal]",
+      "de": "Stellen Sie das Sofa nicht vor die Heizung.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "vor + accusative"
+    },
+    {
+      "en": "Otherwise the room won't get really warm.",
+      "de": "Sonst wird das Zimmer nicht richtig warm.",
+      "alt": [
+        "Sonst wird der Raum nicht richtig warm."
+      ],
+      "difficulty": "medium",
+      "focus": "sonst"
+    },
+    {
+      "en": "Put a rug on the floor, then the room becomes cosy. [formal]",
+      "de": "Legen Sie einen Teppich auf den Boden, dann wird das Zimmer gemütlich.",
+      "alt": [
+        "Legen Sie einen Teppich auf den Boden, dann wird der Raum gemütlich."
+      ],
+      "difficulty": "medium",
+      "focus": "legen + accusative / dann"
+    },
+    {
+      "en": "Be careful with colour! [plural]",
+      "de": "Seid vorsichtig mit Farbe!",
+      "alt": [
+        "Passt auf mit Farbe!",
+        "Vorsicht mit Farbe!"
+      ],
+      "difficulty": "medium",
+      "focus": "giving tips"
+    },
+    {
+      "en": "Does the room have two doors? Then put pieces of furniture between the doors. [formal]",
+      "de": "Hat der Raum zwei Türen? Dann stellen Sie Möbelstücke zwischen die Türen.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "zwischen + accusative"
+    },
+    {
+      "en": "The light from the lamp is indirect and warm.",
+      "de": "Das Licht von der Lampe ist indirekt und warm.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "indirekt"
+    },
+    {
+      "en": "Where shall we put the TV? – In front of the sofa.",
+      "de": "Wohin sollen wir den Fernseher stellen? – Vor das Sofa.",
+      "alt": [
+        "Wohin stellen wir den Fernseher? – Vor das Sofa."
+      ],
+      "difficulty": "medium",
+      "focus": "Wohin? + accusative"
+    },
+    {
+      "en": "Where is the TV? – It's in front of the sofa.",
+      "de": "Wo steht der Fernseher? – Er steht vor dem Sofa.",
+      "alt": [
+        "Wo ist der Fernseher? – Er steht vor dem Sofa."
+      ],
+      "difficulty": "medium",
+      "focus": "Wo? + dative"
+    },
+    {
+      "en": "The removal men are carrying the chest of drawers into the living room.",
+      "de": "Die Möbelpacker tragen die Kommode ins Wohnzimmer.",
+      "alt": [
+        "Die Möbelpacker bringen die Kommode ins Wohnzimmer."
+      ],
+      "difficulty": "medium",
+      "focus": "ins (accusative)"
+    },
+    {
+      "en": "I'm putting the plant on the balcony, because it needs light.",
+      "de": "Ich stelle die Pflanze auf den Balkon, denn sie braucht Licht.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "stellen + accusative"
+    },
+    {
+      "en": "Hang the pictures on the wall, not above the sofa. [informal]",
+      "de": "Häng die Bilder an die Wand, nicht über das Sofa.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "hängen + accusative"
+    },
+    {
+      "en": "The cat is lying under the bed again.",
+      "de": "Die Katze liegt schon wieder unter dem Bett.",
+      "alt": [
+        "Die Katze liegt wieder unter dem Bett."
+      ],
+      "difficulty": "medium",
+      "focus": "liegen + dative"
+    },
+    {
+      "en": "Where did you put my keys? [informal]",
+      "de": "Wohin hast du meine Schlüssel gelegt?",
+      "alt": [
+        "Wo hast du meine Schlüssel hingelegt?"
+      ],
+      "difficulty": "medium",
+      "focus": "legen (Perfekt)"
+    },
+    {
+      "en": "I put your keys on the shelf. [informal]",
+      "de": "Ich habe deine Schlüssel auf das Regal gelegt.",
+      "alt": [
+        "Ich habe deine Schlüssel aufs Regal gelegt."
+      ],
+      "difficulty": "medium",
+      "focus": "legen + accusative"
+    },
+    {
+      "en": "Your keys are on the shelf next to the lamp. [informal]",
+      "de": "Deine Schlüssel liegen auf dem Regal neben der Lampe.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "liegen + dative"
+    },
+    {
+      "en": "Everyone furnishes their flat differently.",
+      "de": "Jeder richtet seine Wohnung anders ein.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "einrichten"
+    },
+    {
+      "en": "Then it doesn't look like a flea market.",
+      "de": "Dann sieht es nicht aus wie auf einem Flohmarkt.",
+      "alt": [
+        "Dann sieht es nicht wie auf einem Flohmarkt aus."
+      ],
+      "difficulty": "medium",
+      "focus": "aussehen wie"
+    },
+    {
+      "en": "We renovated our flat and then furnished it.",
+      "de": "Wir haben unsere Wohnung renoviert und dann eingerichtet.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "Perfekt / unsere (review)"
+    },
+    {
+      "en": "Put the bottles in the fridge, please. [plural]",
+      "de": "Stellt die Flaschen bitte in den Kühlschrank.",
+      "alt": [
+        "Stellt bitte die Flaschen in den Kühlschrank."
+      ],
+      "difficulty": "medium",
+      "focus": "stellen + accusative"
+    },
+    {
+      "en": "The milk is in the fridge, on the left.",
+      "de": "Die Milch steht im Kühlschrank, links.",
+      "alt": [
+        "Die Milch ist links im Kühlschrank.",
+        "Die Milch steht links im Kühlschrank."
+      ],
+      "difficulty": "medium",
+      "focus": "stehen + dative"
+    },
+    {
+      "en": "Lay the towels on the bed. [formal]",
+      "de": "Legen Sie die Handtücher auf das Bett.",
+      "alt": [
+        "Legen Sie die Handtücher aufs Bett."
+      ],
+      "difficulty": "medium",
+      "focus": "legen + accusative (review)"
+    },
+    {
+      "en": "The towels are lying on the bed.",
+      "de": "Die Handtücher liegen auf dem Bett.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "liegen + dative"
+    },
+    {
+      "en": "I think that's silly; I don't like moving at all.",
+      "de": "Ich finde das blöd, ich ziehe gar nicht gern um.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "blöd / umziehen"
+    },
+    {
+      "en": "Really? I've moved several times, and it's fun for me.",
+      "de": "Wirklich? Ich bin schon mehrmals umgezogen und das macht mir Spaß.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "umziehen (Perfekt)"
+    },
+    {
+      "en": "My grandma gave us her sofa.",
+      "de": "Meine Oma hat uns ihr Sofa geschenkt.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "ihr (review)"
+    },
+    {
+      "en": "A mirror is hanging between the windows.",
+      "de": "Zwischen den Fenstern hängt ein Spiegel.",
+      "alt": [
+        "Ein Spiegel hängt zwischen den Fenstern."
+      ],
+      "difficulty": "medium",
+      "focus": "zwischen + dative plural"
+    },
+    {
+      "en": "Hang the mirror between the windows. [formal]",
+      "de": "Hängen Sie den Spiegel zwischen die Fenster.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "zwischen + accusative plural"
+    },
+    {
+      "en": "The lamp is behind the sofa.",
+      "de": "Die Lampe steht hinter dem Sofa.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "hinter + dative"
+    },
+    {
+      "en": "Put the lamp behind the sofa, then it's not so dark. [informal]",
+      "de": "Stell die Lampe hinter das Sofa, dann ist es nicht so dunkel.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "hinter + accusative"
+    },
+    {
+      "en": "Too many things on a shelf look untidy.",
+      "de": "Zu viele Sachen auf einem Regal sehen unordentlich aus.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "auf + dative"
+    },
+    {
+      "en": "The key isn't in the door; it's lying on the floor.",
+      "de": "Der Schlüssel steckt nicht in der Tür, er liegt auf dem Boden.",
+      "alt": [
+        "Der Schlüssel ist nicht in der Tür, er liegt auf dem Boden."
+      ],
+      "difficulty": "medium",
+      "focus": "Wo? + dative"
+    },
+    {
+      "en": "Who put the box in front of the door?",
+      "de": "Wer hat die Kiste vor die Tür gestellt?",
+      "alt": [
+        "Wer hat den Karton vor die Tür gestellt?"
+      ],
+      "difficulty": "medium",
+      "focus": "stellen (Perfekt)"
+    },
+    {
+      "en": "Can you help me? The chest of drawers is too heavy for me. [informal]",
+      "de": "Kannst du mir helfen? Die Kommode ist mir zu schwer.",
+      "alt": [
+        "Kannst du mir helfen? Die Kommode ist zu schwer für mich."
+      ],
+      "difficulty": "medium",
+      "focus": "helfen (review)"
+    },
+    {
+      "en": "The children put their toys under the bed.",
+      "de": "Die Kinder legen ihre Spielsachen unter das Bett.",
+      "alt": [
+        "Die Kinder legen ihre Spielsachen unters Bett."
+      ],
+      "difficulty": "medium",
+      "focus": "ihre (review) / unter + accusative"
+    },
+    {
+      "en": "In our flat the kitchen is next to the living room.",
+      "de": "In unserer Wohnung ist die Küche neben dem Wohnzimmer.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "unserer / neben + dative"
+    },
+    {
+      "en": "What's hanging on the wall? – A picture from my grandpa.",
+      "de": "Was hängt an der Wand? – Ein Bild von meinem Opa.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "hängen + dative"
+    },
+    {
+      "en": "Jasmin wants the chest of drawers under the window, but Stefan says it should go next to the door.",
+      "de": "Jasmin möchte die Kommode unter dem Fenster, aber Stefan sagt, sie soll neben der Tür stehen.",
+      "alt": [
+        "Jasmin will die Kommode unter dem Fenster, aber Stefan sagt, sie soll neben der Tür stehen."
+      ],
+      "difficulty": "hard",
+      "focus": "Wo? + dative"
+    },
+    {
+      "en": "Please stop arguing, the chest of drawers is really heavy! [plural]",
+      "de": "Bitte diskutiert nicht mehr, die Kommode ist wirklich schwer!",
+      "alt": [
+        "Diskutiert bitte nicht mehr, die Kommode ist wirklich schwer!"
+      ],
+      "difficulty": "hard",
+      "focus": "imperative"
+    },
+    {
+      "en": "Only put a few souvenirs on the shelf, otherwise it looks like a flea market. [formal]",
+      "de": "Stellen Sie nur wenige Souvenirs auf das Regal, sonst sieht es aus wie auf einem Flohmarkt.",
+      "alt": [
+        "Stellen Sie nur wenige Souvenirs aufs Regal, sonst sieht es wie auf einem Flohmarkt aus."
+      ],
+      "difficulty": "hard",
+      "focus": "furnishing tips"
+    },
+    {
+      "en": "Don't put the sofa in front of the radiator, otherwise the room won't get really warm. [plural]",
+      "de": "Stellt das Sofa nicht vor die Heizung, sonst wird das Zimmer nicht richtig warm.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "furnishing tips"
+    },
+    {
+      "en": "I've already put the lamp on the table; now the light is indirect and warm.",
+      "de": "Ich habe die Lampe schon auf den Tisch gestellt, jetzt ist das Licht indirekt und warm.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "stellen (Perfekt)"
+    },
+    {
+      "en": "The cushions were lying on the sofa, but the children put them on the floor.",
+      "de": "Die Kissen haben auf dem Sofa gelegen, aber die Kinder haben sie auf den Boden gelegt.",
+      "alt": [
+        "Die Kissen lagen auf dem Sofa, aber die Kinder haben sie auf den Boden gelegt."
+      ],
+      "difficulty": "hard",
+      "focus": "liegen / legen (Perfekt)"
+    },
+    {
+      "en": "Where should I hang the picture? – Hang it on the wall between the windows. [informal]",
+      "de": "Wohin soll ich das Bild hängen? – Häng es an die Wand zwischen den Fenstern.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "Wohin? / Wo?"
+    },
+    {
+      "en": "Be careful with too many pieces of furniture: then the room quickly gets too dark. [plural]",
+      "de": "Passt auf mit zu vielen Möbelstücken, dann wird der Raum schnell zu dunkel.",
+      "alt": [
+        "Seid vorsichtig mit zu vielen Möbelstücken, dann wird der Raum schnell zu dunkel."
+      ],
+      "difficulty": "hard",
+      "focus": "furnishing tips"
+    },
+    {
+      "en": "We've moved four times, and every time we renovated and furnished the flat ourselves.",
+      "de": "Wir sind schon viermal umgezogen und jedes Mal haben wir die Wohnung selbst renoviert und eingerichtet.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "Perfekt with sein / haben"
+    },
+    {
+      "en": "A picture on the wall is nice, but don't hang too many pictures in one room. [formal]",
+      "de": "Schön ist ein Bild an der Wand, aber hängen Sie nicht zu viele Bilder in einen Raum.",
+      "alt": [
+        "Ein Bild an der Wand ist schön, aber hängen Sie nicht zu viele Bilder in einen Raum."
+      ],
+      "difficulty": "hard",
+      "focus": "an der / in einen"
+    },
+    {
+      "en": "My grandpa put his photos in a box and put the box in the cellar.",
+      "de": "Mein Opa hat seine Fotos in eine Kiste gelegt und die Kiste in den Keller gestellt.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "legen / stellen + accusative"
+    },
+    {
+      "en": "The TV isn't in front of the sofa any more: I'm hiding it in the cupboard now.",
+      "de": "Der Fernseher steht nicht mehr vor dem Sofa, ich verstecke ihn jetzt im Schrank.",
+      "alt": [
+        "Der Fernseher steht nicht mehr vor dem Sofa: Ich verstecke ihn jetzt im Schrank."
+      ],
+      "difficulty": "hard",
+      "focus": "stehen + dative"
+    },
+    {
+      "en": "Put the cupboard in front of the wall, not in front of the window, otherwise the room gets dark. [formal]",
+      "de": "Stellen Sie den Schrank vor die Wand, nicht vor das Fenster, sonst wird das Zimmer dunkel.",
+      "alt": [
+        "Stellen Sie den Schrank vor die Wand und nicht vor das Fenster, sonst wird der Raum dunkel."
+      ],
+      "difficulty": "hard",
+      "focus": "vor + accusative"
+    },
+    {
+      "en": "Our neighbours helped us with the move, and afterwards we invited them to dinner.",
+      "de": "Unsere Nachbarn haben uns beim Umzug geholfen und danach haben wir sie zum Essen eingeladen.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "helfen (review) / Umzug"
+    },
+    {
+      "en": "In the living room there's a sofa with a few cushions, and a rug is lying on the floor.",
+      "de": "Im Wohnzimmer steht ein Sofa mit ein paar Kissen und auf dem Boden liegt ein Teppich.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "describing a room"
+    },
+    {
+      "en": "Hang your jacket in the wardrobe and put your shoes in front of the door. [informal]",
+      "de": "Häng deine Jacke in den Schrank und stell deine Schuhe vor die Tür.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "hängen / stellen + accusative"
+    },
+    {
+      "en": "Where are the glasses? – I put them in the cupboard next to the plates.",
+      "de": "Wo sind die Gläser? – Ich habe sie in den Schrank neben die Teller gestellt.",
+      "alt": [
+        "Wo sind die Gläser? – Ich habe sie in den Schrank gestellt, neben die Teller."
+      ],
+      "difficulty": "hard",
+      "focus": "Wohin? + accusative"
+    },
+    {
+      "en": "My sister thinks furnishing is a matter of taste, but I think a few tips are important.",
+      "de": "Meine Schwester findet Einrichten Geschmackssache, aber ich finde ein paar Tipps wichtig.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "Geschmackssache"
+    },
+    {
+      "en": "Our boxes have been standing in the hall for two weeks since the move.",
+      "de": "Seit dem Umzug stehen unsere Kisten schon zwei Wochen im Flur.",
+      "alt": [
+        "Unsere Kisten stehen seit dem Umzug schon zwei Wochen im Flur."
+      ],
+      "difficulty": "hard",
+      "focus": "seit + dative"
+    },
+    {
+      "en": "Lay the rug between the sofa and the table; then the room looks cosy. [formal]",
+      "de": "Legen Sie den Teppich zwischen das Sofa und den Tisch, dann sieht das Zimmer gemütlich aus.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "zwischen + accusative"
+    },
+    {
+      "en": "Our daughter hung her pictures on the wall above her bed.",
+      "de": "Unsere Tochter hat ihre Bilder an die Wand über ihrem Bett gehängt.",
+      "alt": [
+        "Unsere Tochter hat ihre Bilder über ihrem Bett an die Wand gehängt."
+      ],
+      "difficulty": "hard",
+      "focus": "an die / über ihrem"
+    },
+    {
+      "en": "Why is the lamp lying on the floor? Put it back on the table, please! [informal]",
+      "de": "Warum liegt die Lampe auf dem Boden? Stell sie bitte wieder auf den Tisch!",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "liegen / stellen"
+    },
+    {
+      "en": "The removal men carried the chest of drawers upstairs, and now it's in the bedroom.",
+      "de": "Die Möbelpacker haben die Kommode nach oben getragen und jetzt steht sie im Schlafzimmer.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "Perfekt / stehen"
+    },
+    {
+      "en": "I can't find my phone: it isn't on the table and it isn't in my bag either.",
+      "de": "Ich finde mein Handy nicht: Es liegt nicht auf dem Tisch und auch nicht in meiner Tasche.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "liegen + dative"
+    },
+    {
+      "en": "Put the chair next to the window, then you can see the park from there. [informal]",
+      "de": "Stell den Stuhl neben das Fenster, dann kannst du von dort den Park sehen.",
+      "alt": [
+        "Stell den Stuhl ans Fenster, dann kannst du von dort den Park sehen."
+      ],
+      "difficulty": "hard",
+      "focus": "neben + accusative"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "on the wall (Wo?)",
+      "de": "an der Wand",
+      "alt": [],
+      "focus": "Wo? + dative",
+      "note": ""
+    },
+    {
+      "en": "onto the wall (Wohin?)",
+      "de": "an die Wand",
+      "alt": [],
+      "focus": "Wohin? + accusative",
+      "note": ""
+    },
+    {
+      "en": "next to the bed (Wo?)",
+      "de": "neben dem Bett",
+      "alt": [],
+      "focus": "Wo? + dative",
+      "note": ""
+    },
+    {
+      "en": "next to the bed (Wohin?)",
+      "de": "neben das Bett",
+      "alt": [],
+      "focus": "Wohin? + accusative",
+      "note": ""
+    },
+    {
+      "en": "in front of the door (Wo?)",
+      "de": "vor der Tür",
+      "alt": [],
+      "focus": "Wo? + dative",
+      "note": ""
+    },
+    {
+      "en": "in front of the door (Wohin?)",
+      "de": "vor die Tür",
+      "alt": [],
+      "focus": "Wohin? + accusative",
+      "note": ""
+    },
+    {
+      "en": "behind the door (Wo?)",
+      "de": "hinter der Tür",
+      "alt": [],
+      "focus": "Wo? + dative",
+      "note": ""
+    },
+    {
+      "en": "between the doors (Wohin?)",
+      "de": "zwischen die Türen",
+      "alt": [],
+      "focus": "Wohin? + accusative",
+      "note": ""
+    },
+    {
+      "en": "between the doors (Wo?)",
+      "de": "zwischen den Türen",
+      "alt": [],
+      "focus": "Wo? + dative",
+      "note": ""
+    },
+    {
+      "en": "above the table (Wohin?)",
+      "de": "über den Tisch",
+      "alt": [],
+      "focus": "Wohin? + accusative",
+      "note": ""
+    },
+    {
+      "en": "under the bed (Wo?)",
+      "de": "unter dem Bett",
+      "alt": [],
+      "focus": "Wo? + dative",
+      "note": ""
+    },
+    {
+      "en": "into the wardrobe",
+      "de": "in den Schrank",
+      "alt": [],
+      "focus": "Wohin? + accusative",
+      "note": ""
+    },
+    {
+      "en": "in the wardrobe",
+      "de": "im Schrank",
+      "alt": [],
+      "focus": "Wo? + dative",
+      "note": ""
+    },
+    {
+      "en": "to put the lamp on the table",
+      "de": "die Lampe auf den Tisch stellen",
+      "alt": [],
+      "focus": "stellen",
+      "note": ""
+    },
+    {
+      "en": "to lay the rug on the floor",
+      "de": "den Teppich auf den Boden legen",
+      "alt": [],
+      "focus": "legen",
+      "note": ""
+    },
+    {
+      "en": "to hang the picture on the wall",
+      "de": "das Bild an die Wand hängen",
+      "alt": [],
+      "focus": "hängen",
+      "note": ""
+    },
+    {
+      "en": "The picture is hanging on the wall.",
+      "de": "Das Bild hängt an der Wand.",
+      "alt": [],
+      "focus": "hängen",
+      "note": ""
+    },
+    {
+      "en": "The book is lying on the exercise book.",
+      "de": "Das Buch liegt auf dem Heft.",
+      "alt": [],
+      "focus": "liegen",
+      "note": ""
+    },
+    {
+      "en": "The TV is in front of the sofa.",
+      "de": "Der Fernseher steht vor dem Sofa.",
+      "alt": [
+        "Das Fernsehgerät steht vor dem Sofa."
+      ],
+      "focus": "stehen",
+      "note": ""
+    },
+    {
+      "en": "Where should I put the book?",
+      "de": "Wohin soll ich das Buch legen?",
+      "alt": [],
+      "focus": "Wohin?",
+      "note": ""
+    },
+    {
+      "en": "in the corner",
+      "de": "in der Ecke",
+      "alt": [],
+      "focus": "Wo? + dative",
+      "note": ""
+    },
+    {
+      "en": "a few cushions",
+      "de": "ein paar Kissen",
+      "alt": [],
+      "focus": "furniture",
+      "note": ""
+    },
+    {
+      "en": "to move house",
+      "de": "umziehen",
+      "alt": [],
+      "focus": "moving",
+      "note": ""
+    },
+    {
+      "en": "I've moved house four times.",
+      "de": "Ich bin schon viermal umgezogen.",
+      "alt": [],
+      "focus": "moving",
+      "note": ""
+    },
+    {
+      "en": "to furnish a flat",
+      "de": "eine Wohnung einrichten",
+      "alt": [],
+      "focus": "furnishing",
+      "note": ""
+    },
+    {
+      "en": "to renovate",
+      "de": "renovieren",
+      "alt": [],
+      "focus": "furnishing",
+      "note": ""
+    },
+    {
+      "en": "It's fun for me.",
+      "de": "Das macht mir Spaß.",
+      "alt": [],
+      "focus": "opinions",
+      "note": ""
+    },
+    {
+      "en": "I think that's silly.",
+      "de": "Ich finde das blöd.",
+      "alt": [],
+      "focus": "opinions",
+      "note": ""
+    },
+    {
+      "en": "The chest of drawers is heavy.",
+      "de": "Die Kommode ist schwer.",
+      "alt": [],
+      "focus": "furniture",
+      "note": ""
+    },
+    {
+      "en": "Where do we put the chest of drawers?",
+      "de": "Wohin mit der Kommode?",
+      "alt": [],
+      "focus": "Wohin?",
+      "note": "A short, spoken way of asking where something should go."
+    },
+    {
+      "en": "Is furnishing really a matter of taste?",
+      "de": "Ist Einrichten wirklich Geschmackssache?",
+      "alt": [],
+      "focus": "furnishing",
+      "note": ""
+    },
+    {
+      "en": "Less is more!",
+      "de": "Weniger ist mehr!",
+      "alt": [],
+      "focus": "furnishing tips",
+      "note": ""
+    },
+    {
+      "en": "Only put a few things on the shelf. [formal]",
+      "de": "Stellen Sie nur wenige Sachen auf das Regal.",
+      "alt": [
+        "Stellen Sie nur wenige Sachen aufs Regal."
+      ],
+      "focus": "furnishing tips",
+      "note": ""
+    },
+    {
+      "en": "Otherwise the room gets dark.",
+      "de": "Sonst wird das Zimmer dunkel.",
+      "alt": [
+        "Sonst wird der Raum dunkel."
+      ],
+      "focus": "furnishing tips",
+      "note": ""
+    },
+    {
+      "en": "Be careful with the chest of drawers! [plural]",
+      "de": "Seid vorsichtig mit der Kommode!",
+      "alt": [
+        "Passt auf mit der Kommode!",
+        "Vorsicht mit der Kommode!"
+      ],
+      "focus": "furnishing tips",
+      "note": ""
+    },
+    {
+      "en": "A picture on the wall is nice.",
+      "de": "Schön ist ein Bild an der Wand.",
+      "alt": [
+        "Ein Bild an der Wand ist schön."
+      ],
+      "focus": "furnishing tips",
+      "note": ""
+    },
+    {
+      "en": "But don't hang too many pictures on the wall! [plural]",
+      "de": "Aber hängt nicht zu viele Bilder an die Wand!",
+      "alt": [],
+      "focus": "furnishing tips",
+      "note": ""
+    },
+    {
+      "en": "indirect light",
+      "de": "indirektes Licht",
+      "alt": [],
+      "focus": "light",
+      "note": ""
+    },
+    {
+      "en": "the ceiling light",
+      "de": "das Deckenlicht",
+      "alt": [],
+      "focus": "light",
+      "note": ""
+    },
+    {
+      "en": "The room is cosy.",
+      "de": "Der Raum ist gemütlich.",
+      "alt": [
+        "Das Zimmer ist gemütlich."
+      ],
+      "focus": "describing a room",
+      "note": ""
+    },
+    {
+      "en": "not cosy",
+      "de": "ungemütlich",
+      "alt": [],
+      "focus": "describing a room",
+      "note": ""
+    },
+    {
+      "en": "pieces of furniture",
+      "de": "Möbelstücke",
+      "alt": [
+        "die Möbelstücke"
+      ],
+      "focus": "furniture",
+      "note": ""
+    },
+    {
+      "en": "the removal men",
+      "de": "die Möbelpacker",
+      "alt": [],
+      "focus": "moving",
+      "note": ""
+    },
+    {
+      "en": "a holiday souvenir",
+      "de": "ein Urlaubssouvenir",
+      "alt": [
+        "ein Urlaubs-Souvenir"
+      ],
+      "focus": "furniture",
+      "note": ""
+    },
+    {
+      "en": "to hide the TV",
+      "de": "den Fernseher verstecken",
+      "alt": [
+        "das Fernsehgerät verstecken"
+      ],
+      "focus": "verstecken",
+      "note": ""
+    },
+    {
+      "en": "Stop arguing. [plural]",
+      "de": "Diskutiert nicht mehr.",
+      "alt": [],
+      "focus": "imperative",
+      "note": ""
+    },
+    {
+      "en": "a poem",
+      "de": "ein Gedicht",
+      "alt": [],
+      "focus": "writing",
+      "note": ""
+    },
+    {
+      "en": "an object in the flat",
+      "de": "ein Gegenstand in der Wohnung",
+      "alt": [],
+      "focus": "writing",
+      "note": ""
+    },
+    {
+      "en": "colour, shape or property",
+      "de": "Farbe, Form oder Eigenschaft",
+      "alt": [],
+      "focus": "writing",
+      "note": ""
+    },
+    {
+      "en": "The tools are in the cellar.",
+      "de": "Das Werkzeug ist im Keller.",
+      "alt": [
+        "Das Werkzeug liegt im Keller."
+      ],
+      "focus": "Wo? + dative",
+      "note": ""
+    }
+  ],
+  "text": {
+    "title": "Five furnishing tips",
+    "en": "1. Less is more! Only put a few pieces of furniture in a room. Otherwise the room quickly looks untidy.\n\n2. Do you have a balcony? Then put a few plants on the balcony. Plants make a flat cosy.\n\n3. Don't put the bed under the window. It's often cold there.\n\n4. Hang a mirror on the wall next to the door. Then the hall looks bright.\n\n5. Lay a rug in front of the sofa and put a lamp on the table. Then the light is warm, and you can relax in the evening.\n\nAnd one more tip: take your time! Furnishing is a matter of taste, and you don't have to be finished in a week.",
+    "de": "1. Weniger ist mehr! Stellen Sie nur wenige Möbelstücke in einen Raum. Sonst sieht der Raum schnell unordentlich aus.\n\n2. Haben Sie einen Balkon? Dann stellen Sie ein paar Pflanzen auf den Balkon. Pflanzen machen eine Wohnung gemütlich.\n\n3. Stellen Sie das Bett nicht unter das Fenster. Dort ist es oft kalt.\n\n4. Hängen Sie einen Spiegel an die Wand neben der Tür. Dann sieht der Flur hell aus.\n\n5. Legen Sie einen Teppich vor das Sofa und stellen Sie eine Lampe auf den Tisch. Dann ist das Licht warm und Sie können sich am Abend entspannen.\n\nUnd noch ein Tipp: Nehmen Sie sich Zeit! Einrichten ist Geschmackssache und Sie müssen nicht in einer Woche fertig sein."
+  }
+}

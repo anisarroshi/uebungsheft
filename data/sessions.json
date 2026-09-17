@@ -45,6 +45,50 @@
       }
     },
     {
+      "id": "a2-1-s01",
+      "level": "A2.1",
+      "number": 1,
+      "title": "Family stories",
+      "file": "sessions/a2-1-s01.json",
+      "counts": {
+        "sentences": 100,
+        "phrases": 50
+      }
+    },
+    {
+      "id": "a2-1-s02",
+      "level": "A2.1",
+      "number": 2,
+      "title": "Moving and furnishing",
+      "file": "sessions/a2-1-s02.json",
+      "counts": {
+        "sentences": 100,
+        "phrases": 50
+      }
+    },
+    {
+      "id": "a2-1-s03",
+      "level": "A2.1",
+      "number": 3,
+      "title": "Holidays in nature",
+      "file": "sessions/a2-1-s03.json",
+      "counts": {
+        "sentences": 100,
+        "phrases": 50
+      }
+    },
+    {
+      "id": "a2-1-s04",
+      "level": "A2.1",
+      "number": 4,
+      "title": "At the supermarket",
+      "file": "sessions/a2-1-s04.json",
+      "counts": {
+        "sentences": 100,
+        "phrases": 50
+      }
+    },
+    {
       "id": "a2-1-s05",
       "level": "A2.1",
       "number": 5,
