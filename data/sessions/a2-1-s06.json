@@ -1,0 +1,1451 @@
+{
+  "id": "a2-1-s06",
+  "level": "A2.1",
+  "number": 6,
+  "title": "My favourite event",
+  "createdAt": "2026-09-16",
+  "content": {
+    "topics": [
+      "events and festivals",
+      "reader contributions about favourite events",
+      "making arrangements",
+      "dates and ordinal numbers"
+    ],
+    "vocabulary": [
+      {
+        "de": "die Veranstaltung, -en",
+        "en": "event"
+      },
+      {
+        "de": "die Lieblingsveranstaltung, -en",
+        "en": "favourite event"
+      },
+      {
+        "de": "der Eintritt",
+        "en": "entry, admission"
+      },
+      {
+        "de": "die Eintrittskarte, -n",
+        "en": "entry ticket"
+      },
+      {
+        "de": "die Ermäßigung, -en",
+        "en": "discount, reduction"
+      },
+      {
+        "de": "der Künstler, - / die Künstlerin, -nen",
+        "en": "artist"
+      },
+      {
+        "de": "der Star, -s",
+        "en": "star"
+      },
+      {
+        "de": "die Bühne, -n",
+        "en": "stage"
+      },
+      {
+        "de": "die Kunst, -¨e",
+        "en": "art"
+      },
+      {
+        "de": "der Vortrag, -¨e",
+        "en": "talk, lecture"
+      },
+      {
+        "de": "die Diskussionsrunde, -n",
+        "en": "discussion round"
+      },
+      {
+        "de": "das Kostüm, -e",
+        "en": "costume"
+      },
+      {
+        "de": "das Fest, -e",
+        "en": "festival, party"
+      },
+      {
+        "de": "das Konzert, -e",
+        "en": "concert"
+      },
+      {
+        "de": "die Ausstellung, -en",
+        "en": "exhibition"
+      },
+      {
+        "de": "das Festival, -s",
+        "en": "festival"
+      },
+      {
+        "de": "das Theaterstück, -e",
+        "en": "play"
+      },
+      {
+        "de": "die Maske, -n",
+        "en": "mask"
+      },
+      {
+        "de": "die Akrobatik",
+        "en": "acrobatics"
+      },
+      {
+        "de": "das Karnevalsfest / das Mittelalterfest",
+        "en": "carnival festival / medieval festival"
+      },
+      {
+        "de": "stattfinden",
+        "en": "to take place"
+      },
+      {
+        "de": "erleben",
+        "en": "to experience"
+      },
+      {
+        "de": "der Leserbeitrag, -¨e",
+        "en": "reader's contribution"
+      },
+      {
+        "de": "faszinieren",
+        "en": "to fascinate"
+      },
+      {
+        "de": "die Verbindung, -en",
+        "en": "combination, connection"
+      },
+      {
+        "de": "die Wissenschaft / die Technik",
+        "en": "science / technology"
+      },
+      {
+        "de": "spannend",
+        "en": "exciting"
+      },
+      {
+        "de": "der Experte, -n",
+        "en": "expert"
+      },
+      {
+        "de": "die Zukunftsfrage, -n",
+        "en": "question about the future"
+      },
+      {
+        "de": "das Segeln / das Segelschiff, -e",
+        "en": "sailing / sailing ship"
+      },
+      {
+        "de": "im Mittelpunkt stehen",
+        "en": "to be at the centre"
+      },
+      {
+        "de": "die Parade, -n / der Umzug, -¨e",
+        "en": "parade"
+      },
+      {
+        "de": "historisch / das Originalkostüm, -e",
+        "en": "historical / original costume"
+      },
+      {
+        "de": "die Hochzeit, -en / die Hochzeitsfeier, -n",
+        "en": "wedding / wedding party"
+      },
+      {
+        "de": "der Darsteller, -",
+        "en": "performer"
+      },
+      {
+        "de": "nachspielen",
+        "en": "to re-enact"
+      },
+      {
+        "de": "der Treffpunkt, -e / ausmachen",
+        "en": "meeting point / to arrange"
+      },
+      {
+        "de": "sich verabreden",
+        "en": "to arrange to meet"
+      },
+      {
+        "de": "vorschlagen / der Vorschlag, -¨e",
+        "en": "to suggest / suggestion"
+      },
+      {
+        "de": "ablehnen / zustimmen / sich einigen",
+        "en": "to turn down / to agree / to agree on something"
+      },
+      {
+        "de": "mitkommen",
+        "en": "to come along"
+      },
+      {
+        "de": "zahlen",
+        "en": "to pay"
+      },
+      {
+        "de": "der/die Jugendliche, -n",
+        "en": "teenager"
+      }
+    ],
+    "grammar": [
+      {
+        "name": "von ... bis (zum) – Wie lange?",
+        "explanation": "von marks the start and bis (zum) the end of a period. With dates use vom ... bis zum ...; with days and months just von ... bis ...",
+        "examples": [
+          "Ich habe vom 9. bis zum 18. Mai Urlaub.",
+          "Ich habe von Montag bis Freitag Urlaub."
+        ]
+      },
+      {
+        "name": "von ... an / ab + dative – Ab wann?",
+        "explanation": "Both say when something starts: von morgen an = ab morgen. With a date, ab takes the dative: ab dem fünften Januar = vom fünften Januar an.",
+        "examples": [
+          "Von morgen an findet die Kieler Woche statt.",
+          "Ich bin ab dem fünften Januar in Berlin."
+        ]
+      },
+      {
+        "name": "seit + dative – Seit wann? / Wie lange?",
+        "explanation": "seit says since when something has been going on, and German uses the present tense for it: seit 1985, seit einem Monat, seit einer Woche, seit zwei Jahren (plural noun + -n).",
+        "examples": [
+          "Es findet seit 1985 jedes Jahr statt.",
+          "Ich lebe seit zwei Jahren in Wien."
+        ]
+      },
+      {
+        "name": "über + accusative – Wie lange?",
+        "explanation": "über means more than / longer than for a period of time and takes the accusative: über einen Monat, über ein Jahr, über eine Woche, über 30 Jahre.",
+        "examples": [
+          "Ich bin über einen Monat in Deutschland.",
+          "Das ist nun schon über 30 Jahre her."
+        ]
+      },
+      {
+        "name": "Dates and ordinal numbers",
+        "explanation": "1 to 19 add -te (der fünfte), from 20 they add -ste (der zwanzigste). After a preposition the ending is -ten / -sten: am fünften Mai, vom achtzehnten bis zum zweiundzwanzigsten Mai, ab dem neunten April.",
+        "examples": [
+          "Heute ist der fünfte Mai.",
+          "Der Arzt ist ab dem neunten April wieder in der Praxis."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "de": "Möchtest du vielleicht mitkommen? / Was hältst du davon?",
+        "en": "Would you like to come along? / What do you think of that?"
+      },
+      {
+        "de": "Darf ich etwas vorschlagen? / Wie wäre es mit ...?",
+        "en": "May I suggest something? / How about ...?"
+      },
+      {
+        "de": "Geht es bei dir am/um ...? / Hast du am ... Zeit?",
+        "en": "Does ... work for you? / Do you have time on ...?"
+      },
+      {
+        "de": "Wollen wir noch einen Treffpunkt ausmachen?",
+        "en": "Shall we arrange a meeting point?"
+      },
+      {
+        "de": "Sehr nett, aber da kann ich leider nicht.",
+        "en": "Very nice, but I'm afraid I can't."
+      },
+      {
+        "de": "Das ist keine so gute Idee. Ich würde lieber ...",
+        "en": "That's not such a good idea. I'd rather ..."
+      },
+      {
+        "de": "Aber gern. / Okay, das machen wir. / Ja okay, das passt auch.",
+        "en": "Yes, gladly. / Okay, let's do that. / Yes okay, that works too."
+      }
+    ]
+  },
+  "sentences": [
+    {
+      "en": "The festival takes place every year.",
+      "de": "Das Festival findet jedes Jahr statt.",
+      "alt": [
+        "Das Fest findet jedes Jahr statt."
+      ],
+      "difficulty": "easy",
+      "focus": "stattfinden"
+    },
+    {
+      "en": "It has taken place since 1985.",
+      "de": "Es findet seit 1985 statt.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "seit + year"
+    },
+    {
+      "en": "The event lasts ten days.",
+      "de": "Die Veranstaltung dauert zehn Tage.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "dauern"
+    },
+    {
+      "en": "I'm in Kiel from 8 to 10 July.",
+      "de": "Ich bin vom 8. bis zum 10. Juli in Kiel.",
+      "alt": [
+        "Ich bin vom achten bis zum zehnten Juli in Kiel."
+      ],
+      "difficulty": "easy",
+      "focus": "vom ... bis zum"
+    },
+    {
+      "en": "From tomorrow the Kieler Woche takes place.",
+      "de": "Von morgen an findet die Kieler Woche statt.",
+      "alt": [
+        "Ab morgen findet die Kieler Woche statt."
+      ],
+      "difficulty": "easy",
+      "focus": "von ... an"
+    },
+    {
+      "en": "I'm in Berlin from Monday.",
+      "de": "Ich bin ab Montag in Berlin.",
+      "alt": [
+        "Ich bin von Montag an in Berlin."
+      ],
+      "difficulty": "easy",
+      "focus": "ab / von ... an"
+    },
+    {
+      "en": "I've been living in Germany since 2023.",
+      "de": "Ich lebe seit 2023 in Deutschland.",
+      "alt": [
+        "Ich wohne seit 2023 in Deutschland."
+      ],
+      "difficulty": "easy",
+      "focus": "seit"
+    },
+    {
+      "en": "I've been living here for a month.",
+      "de": "Ich lebe seit einem Monat hier.",
+      "alt": [
+        "Ich wohne seit einem Monat hier."
+      ],
+      "difficulty": "easy",
+      "focus": "seit + dative"
+    },
+    {
+      "en": "We've been here for two years.",
+      "de": "Wir sind seit zwei Jahren hier.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "seit + dative plural"
+    },
+    {
+      "en": "I've been in Germany for over a month.",
+      "de": "Ich bin über einen Monat in Deutschland.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "über + accusative"
+    },
+    {
+      "en": "That was over 30 years ago.",
+      "de": "Das ist nun schon über 30 Jahre her.",
+      "alt": [
+        "Das ist schon über 30 Jahre her."
+      ],
+      "difficulty": "easy",
+      "focus": "über + accusative"
+    },
+    {
+      "en": "The ticket costs 45 euros.",
+      "de": "Die Eintrittskarte kostet 45 Euro.",
+      "alt": [
+        "Die Eintrittskarte kostet fünfundvierzig Euro."
+      ],
+      "difficulty": "easy",
+      "focus": "die Eintrittskarte"
+    },
+    {
+      "en": "Students get a discount.",
+      "de": "Studenten bekommen eine Ermäßigung.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "die Ermäßigung"
+    },
+    {
+      "en": "Entry is free.",
+      "de": "Der Eintritt ist frei.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "der Eintritt"
+    },
+    {
+      "en": "There are 300 concerts on 16 stages.",
+      "de": "Es gibt 300 Konzerte auf 16 Bühnen.",
+      "alt": [
+        "Es gibt dreihundert Konzerte auf sechzehn Bühnen."
+      ],
+      "difficulty": "easy",
+      "focus": "die Bühne"
+    },
+    {
+      "en": "I love historical festivals.",
+      "de": "Ich liebe historische Feste.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "historisch"
+    },
+    {
+      "en": "The costumes are beautiful.",
+      "de": "Die Kostüme sind schön.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "das Kostüm"
+    },
+    {
+      "en": "Would you like to come along? [informal]",
+      "de": "Möchtest du vielleicht mitkommen?",
+      "alt": [
+        "Möchtest du mitkommen?"
+      ],
+      "difficulty": "easy",
+      "focus": "making arrangements"
+    },
+    {
+      "en": "What do you think of that? [informal]",
+      "de": "Was hältst du davon?",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "making arrangements"
+    },
+    {
+      "en": "May I suggest something?",
+      "de": "Darf ich etwas vorschlagen?",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "vorschlagen"
+    },
+    {
+      "en": "How about a concert?",
+      "de": "Wie wäre es mit einem Konzert?",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "Wie wäre es mit ...?"
+    },
+    {
+      "en": "Yes, gladly.",
+      "de": "Aber gern.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "agreeing"
+    },
+    {
+      "en": "Okay, let's do that.",
+      "de": "Okay, das machen wir.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "agreeing"
+    },
+    {
+      "en": "That's not such a good idea.",
+      "de": "Das ist keine so gute Idee.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "turning down"
+    },
+    {
+      "en": "Very nice, but I'm afraid I can't.",
+      "de": "Sehr nett, aber da kann ich leider nicht.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "turning down"
+    },
+    {
+      "en": "I'd rather go to the cinema.",
+      "de": "Ich würde lieber ins Kino gehen.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "Ich würde lieber ..."
+    },
+    {
+      "en": "Do you have time on Saturday? [informal]",
+      "de": "Hast du am Samstag Zeit?",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "making arrangements"
+    },
+    {
+      "en": "Shall we arrange a meeting point?",
+      "de": "Wollen wir noch einen Treffpunkt ausmachen?",
+      "alt": [
+        "Wollen wir einen Treffpunkt ausmachen?"
+      ],
+      "difficulty": "easy",
+      "focus": "der Treffpunkt"
+    },
+    {
+      "en": "Then we'll meet at eight at the station.",
+      "de": "Dann treffen wir uns um acht am Bahnhof.",
+      "alt": [
+        "Ja gut, dann treffen wir uns um acht am Bahnhof."
+      ],
+      "difficulty": "easy",
+      "focus": "sich treffen (review)"
+    },
+    {
+      "en": "Today is the fifth of May.",
+      "de": "Heute ist der fünfte Mai.",
+      "alt": [
+        "Heute ist der 5. Mai."
+      ],
+      "difficulty": "easy",
+      "focus": "ordinal numbers"
+    },
+    {
+      "en": "The doctor is back from 9 April.",
+      "de": "Der Arzt ist ab dem neunten April wieder da.",
+      "alt": [
+        "Der Arzt ist ab dem 9. April wieder da."
+      ],
+      "difficulty": "easy",
+      "focus": "ab dem + ordinal"
+    },
+    {
+      "en": "The exhibition is very interesting.",
+      "de": "Die Ausstellung ist sehr interessant.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "die Ausstellung"
+    },
+    {
+      "en": "I find that very exciting.",
+      "de": "Das finde ich sehr spannend.",
+      "alt": [
+        "Ich finde das sehr spannend."
+      ],
+      "difficulty": "easy",
+      "focus": "spannend"
+    },
+    {
+      "en": "Have you already been there? [informal]",
+      "de": "Warst du schon dort?",
+      "alt": [
+        "Warst du schon mal dort?"
+      ],
+      "difficulty": "easy",
+      "focus": "war (review)"
+    },
+    {
+      "en": "I've been there three times.",
+      "de": "Ich bin schon dreimal dort gewesen.",
+      "alt": [
+        "Ich war schon dreimal dort."
+      ],
+      "difficulty": "easy",
+      "focus": "Perfekt (review)"
+    },
+    {
+      "en": "From 8 to 10 July I'm at the open air festival in Frauenfeld.",
+      "de": "Vom 8. bis zum 10. Juli bin ich auf dem Open Air in Frauenfeld.",
+      "alt": [
+        "Vom achten bis zum zehnten Juli bin ich auf dem Open Air in Frauenfeld."
+      ],
+      "difficulty": "medium",
+      "focus": "vom ... bis zum"
+    },
+    {
+      "en": "It's the biggest hip-hop festival in Europe.",
+      "de": "Das ist das größte Hip-Hop-Fest in Europa.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "describing events"
+    },
+    {
+      "en": "It has taken place every year in summer since 1985.",
+      "de": "Es findet seit 1985 jedes Jahr im Sommer statt.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "seit / stattfinden"
+    },
+    {
+      "en": "I've been there three times and experienced a lot of great concerts.",
+      "de": "Ich bin schon dreimal dort gewesen und habe viele tolle Konzerte erlebt.",
+      "alt": [
+        "Ich war schon dreimal dort und habe viele tolle Konzerte erlebt."
+      ],
+      "difficulty": "medium",
+      "focus": "erleben (Perfekt)"
+    },
+    {
+      "en": "Last year 150,000 people were there.",
+      "de": "Letztes Jahr waren 150.000 Leute da.",
+      "alt": [
+        "Letztes Jahr waren 150000 Leute da.",
+        "Letztes Jahr waren hundertfünfzigtausend Leute da."
+      ],
+      "difficulty": "medium",
+      "focus": "waren (review)"
+    },
+    {
+      "en": "Next week I'm going to Kiel.",
+      "de": "Nächste Woche fahre ich nach Kiel.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "time expressions"
+    },
+    {
+      "en": "From tomorrow the famous Kieler Woche takes place there.",
+      "de": "Von morgen an findet dort die berühmte Kieler Woche statt.",
+      "alt": [
+        "Ab morgen findet dort die berühmte Kieler Woche statt."
+      ],
+      "difficulty": "medium",
+      "focus": "von ... an / der + -e (review)"
+    },
+    {
+      "en": "It's one of the biggest sailing events in the world.",
+      "de": "Das ist eines der größten Segelsport-Events weltweit.",
+      "alt": [
+        "Das ist eines der größten Segelsportevents weltweit."
+      ],
+      "difficulty": "medium",
+      "focus": "describing events"
+    },
+    {
+      "en": "Besides sailing, music is also at the centre.",
+      "de": "Neben dem Segeln steht auch die Musik im Mittelpunkt.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "im Mittelpunkt stehen"
+    },
+    {
+      "en": "On the second-to-last day there's always the famous windjammer parade.",
+      "de": "Am vorletzten Tag ist immer die berühmte Windjammerparade.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "der + -en (review)"
+    },
+    {
+      "en": "More than a hundred big sailing ships are out on the sea.",
+      "de": "Da sind mehr als hundert große Segelschiffe auf dem Meer.",
+      "alt": [
+        "Mehr als hundert große Segelschiffe sind auf dem Meer."
+      ],
+      "difficulty": "medium",
+      "focus": "mehr als"
+    },
+    {
+      "en": "I've wanted to see that for years.",
+      "de": "Das möchte ich schon seit Jahren mal sehen.",
+      "alt": [
+        "Das möchte ich schon seit Jahren sehen."
+      ],
+      "difficulty": "medium",
+      "focus": "seit Jahren"
+    },
+    {
+      "en": "Ars Electronica is the most important festival for digital art.",
+      "de": "Die Ars Electronica ist das wichtigste Festival für digitale Kunst.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "die Kunst"
+    },
+    {
+      "en": "It has taken place in Linz every year since 1979.",
+      "de": "Sie findet seit 1979 jedes Jahr in Linz statt.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "seit / stattfinden"
+    },
+    {
+      "en": "This year it's from 31 August to 6 September.",
+      "de": "Dieses Jahr ist sie vom 31. August bis zum 6. September.",
+      "alt": [
+        "Dieses Jahr ist sie vom einunddreißigsten August bis zum sechsten September."
+      ],
+      "difficulty": "medium",
+      "focus": "vom ... bis zum"
+    },
+    {
+      "en": "There are many exhibitions, concerts, talks and discussion rounds.",
+      "de": "Es gibt viele Ausstellungen, Konzerte, Vorträge und Diskussionsrunden.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "event vocabulary"
+    },
+    {
+      "en": "I've been going there almost every year for ten years.",
+      "de": "Ich gehe seit zehn Jahren fast jedes Jahr hin.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "seit + dative plural"
+    },
+    {
+      "en": "The combination of science, technology and music fascinates me.",
+      "de": "Mich fasziniert die Verbindung von Wissenschaft, Technik und Musik.",
+      "alt": [
+        "Die Verbindung von Wissenschaft, Technik und Musik fasziniert mich."
+      ],
+      "difficulty": "medium",
+      "focus": "faszinieren"
+    },
+    {
+      "en": "Experts from all over the world discuss questions about the future.",
+      "de": "Experten aus der ganzen Welt diskutieren Zukunftsfragen.",
+      "alt": [
+        "Experten aus der ganzen Welt diskutieren über Zukunftsfragen."
+      ],
+      "difficulty": "medium",
+      "focus": "Zukunftsfragen"
+    },
+    {
+      "en": "The Landshut Wedding is especially beautiful.",
+      "de": "Besonders schön ist die Landshuter Hochzeit.",
+      "alt": [
+        "Die Landshuter Hochzeit ist besonders schön."
+      ],
+      "difficulty": "medium",
+      "focus": "describing events"
+    },
+    {
+      "en": "The wedding party lasted six days.",
+      "de": "Die Hochzeitsfeier hat sechs Tage lang gedauert.",
+      "alt": [
+        "Die Hochzeitsfeier hat sechs Tage gedauert."
+      ],
+      "difficulty": "medium",
+      "focus": "dauern (Perfekt)"
+    },
+    {
+      "en": "Every four years the people of Landshut re-enact it with 2000 performers.",
+      "de": "Alle vier Jahre spielen die Landshuter sie mit 2000 Darstellern nach.",
+      "alt": [
+        "Alle vier Jahre spielen die Landshuter sie mit zweitausend Darstellern nach."
+      ],
+      "difficulty": "medium",
+      "focus": "nachspielen"
+    },
+    {
+      "en": "I last saw it as a teenager.",
+      "de": "Zum letzten Mal habe ich sie als Jugendlicher gesehen.",
+      "alt": [
+        "Zum letzten Mal habe ich sie als Jugendliche gesehen."
+      ],
+      "difficulty": "medium",
+      "focus": "als Jugendlicher"
+    },
+    {
+      "en": "The festival has existed for over 30 years.",
+      "de": "Das Fest gibt es schon über 30 Jahre.",
+      "alt": [
+        "Es gibt das Fest schon über 30 Jahre."
+      ],
+      "difficulty": "medium",
+      "focus": "über + accusative"
+    },
+    {
+      "en": "Which event would interest you? [formal]",
+      "de": "Welche Veranstaltung würde Sie interessieren?",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "würde"
+    },
+    {
+      "en": "Do you want to come along to the concert? You did say that would interest you. [informal]",
+      "de": "Willst du zum Konzert mitkommen? Du hast doch gesagt, das würde dich interessieren.",
+      "alt": [
+        "Möchtest du zum Konzert mitkommen? Du hast doch gesagt, das würde dich interessieren."
+      ],
+      "difficulty": "medium",
+      "focus": "mitkommen"
+    },
+    {
+      "en": "Does Friday at eight work for you? [informal]",
+      "de": "Geht es bei dir am Freitag um acht?",
+      "alt": [
+        "Geht es bei dir Freitag um acht?"
+      ],
+      "difficulty": "medium",
+      "focus": "making arrangements"
+    },
+    {
+      "en": "Let's go to the theatre festival together.",
+      "de": "Lass uns doch zusammen zum Theaterfestival gehen.",
+      "alt": [
+        "Lass uns zusammen zum Theaterfestival gehen."
+      ],
+      "difficulty": "medium",
+      "focus": "Lass uns ..."
+    },
+    {
+      "en": "Well, I don't know. I don't find that so interesting.",
+      "de": "Also, ich weiß nicht. Das finde ich nicht so interessant.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "turning down"
+    },
+    {
+      "en": "That's not such a good idea. I'd rather go to a concert.",
+      "de": "Das ist keine so gute Idee. Ich würde lieber zu einem Konzert gehen.",
+      "alt": [
+        "Das ist keine so gute Idee. Ich würde lieber in ein Konzert gehen."
+      ],
+      "difficulty": "medium",
+      "focus": "Ich würde lieber ..."
+    },
+    {
+      "en": "Yes okay, that works too.",
+      "de": "Ja okay, das passt auch.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "agreeing"
+    },
+    {
+      "en": "Tim and Anja need two more tickets.",
+      "de": "Tim und Anja brauchen noch zwei Eintrittskarten.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "die Eintrittskarte"
+    },
+    {
+      "en": "As a student you only have to pay 45 euros.",
+      "de": "Als Student muss man nur 45 Euro zahlen.",
+      "alt": [
+        "Als Studentin muss man nur 45 Euro zahlen."
+      ],
+      "difficulty": "medium",
+      "focus": "zahlen"
+    },
+    {
+      "en": "Ludmilla and Britta can stay overnight at Laura's.",
+      "de": "Ludmilla und Britta können bei Laura übernachten.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "übernachten (review)"
+    },
+    {
+      "en": "We'll talk again later.",
+      "de": "Wir sprechen später noch einmal.",
+      "alt": [
+        "Wir sprechen später noch mal."
+      ],
+      "difficulty": "medium",
+      "focus": "making arrangements"
+    },
+    {
+      "en": "I'm on holiday from 9 to 18 May.",
+      "de": "Ich habe vom 9. bis zum 18. Mai Urlaub.",
+      "alt": [
+        "Ich habe vom neunten bis zum achtzehnten Mai Urlaub."
+      ],
+      "difficulty": "medium",
+      "focus": "vom ... bis zum"
+    },
+    {
+      "en": "I'm on holiday from Monday to Friday.",
+      "de": "Ich habe von Montag bis Freitag Urlaub.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "von ... bis"
+    },
+    {
+      "en": "I'm going on holiday from 18 to 22 May.",
+      "de": "Ich gehe vom achtzehnten bis zum zweiundzwanzigsten Mai in den Urlaub.",
+      "alt": [
+        "Ich gehe vom 18. bis zum 22. Mai in den Urlaub."
+      ],
+      "difficulty": "medium",
+      "focus": "ordinal numbers"
+    },
+    {
+      "en": "From 5 January I'll be in Berlin.",
+      "de": "Ab dem fünften Januar bin ich in Berlin.",
+      "alt": [
+        "Vom fünften Januar an bin ich in Berlin.",
+        "Ab dem 5. Januar bin ich in Berlin."
+      ],
+      "difficulty": "medium",
+      "focus": "ab dem + ordinal"
+    },
+    {
+      "en": "How long have you been in Vienna? – For over a year. [informal]",
+      "de": "Wie lange bist du schon in Wien? – Über ein Jahr.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "über + accusative"
+    },
+    {
+      "en": "From 8 to 10 July I'm at the biggest hip-hop festival in Europe, and I'm already looking forward to the concerts.",
+      "de": "Vom 8. bis zum 10. Juli bin ich auf dem größten Hip-Hop-Fest in Europa und ich freue mich schon auf die Konzerte.",
+      "alt": [
+        "Vom achten bis zum zehnten Juli bin ich auf dem größten Hip-Hop-Fest in Europa und ich freue mich schon auf die Konzerte."
+      ],
+      "difficulty": "hard",
+      "focus": "vom ... bis zum"
+    },
+    {
+      "en": "The event lasts ten days, and on the second-to-last day there's the famous parade.",
+      "de": "Die Veranstaltung dauert zehn Tage und am vorletzten Tag ist die berühmte Parade.",
+      "alt": [
+        "Die Veranstaltung dauert zehn Tage, und am vorletzten Tag ist die berühmte Windjammerparade."
+      ],
+      "difficulty": "hard",
+      "focus": "der + -en (review)"
+    },
+    {
+      "en": "I've been going to the festival almost every year for ten years, because the combination of science and art fascinates me.",
+      "de": "Ich gehe seit zehn Jahren fast jedes Jahr zum Festival, denn die Verbindung von Wissenschaft und Kunst fasziniert mich.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "seit / denn"
+    },
+    {
+      "en": "Would you like to come along to the medieval festival? You did say historical costumes interest you. [informal]",
+      "de": "Möchtest du vielleicht zum Mittelalterfest mitkommen? Du hast doch gesagt, historische Kostüme interessieren dich.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "making arrangements"
+    },
+    {
+      "en": "Very nice, but I can't on Saturday. How about Sunday afternoon?",
+      "de": "Sehr nett, aber am Samstag kann ich leider nicht. Wie wäre es mit Sonntagnachmittag?",
+      "alt": [
+        "Sehr nett, aber am Samstag kann ich leider nicht. Wie wäre es mit Sonntag Nachmittag?"
+      ],
+      "difficulty": "hard",
+      "focus": "turning down / suggesting"
+    },
+    {
+      "en": "Okay, let's do that. Shall we arrange a meeting point too? – Yes, then we'll meet at seven in front of the theatre.",
+      "de": "Okay, das machen wir. Wollen wir noch einen Treffpunkt ausmachen? – Ja gut, dann treffen wir uns um sieben vor dem Theater.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "agreeing / vor + dative (review)"
+    },
+    {
+      "en": "We've been living in Vienna for two years, and our children have been going to school here since September.",
+      "de": "Wir wohnen seit zwei Jahren in Wien und unsere Kinder gehen seit September hier in die Schule.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "seit / unsere (review)"
+    },
+    {
+      "en": "Our grandpa saw the Landshut Wedding as a teenager; that was over 30 years ago.",
+      "de": "Unser Opa hat die Landshuter Hochzeit als Jugendlicher gesehen, das ist über 30 Jahre her.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "über + accusative / unser (review)"
+    },
+    {
+      "en": "From tomorrow there's a discount for students, and the tickets then cost only 30 euros.",
+      "de": "Von morgen an gibt es eine Ermäßigung für Studenten und die Eintrittskarten kosten dann nur 30 Euro.",
+      "alt": [
+        "Ab morgen gibt es eine Ermäßigung für Studenten und die Eintrittskarten kosten dann nur 30 Euro."
+      ],
+      "difficulty": "hard",
+      "focus": "von ... an"
+    },
+    {
+      "en": "The exhibition in the small museum has been open since April, and I'd most like to go there on Sunday.",
+      "de": "Die Ausstellung im kleinen Museum ist seit April geöffnet und ich würde am liebsten am Sonntag hingehen.",
+      "alt": [
+        "Die Ausstellung im kleinen Museum ist seit April geöffnet und am liebsten würde ich am Sonntag hingehen."
+      ],
+      "difficulty": "hard",
+      "focus": "seit / würde am liebsten (review)"
+    },
+    {
+      "en": "I'd rather go to the concert than to the talk: I don't find the discussion round so interesting.",
+      "de": "Ich würde lieber zum Konzert gehen als zum Vortrag, die Diskussionsrunde finde ich nicht so interessant.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "Ich würde lieber ..."
+    },
+    {
+      "en": "Put the tickets on the table next to the brochure, then we won't forget them tomorrow. [informal]",
+      "de": "Leg die Eintrittskarten auf den Tisch neben den Prospekt, dann vergessen wir sie morgen nicht.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "Wohin? + accusative (review)"
+    },
+    {
+      "en": "The artists are on stage from eight, and the fire show starts at ten.",
+      "de": "Die Künstler sind ab acht Uhr auf der Bühne und die Feuershow beginnt um zehn.",
+      "alt": [
+        "Von acht Uhr an sind die Künstler auf der Bühne und die Feuershow beginnt um zehn."
+      ],
+      "difficulty": "hard",
+      "focus": "ab / auf der Bühne"
+    },
+    {
+      "en": "My aunt has been working at the theatre for over twenty years, and she knows all the performers.",
+      "de": "Meine Tante arbeitet seit über zwanzig Jahren am Theater und sie kennt alle Darsteller.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "seit über / family (review)"
+    },
+    {
+      "en": "We had a great evening at the festival: good music, colourful costumes and nice people.",
+      "de": "Wir hatten einen tollen Abend auf dem Festival: gute Musik, bunte Kostüme und nette Leute.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "hatten / adjective endings (review)"
+    },
+    {
+      "en": "From 1 January the museum is open every day, and entry is free for children.",
+      "de": "Ab dem ersten Januar ist das Museum jeden Tag geöffnet und der Eintritt ist für Kinder frei.",
+      "alt": [
+        "Vom ersten Januar an ist das Museum jeden Tag geöffnet und der Eintritt ist für Kinder frei.",
+        "Ab dem 1. Januar ist das Museum jeden Tag geöffnet und der Eintritt ist für Kinder frei."
+      ],
+      "difficulty": "hard",
+      "focus": "ab dem + ordinal"
+    },
+    {
+      "en": "What's your favourite event? – The carnival festival; I've been going there since I was a child. [informal]",
+      "de": "Was ist deine Lieblingsveranstaltung? – Das Karnevalsfest, ich gehe seit meiner Kindheit hin.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "seit + possessive (review)"
+    },
+    {
+      "en": "Would you like to come along? We'd like to book the tickets from tomorrow. [plural]",
+      "de": "Möchtet ihr vielleicht mitkommen? Wir würden die Eintrittskarten gern ab morgen buchen.",
+      "alt": [
+        "Möchtet ihr vielleicht mitkommen? Wir wollen die Eintrittskarten ab morgen buchen."
+      ],
+      "difficulty": "hard",
+      "focus": "mitkommen / ab"
+    },
+    {
+      "en": "The doctor is back at the practice from 9 April, and I still need an appointment before the holiday.",
+      "de": "Der Arzt ist ab dem neunten April wieder in der Praxis und vor dem Urlaub brauche ich noch einen Termin.",
+      "alt": [
+        "Der Arzt ist ab dem 9. April wieder in der Praxis und vor dem Urlaub brauche ich noch einen Termin."
+      ],
+      "difficulty": "hard",
+      "focus": "ab dem + ordinal / vor + dative (review)"
+    },
+    {
+      "en": "I've been to the festival three times, but I've wanted to see the parade for years.",
+      "de": "Ich war schon dreimal auf dem Festival, aber die Parade möchte ich schon seit Jahren sehen.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "war (review) / seit Jahren"
+    },
+    {
+      "en": "Well, I don't know: the talk lasts over two hours, and I'd rather go to the exhibition.",
+      "de": "Also, ich weiß nicht: Der Vortrag dauert über zwei Stunden und ich würde lieber in die Ausstellung gehen.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "über + accusative / turning down"
+    },
+    {
+      "en": "From 31 August to 6 September there are concerts, performances and exhibitions in the whole city.",
+      "de": "Vom 31. August bis zum 6. September gibt es Konzerte, Performances und Ausstellungen in der ganzen Stadt.",
+      "alt": [
+        "Vom einunddreißigsten August bis zum sechsten September gibt es Konzerte, Performances und Ausstellungen in der ganzen Stadt."
+      ],
+      "difficulty": "hard",
+      "focus": "vom ... bis zum"
+    },
+    {
+      "en": "Our neighbours have been going to the medieval festival for years, and they always wear original costumes.",
+      "de": "Unsere Nachbarn gehen seit Jahren zum Mittelalterfest und sie tragen immer Originalkostüme.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "seit Jahren / unsere (review)"
+    },
+    {
+      "en": "How long is the exhibition on? – From 3 May to 18 June, so over six weeks.",
+      "de": "Wie lange läuft die Ausstellung? – Vom 3. Mai bis zum 18. Juni, also über sechs Wochen.",
+      "alt": [
+        "Wie lange läuft die Ausstellung? – Vom dritten Mai bis zum achtzehnten Juni, also über sechs Wochen."
+      ],
+      "difficulty": "hard",
+      "focus": "vom ... bis zum / über"
+    },
+    {
+      "en": "Does Friday at seven work for you? – Yes okay, that works too; then we'll meet in front of the cinema next to the bank. [informal]",
+      "de": "Geht es bei dir am Freitag um sieben? – Ja okay, das passt auch, dann treffen wir uns vor dem Kino neben der Bank.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "making arrangements / dative prepositions (review)"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "the event",
+      "de": "die Veranstaltung",
+      "alt": [],
+      "focus": "events",
+      "note": ""
+    },
+    {
+      "en": "my favourite event",
+      "de": "meine Lieblingsveranstaltung",
+      "alt": [],
+      "focus": "events",
+      "note": ""
+    },
+    {
+      "en": "entry, admission",
+      "de": "der Eintritt",
+      "alt": [],
+      "focus": "events",
+      "note": ""
+    },
+    {
+      "en": "an entry ticket",
+      "de": "eine Eintrittskarte",
+      "alt": [],
+      "focus": "events",
+      "note": ""
+    },
+    {
+      "en": "a discount",
+      "de": "eine Ermäßigung",
+      "alt": [],
+      "focus": "events",
+      "note": ""
+    },
+    {
+      "en": "the artist",
+      "de": "der Künstler",
+      "alt": [
+        "die Künstlerin"
+      ],
+      "focus": "events",
+      "note": ""
+    },
+    {
+      "en": "the star",
+      "de": "der Star",
+      "alt": [],
+      "focus": "events",
+      "note": ""
+    },
+    {
+      "en": "on the stage",
+      "de": "auf der Bühne",
+      "alt": [],
+      "focus": "events",
+      "note": ""
+    },
+    {
+      "en": "digital art",
+      "de": "digitale Kunst",
+      "alt": [],
+      "focus": "events",
+      "note": ""
+    },
+    {
+      "en": "a talk",
+      "de": "ein Vortrag",
+      "alt": [],
+      "focus": "events",
+      "note": ""
+    },
+    {
+      "en": "a discussion round",
+      "de": "eine Diskussionsrunde",
+      "alt": [],
+      "focus": "events",
+      "note": ""
+    },
+    {
+      "en": "a costume",
+      "de": "ein Kostüm",
+      "alt": [],
+      "focus": "events",
+      "note": ""
+    },
+    {
+      "en": "a festival (party)",
+      "de": "ein Fest",
+      "alt": [],
+      "focus": "events",
+      "note": ""
+    },
+    {
+      "en": "a concert",
+      "de": "ein Konzert",
+      "alt": [],
+      "focus": "events",
+      "note": ""
+    },
+    {
+      "en": "an exhibition",
+      "de": "eine Ausstellung",
+      "alt": [],
+      "focus": "events",
+      "note": ""
+    },
+    {
+      "en": "a play",
+      "de": "ein Theaterstück",
+      "alt": [],
+      "focus": "events",
+      "note": ""
+    },
+    {
+      "en": "It takes place every year.",
+      "de": "Es findet jedes Jahr statt.",
+      "alt": [],
+      "focus": "stattfinden",
+      "note": ""
+    },
+    {
+      "en": "since 1985",
+      "de": "seit 1985",
+      "alt": [],
+      "focus": "seit",
+      "note": ""
+    },
+    {
+      "en": "from 8 to 10 July",
+      "de": "vom 8. bis zum 10. Juli",
+      "alt": [
+        "vom achten bis zum zehnten Juli"
+      ],
+      "focus": "vom ... bis zum",
+      "note": ""
+    },
+    {
+      "en": "from tomorrow",
+      "de": "von morgen an",
+      "alt": [
+        "ab morgen"
+      ],
+      "focus": "von ... an",
+      "note": ""
+    },
+    {
+      "en": "from 1 January",
+      "de": "vom 1. Januar an",
+      "alt": [
+        "ab dem 1. Januar",
+        "vom ersten Januar an",
+        "ab dem ersten Januar"
+      ],
+      "focus": "ab dem + ordinal",
+      "note": ""
+    },
+    {
+      "en": "for a month",
+      "de": "seit einem Monat",
+      "alt": [],
+      "focus": "seit + dative",
+      "note": ""
+    },
+    {
+      "en": "for two years",
+      "de": "seit zwei Jahren",
+      "alt": [],
+      "focus": "seit + dative plural",
+      "note": ""
+    },
+    {
+      "en": "over 30 years",
+      "de": "über 30 Jahre",
+      "alt": [
+        "über dreißig Jahre"
+      ],
+      "focus": "über + accusative",
+      "note": ""
+    },
+    {
+      "en": "more than a hundred ships",
+      "de": "mehr als hundert Schiffe",
+      "alt": [],
+      "focus": "mehr als",
+      "note": ""
+    },
+    {
+      "en": "How long?",
+      "de": "Wie lange?",
+      "alt": [],
+      "focus": "questions",
+      "note": ""
+    },
+    {
+      "en": "Since when?",
+      "de": "Seit wann?",
+      "alt": [],
+      "focus": "questions",
+      "note": ""
+    },
+    {
+      "en": "From when?",
+      "de": "Ab wann?",
+      "alt": [],
+      "focus": "questions",
+      "note": ""
+    },
+    {
+      "en": "Would you like to come along? [informal]",
+      "de": "Möchtest du vielleicht mitkommen?",
+      "alt": [
+        "Möchtest du mitkommen?"
+      ],
+      "focus": "arrangements",
+      "note": ""
+    },
+    {
+      "en": "What do you think of that? [informal]",
+      "de": "Was hältst du davon?",
+      "alt": [],
+      "focus": "arrangements",
+      "note": ""
+    },
+    {
+      "en": "Let's go to the concert.",
+      "de": "Lass uns doch zum Konzert gehen.",
+      "alt": [
+        "Lass uns zum Konzert gehen."
+      ],
+      "focus": "arrangements",
+      "note": ""
+    },
+    {
+      "en": "May I suggest something?",
+      "de": "Darf ich etwas vorschlagen?",
+      "alt": [],
+      "focus": "arrangements",
+      "note": ""
+    },
+    {
+      "en": "How about Saturday?",
+      "de": "Wie wäre es mit Samstag?",
+      "alt": [],
+      "focus": "arrangements",
+      "note": ""
+    },
+    {
+      "en": "Do you have time on Friday? [informal]",
+      "de": "Hast du am Freitag Zeit?",
+      "alt": [],
+      "focus": "arrangements",
+      "note": ""
+    },
+    {
+      "en": "Does Sunday work for you? [informal]",
+      "de": "Geht es bei dir am Sonntag?",
+      "alt": [],
+      "focus": "arrangements",
+      "note": ""
+    },
+    {
+      "en": "Shall we arrange a meeting point?",
+      "de": "Wollen wir noch einen Treffpunkt ausmachen?",
+      "alt": [],
+      "focus": "arrangements",
+      "note": ""
+    },
+    {
+      "en": "Then we'll meet at eight.",
+      "de": "Dann treffen wir uns um acht.",
+      "alt": [
+        "Ja gut, dann treffen wir uns um acht."
+      ],
+      "focus": "arrangements",
+      "note": ""
+    },
+    {
+      "en": "Very nice, but I'm afraid I can't.",
+      "de": "Sehr nett, aber da kann ich leider nicht.",
+      "alt": [],
+      "focus": "turning down",
+      "note": ""
+    },
+    {
+      "en": "That's not such a good idea.",
+      "de": "Das ist keine so gute Idee.",
+      "alt": [],
+      "focus": "turning down",
+      "note": ""
+    },
+    {
+      "en": "I'd rather go to the cinema.",
+      "de": "Ich würde lieber ins Kino gehen.",
+      "alt": [],
+      "focus": "turning down",
+      "note": ""
+    },
+    {
+      "en": "Well, I don't know.",
+      "de": "Also, ich weiß nicht.",
+      "alt": [],
+      "focus": "turning down",
+      "note": ""
+    },
+    {
+      "en": "I don't find that so interesting.",
+      "de": "Das finde ich nicht so interessant.",
+      "alt": [],
+      "focus": "turning down",
+      "note": ""
+    },
+    {
+      "en": "Yes, gladly.",
+      "de": "Aber gern.",
+      "alt": [],
+      "focus": "agreeing",
+      "note": ""
+    },
+    {
+      "en": "Okay, let's do that.",
+      "de": "Okay, das machen wir.",
+      "alt": [],
+      "focus": "agreeing",
+      "note": ""
+    },
+    {
+      "en": "Yes okay, that works too.",
+      "de": "Ja okay, das passt auch.",
+      "alt": [],
+      "focus": "agreeing",
+      "note": ""
+    },
+    {
+      "en": "to experience a concert",
+      "de": "ein Konzert erleben",
+      "alt": [],
+      "focus": "erleben",
+      "note": ""
+    },
+    {
+      "en": "Have you already been there? [informal]",
+      "de": "Warst du schon dort?",
+      "alt": [
+        "Warst du schon mal dort?"
+      ],
+      "focus": "war",
+      "note": ""
+    },
+    {
+      "en": "I find that very exciting.",
+      "de": "Das finde ich sehr spannend.",
+      "alt": [],
+      "focus": "spannend",
+      "note": ""
+    },
+    {
+      "en": "the fifth of May",
+      "de": "der fünfte Mai",
+      "alt": [
+        "der 5. Mai"
+      ],
+      "focus": "ordinal numbers",
+      "note": ""
+    },
+    {
+      "en": "on the fifth of May",
+      "de": "am fünften Mai",
+      "alt": [
+        "am 5. Mai"
+      ],
+      "focus": "ordinal numbers",
+      "note": ""
+    }
+  ],
+  "text": {
+    "title": "My favourite event",
+    "en": "My favourite event is the street festival in my neighbourhood. It has taken place every year in June since 1998.\n\nThe festival lasts three days, from Friday to Sunday. There are concerts on four stages, an exhibition with pictures of the old town and a parade with historical costumes. On the last day the artists do a fire show in the market square. That's really exciting.\n\nI've been going there almost every year for eight years. Last year I was there with my brother, and we had a great evening. Entry is free, and students get a discount for the concerts.\n\nThis year the festival is from 12 to 14 June. I'd most like to go on Saturday. Would you like to come along? Then we'll meet at seven in front of the town hall.",
+    "de": "Meine Lieblingsveranstaltung ist das Straßenfest in meinem Viertel. Es findet seit 1998 jedes Jahr im Juni statt.\n\nDas Fest dauert drei Tage, von Freitag bis Sonntag. Es gibt Konzerte auf vier Bühnen, eine Ausstellung mit Bildern von der Altstadt und einen Umzug mit historischen Kostümen. Am letzten Tag machen die Künstler eine Feuershow auf dem Marktplatz. Das ist wirklich spannend.\n\nIch gehe seit acht Jahren fast jedes Jahr hin. Letztes Jahr war ich mit meinem Bruder dort und wir hatten einen tollen Abend. Der Eintritt ist frei und Studenten bekommen eine Ermäßigung für die Konzerte.\n\nDieses Jahr ist das Fest vom 12. bis zum 14. Juni. Ich würde am liebsten am Samstag hingehen. Möchtest du vielleicht mitkommen? Dann treffen wir uns um sieben vor dem Rathaus."
+  }
+}

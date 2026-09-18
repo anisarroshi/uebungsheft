@@ -98,6 +98,17 @@
         "sentences": 100,
         "phrases": 50
       }
+    },
+    {
+      "id": "a2-1-s06",
+      "level": "A2.1",
+      "number": 6,
+      "title": "My favourite event",
+      "file": "sessions/a2-1-s06.json",
+      "counts": {
+        "sentences": 100,
+        "phrases": 50
+      }
     }
   ]
 }
