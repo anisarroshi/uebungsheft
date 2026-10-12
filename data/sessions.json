@@ -109,6 +109,17 @@
         "sentences": 100,
         "phrases": 50
       }
+    },
+    {
+      "id": "a2-2-s07",
+      "level": "A2.2",
+      "number": 7,
+      "title": "Getting around town",
+      "file": "sessions/a2-2-s07.json",
+      "counts": {
+        "sentences": 100,
+        "phrases": 50
+      }
     }
   ]
 }

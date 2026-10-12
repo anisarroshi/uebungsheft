@@ -1,0 +1,1455 @@
+{
+  "id": "a2-2-s07",
+  "level": "A2.2",
+  "number": 7,
+  "title": "Getting around town",
+  "createdAt": "2026-10-12",
+  "content": {
+    "topics": [
+      "transport and traffic",
+      "getting to work and commuting",
+      "asking for information politely",
+      "giving your opinion",
+      "describing the way",
+      "train stories"
+    ],
+    "vocabulary": [
+      {
+        "de": "das Verkehrsmittel, -",
+        "en": "means of transport"
+      },
+      {
+        "de": "der Verkehr",
+        "en": "traffic"
+      },
+      {
+        "de": "der Stau, -s / im Stau stehen",
+        "en": "traffic jam / to be stuck in a traffic jam"
+      },
+      {
+        "de": "die Baustelle, -n",
+        "en": "roadworks, building site"
+      },
+      {
+        "de": "die Panne, -n",
+        "en": "breakdown"
+      },
+      {
+        "de": "der Reifen, -",
+        "en": "tyre"
+      },
+      {
+        "de": "der Motor, -en",
+        "en": "engine"
+      },
+      {
+        "de": "der Parkplatz, -¨e / das Parkhaus, -¨er",
+        "en": "parking space / multi-storey car park"
+      },
+      {
+        "de": "parken / bremsen",
+        "en": "to park / to brake"
+      },
+      {
+        "de": "die Fahrkarte, -n / das Ticket, -s",
+        "en": "ticket"
+      },
+      {
+        "de": "die Monatskarte, -n",
+        "en": "monthly ticket"
+      },
+      {
+        "de": "der Fahrkartenschalter, -",
+        "en": "ticket counter"
+      },
+      {
+        "de": "die Haltestelle, -n / die Bushaltestelle, -n",
+        "en": "stop / bus stop"
+      },
+      {
+        "de": "einsteigen / aussteigen / umsteigen",
+        "en": "to get on / to get off / to change (trains)"
+      },
+      {
+        "de": "der Anschluss, -¨e / den Anschluss verpassen",
+        "en": "connection / to miss the connection"
+      },
+      {
+        "de": "die Verspätung, -en / Verspätung haben",
+        "en": "delay / to be delayed"
+      },
+      {
+        "de": "pünktlich / unpünktlich",
+        "en": "on time / not on time"
+      },
+      {
+        "de": "zu spät kommen",
+        "en": "to be late"
+      },
+      {
+        "de": "pendeln / der Pendler, -",
+        "en": "to commute / commuter"
+      },
+      {
+        "de": "die Fahrzeit, -en / der Zeitdruck",
+        "en": "travel time / time pressure"
+      },
+      {
+        "de": "das Gleis, -e",
+        "en": "platform, track"
+      },
+      {
+        "de": "abfahren / ankommen / weiterfahren",
+        "en": "to depart / to arrive / to carry on"
+      },
+      {
+        "de": "die Tankstelle, -n / tanken / das Benzin / der Diesel",
+        "en": "petrol station / to fill up / petrol / diesel"
+      },
+      {
+        "de": "der Führerschein, -e / die Führerscheinprüfung, -en",
+        "en": "driving licence / driving test"
+      },
+      {
+        "de": "die Versicherung, -en / das Kennzeichen, -",
+        "en": "insurance / number plate"
+      },
+      {
+        "de": "der Flughafen, -¨ / abfliegen / landen / einen Flug buchen",
+        "en": "airport / to take off / to land / to book a flight"
+      },
+      {
+        "de": "das Leihrad, -¨er / das Leihauto, -s",
+        "en": "rental bike / rental car"
+      },
+      {
+        "de": "die App herunterladen / die PIN eingeben / das Rad zurückgeben",
+        "en": "to download the app / to enter the PIN / to return the bike"
+      },
+      {
+        "de": "der E-Scooter, - / das E-Bike, -s",
+        "en": "e-scooter / e-bike"
+      },
+      {
+        "de": "die Seilbahn, -en / die Straßenbahn, -en",
+        "en": "cable car / tram"
+      },
+      {
+        "de": "der Radweg, -e / der Radfahrer, -",
+        "en": "cycle path / cyclist"
+      },
+      {
+        "de": "umweltfreundlich",
+        "en": "environmentally friendly"
+      },
+      {
+        "de": "die Innenstadt, -¨e / die Großstadt, -¨e",
+        "en": "city centre / big city"
+      },
+      {
+        "de": "die Lösung, -en / der Vorschlag, -¨e",
+        "en": "solution / suggestion"
+      },
+      {
+        "de": "genervt / der Stress",
+        "en": "annoyed / stress"
+      },
+      {
+        "de": "erreichen / entscheiden",
+        "en": "to reach / to decide"
+      },
+      {
+        "de": "gratis / kostenlos",
+        "en": "free (of charge)"
+      },
+      {
+        "de": "heute / morgen / gestern / jetzt / bald",
+        "en": "adverbs of time: today / tomorrow / yesterday / now / soon"
+      },
+      {
+        "de": "hier / dort / überall / draußen / drinnen",
+        "en": "adverbs of place: here / there / everywhere / outside / inside"
+      },
+      {
+        "de": "gut / schlecht / schnell / langsam / gern",
+        "en": "adverbs of manner: well / badly / quickly / slowly / gladly"
+      },
+      {
+        "de": "sehr / zu / ganz / fast / völlig",
+        "en": "adverbs of degree: very / too / quite / almost / completely"
+      }
+    ],
+    "grammar": [
+      {
+        "name": "Indirect questions with a question word",
+        "explanation": "A W-question inside another sentence keeps its question word, but the verb goes to the end. 'Warum fährt der Zug nicht weiter?' becomes 'Der Mann fragt, warum der Zug nicht weiterfährt.'",
+        "examples": [
+          "Der Mann fragt, warum der Zug nicht weiterfährt.",
+          "Könnten Sie mir sagen, wo der Bahnhof ist?",
+          "Die Frau weiß nicht, wohin sie den Koffer stellen kann."
+        ]
+      },
+      {
+        "name": "Indirect yes/no questions with ob",
+        "explanation": "A question with no question word needs ob, and again the verb goes to the end. Watch the person: 'Kann ich ...?' becomes 'ob er ... kann'.",
+        "examples": [
+          "Simon fragt, ob man für den E-Scooter einen Führerschein braucht.",
+          "Ahmad möchte wissen, ob er den Kundenservice telefonisch erreichen kann."
+        ]
+      },
+      {
+        "name": "Polite questions",
+        "explanation": "An indirect question also makes a direct question politer. The whole question goes after the comma, with the verb at the end.",
+        "examples": [
+          "Könnten Sie mir sagen, wie viel eine Fahrkarte kostet?",
+          "Entschuldigung, wissen Sie, wann der Zug ankommt?",
+          "Darf ich Sie fragen, ob hier ein Bus hält?"
+        ]
+      },
+      {
+        "name": "Prepositions for describing the way",
+        "explanation": "an ... vorbei + dative (past something), durch + accusative (through), bis zu + dative (as far as), gegenüber von + dative (opposite).",
+        "examples": [
+          "Sie geht am Kaufhaus vorbei.",
+          "Dann geht sie durch den Park.",
+          "Geh bis zum Kaufhaus und dann links.",
+          "Das Haus ist gegenüber vom Park."
+        ]
+      },
+      {
+        "name": "Saying your opinion",
+        "explanation": "General: Ich bin der Meinung, dass ... / Ich finde, dass ... For: Ich bin für ... / dafür, weil ... Against: Ich bin gegen ... / dagegen, weil ... In a dass- or weil-sentence the verb goes to the end.",
+        "examples": [
+          "Ich bin der Meinung, dass Busse billiger sein sollen.",
+          "Ich bin dafür, weil es umweltfreundlich ist.",
+          "Für mich ist das nicht sinnvoll."
+        ]
+      },
+      {
+        "name": "Adverbs",
+        "explanation": "Time (heute, morgen, gestern, jetzt, bald), place (hier, dort, überall, draußen, drinnen), manner (gut, schlecht, schnell, langsam, gern) and degree (sehr, zu, ganz, fast, völlig). They never take an ending.",
+        "examples": [
+          "Der Bus ist fast immer voll.",
+          "Hier gibt es überall Stau.",
+          "Fahr bitte langsamer!"
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "de": "Könnten Sie mir sagen, ...? / Kannst du mir sagen, ...?",
+        "en": "Could you tell me ...?"
+      },
+      {
+        "de": "Entschuldigung, wissen Sie, ...? / Weißt du, ...?",
+        "en": "Excuse me, do you know ...?"
+      },
+      {
+        "de": "Darf ich Sie fragen, ...?",
+        "en": "May I ask you ...?"
+      },
+      {
+        "de": "Ich möchte gern wissen, ... / Mich interessiert, ...",
+        "en": "I'd like to know ... / I'm interested in ..."
+      },
+      {
+        "de": "Ich bin der Meinung, dass ... / Ich finde, dass ...",
+        "en": "I'm of the opinion that ... / I think that ..."
+      },
+      {
+        "de": "Ich bin dafür / dagegen, weil ...",
+        "en": "I'm for it / against it, because ..."
+      },
+      {
+        "de": "Für mich ist das praktisch / nicht sinnvoll.",
+        "en": "For me that's practical / doesn't make sense."
+      },
+      {
+        "de": "Die meisten / Nur wenige ... | Mehr als 50 Prozent ...",
+        "en": "Most / Only a few ... | More than 50 per cent ..."
+      }
+    ]
+  },
+  "sentences": [
+    {
+      "en": "The train is ten minutes late.",
+      "de": "Der Zug hat zehn Minuten Verspätung.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "Verspätung haben"
+    },
+    {
+      "en": "I'm stuck in a traffic jam.",
+      "de": "Ich stehe im Stau.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "im Stau stehen"
+    },
+    {
+      "en": "Where can I buy a ticket?",
+      "de": "Wo kann ich eine Fahrkarte kaufen?",
+      "alt": [
+        "Wo kann ich ein Ticket kaufen?"
+      ],
+      "difficulty": "easy",
+      "focus": "die Fahrkarte"
+    },
+    {
+      "en": "Could you tell me where the station is? [formal]",
+      "de": "Könnten Sie mir sagen, wo der Bahnhof ist?",
+      "alt": [
+        "Können Sie mir sagen, wo der Bahnhof ist?"
+      ],
+      "difficulty": "easy",
+      "focus": "polite indirect question"
+    },
+    {
+      "en": "Do you know if the bus is coming? [formal]",
+      "de": "Wissen Sie, ob der Bus kommt?",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "ob"
+    },
+    {
+      "en": "I'd like to know when the train leaves.",
+      "de": "Ich möchte gern wissen, wann der Zug abfährt.",
+      "alt": [
+        "Ich möchte wissen, wann der Zug abfährt."
+      ],
+      "difficulty": "easy",
+      "focus": "indirect question"
+    },
+    {
+      "en": "Walk past the bakery. [formal]",
+      "de": "Gehen Sie an der Bäckerei vorbei.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "an ... vorbei"
+    },
+    {
+      "en": "Then go through the park. [informal]",
+      "de": "Dann geh durch den Park.",
+      "alt": [
+        "Dann gehst du durch den Park."
+      ],
+      "difficulty": "easy",
+      "focus": "durch + accusative"
+    },
+    {
+      "en": "Go as far as the traffic lights. [informal]",
+      "de": "Geh bis zur Ampel.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "bis zu"
+    },
+    {
+      "en": "The café is opposite the station.",
+      "de": "Das Café ist gegenüber vom Bahnhof.",
+      "alt": [
+        "Das Café ist gegenüber von dem Bahnhof."
+      ],
+      "difficulty": "easy",
+      "focus": "gegenüber von"
+    },
+    {
+      "en": "I cycle to work.",
+      "de": "Ich fahre mit dem Fahrrad zur Arbeit.",
+      "alt": [
+        "Ich fahre mit dem Rad zur Arbeit."
+      ],
+      "difficulty": "easy",
+      "focus": "Verkehrsmittel"
+    },
+    {
+      "en": "I missed the bus.",
+      "de": "Ich habe den Bus verpasst.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "verpassen"
+    },
+    {
+      "en": "I've had a breakdown.",
+      "de": "Ich habe eine Panne.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "die Panne"
+    },
+    {
+      "en": "The tyre is flat.",
+      "de": "Der Reifen ist kaputt.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "der Reifen"
+    },
+    {
+      "en": "I can't find a parking space.",
+      "de": "Ich finde keinen Parkplatz.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "der Parkplatz"
+    },
+    {
+      "en": "I have to change in Vienna.",
+      "de": "Ich muss in Wien umsteigen.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "umsteigen"
+    },
+    {
+      "en": "The train leaves from platform five.",
+      "de": "Der Zug fährt auf Gleis 5 ab.",
+      "alt": [
+        "Der Zug fährt auf Gleis fünf ab."
+      ],
+      "difficulty": "easy",
+      "focus": "das Gleis"
+    },
+    {
+      "en": "I'm in favour of the cycle path.",
+      "de": "Ich bin für den Radweg.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "für + accusative"
+    },
+    {
+      "en": "I'm against it.",
+      "de": "Ich bin dagegen.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "dagegen sein"
+    },
+    {
+      "en": "I think that's a good idea.",
+      "de": "Ich finde das eine gute Idee.",
+      "alt": [
+        "Ich finde, das ist eine gute Idee."
+      ],
+      "difficulty": "easy",
+      "focus": "giving an opinion"
+    },
+    {
+      "en": "I find e-scooters practical.",
+      "de": "Ich finde E-Scooter praktisch.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "giving an opinion"
+    },
+    {
+      "en": "The air in the city is bad.",
+      "de": "Die Luft in der Stadt ist schlecht.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "der Verkehr"
+    },
+    {
+      "en": "I'm often late.",
+      "de": "Ich komme oft zu spät.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "zu spät kommen"
+    },
+    {
+      "en": "The journey takes two hours.",
+      "de": "Die Fahrt dauert zwei Stunden.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "die Fahrt"
+    },
+    {
+      "en": "There are roadworks on the road.",
+      "de": "Auf der Straße ist eine Baustelle.",
+      "alt": [
+        "Es gibt eine Baustelle auf der Straße."
+      ],
+      "difficulty": "easy",
+      "focus": "die Baustelle"
+    },
+    {
+      "en": "I'm downloading the app.",
+      "de": "Ich lade die App herunter.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "herunterladen"
+    },
+    {
+      "en": "Then you enter the PIN. [informal]",
+      "de": "Dann gibst du die PIN ein.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "eingeben"
+    },
+    {
+      "en": "I return the bike at a station.",
+      "de": "Ich gebe das Rad an einer Station zurück.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "zurückgeben"
+    },
+    {
+      "en": "Do you know where the stop is? [informal]",
+      "de": "Weißt du, wo die Haltestelle ist?",
+      "alt": [
+        "Weißt du, wo die Bushaltestelle ist?"
+      ],
+      "difficulty": "easy",
+      "focus": "indirect question"
+    },
+    {
+      "en": "May I ask you something? [formal]",
+      "de": "Darf ich Sie etwas fragen?",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "polite questions"
+    },
+    {
+      "en": "He asks why the train isn't carrying on.",
+      "de": "Er fragt, warum der Zug nicht weiterfährt.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "W-question, verb last"
+    },
+    {
+      "en": "She wants to know whether the app is free.",
+      "de": "Sie möchte wissen, ob die App gratis ist.",
+      "alt": [
+        "Sie möchte wissen, ob die App kostenlos ist."
+      ],
+      "difficulty": "easy",
+      "focus": "ob"
+    },
+    {
+      "en": "Please drive more slowly! [informal]",
+      "de": "Fahr bitte langsamer!",
+      "alt": [
+        "Bitte fahr langsamer!"
+      ],
+      "difficulty": "easy",
+      "focus": "adverb: langsam"
+    },
+    {
+      "en": "The bus is almost always full.",
+      "de": "Der Bus ist fast immer voll.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "adverb: fast"
+    },
+    {
+      "en": "There are traffic jams everywhere here.",
+      "de": "Hier gibt es überall Stau.",
+      "alt": [
+        "Hier ist überall Stau."
+      ],
+      "difficulty": "easy",
+      "focus": "adverb: überall"
+    },
+    {
+      "en": "Excuse me, could you tell me where I can buy a ticket? [formal]",
+      "de": "Entschuldigung, könnten Sie mir sagen, wo ich eine Fahrkarte kaufen kann?",
+      "alt": [
+        "Entschuldigen Sie, könnten Sie mir sagen, wo ich eine Fahrkarte kaufen kann?"
+      ],
+      "difficulty": "medium",
+      "focus": "polite indirect question"
+    },
+    {
+      "en": "Do you know when the next train to Cologne leaves? [formal]",
+      "de": "Wissen Sie, wann der nächste Zug nach Köln fährt?",
+      "alt": [
+        "Wissen Sie, wann der nächste Zug nach Köln abfährt?"
+      ],
+      "difficulty": "medium",
+      "focus": "indirect question"
+    },
+    {
+      "en": "May I ask you how long the journey takes? [formal]",
+      "de": "Darf ich Sie fragen, wie lange die Fahrt dauert?",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "indirect question"
+    },
+    {
+      "en": "I'd like to know how much a monthly ticket costs.",
+      "de": "Ich möchte gern wissen, wie viel eine Monatskarte kostet.",
+      "alt": [
+        "Ich möchte wissen, wie viel eine Monatskarte kostet."
+      ],
+      "difficulty": "medium",
+      "focus": "indirect question"
+    },
+    {
+      "en": "I'm interested in whether the ticket is also valid on the bus.",
+      "de": "Mich interessiert, ob die Fahrkarte auch im Bus gilt.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "ob"
+    },
+    {
+      "en": "Can you tell me whether I have to change? [informal]",
+      "de": "Kannst du mir sagen, ob ich umsteigen muss?",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "ob + modal verb"
+    },
+    {
+      "en": "Do you know whether you need a driving licence for an e-scooter? [informal]",
+      "de": "Weißt du, ob man für einen E-Scooter einen Führerschein braucht?",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "ob"
+    },
+    {
+      "en": "Sorry I'm late, the train had a delay.",
+      "de": "Entschuldigung, ich komme zu spät, der Zug hatte Verspätung.",
+      "alt": [
+        "Tut mir leid, ich komme zu spät, der Zug hatte Verspätung."
+      ],
+      "difficulty": "medium",
+      "focus": "apologising"
+    },
+    {
+      "en": "Walk past the supermarket and then turn right. [formal]",
+      "de": "Gehen Sie am Supermarkt vorbei und dann nach rechts.",
+      "alt": [
+        "Gehen Sie am Supermarkt vorbei und biegen Sie dann rechts ab."
+      ],
+      "difficulty": "medium",
+      "focus": "an ... vorbei"
+    },
+    {
+      "en": "Go through the park as far as the church. [informal]",
+      "de": "Geh durch den Park bis zur Kirche.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "durch / bis zu"
+    },
+    {
+      "en": "My flat is opposite the pharmacy.",
+      "de": "Meine Wohnung ist gegenüber von der Apotheke.",
+      "alt": [
+        "Meine Wohnung liegt gegenüber von der Apotheke."
+      ],
+      "difficulty": "medium",
+      "focus": "gegenüber von"
+    },
+    {
+      "en": "The bus stop is opposite the school.",
+      "de": "Die Bushaltestelle ist gegenüber von der Schule.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "gegenüber von"
+    },
+    {
+      "en": "Drive as far as the crossroads and then left. [formal]",
+      "de": "Fahren Sie bis zur Kreuzung und dann nach links.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "bis zu"
+    },
+    {
+      "en": "I commute every day and need an hour.",
+      "de": "Ich pendle jeden Tag und brauche eine Stunde.",
+      "alt": [
+        "Ich pendele jeden Tag und brauche eine Stunde."
+      ],
+      "difficulty": "medium",
+      "focus": "pendeln"
+    },
+    {
+      "en": "In winter the trains are often not on time.",
+      "de": "Im Winter sind die Züge oft nicht pünktlich.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "pünktlich"
+    },
+    {
+      "en": "I missed my connection in Frankfurt.",
+      "de": "Ich habe in Frankfurt meinen Anschluss verpasst.",
+      "alt": [
+        "In Frankfurt habe ich meinen Anschluss verpasst."
+      ],
+      "difficulty": "medium",
+      "focus": "den Anschluss verpassen"
+    },
+    {
+      "en": "I take the bike, because it's faster.",
+      "de": "Ich nehme das Fahrrad, denn es ist schneller.",
+      "alt": [
+        "Ich nehme das Rad, denn es ist schneller.",
+        "Ich nehme das Fahrrad, weil es schneller ist."
+      ],
+      "difficulty": "medium",
+      "focus": "giving reasons"
+    },
+    {
+      "en": "I find the car practical, but parking is expensive.",
+      "de": "Ich finde das Auto praktisch, aber Parken ist teuer.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "giving an opinion"
+    },
+    {
+      "en": "I'm in favour of more cycle paths, because the air gets better.",
+      "de": "Ich bin für mehr Radwege, denn die Luft wird besser.",
+      "alt": [
+        "Ich bin für mehr Radwege, weil die Luft besser wird."
+      ],
+      "difficulty": "medium",
+      "focus": "dafür sein"
+    },
+    {
+      "en": "I'm against it, because not everybody can cycle.",
+      "de": "Ich bin dagegen, denn nicht jeder kann Fahrrad fahren.",
+      "alt": [
+        "Ich bin dagegen, weil nicht jeder Fahrrad fahren kann."
+      ],
+      "difficulty": "medium",
+      "focus": "dagegen sein"
+    },
+    {
+      "en": "For me the underground isn't practical.",
+      "de": "Für mich ist die U-Bahn nicht praktisch.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "Für mich ist ..."
+    },
+    {
+      "en": "I'm of the opinion that buses should be free.",
+      "de": "Ich bin der Meinung, dass Busse gratis sein sollen.",
+      "alt": [
+        "Ich bin der Meinung, dass Busse kostenlos sein sollen.",
+        "Ich bin der Meinung, dass Busse gratis sein sollten."
+      ],
+      "difficulty": "medium",
+      "focus": "Ich bin der Meinung, dass ..."
+    },
+    {
+      "en": "I think that the city centre needs fewer cars.",
+      "de": "Ich finde, dass die Innenstadt weniger Autos braucht.",
+      "alt": [
+        "Ich meine, dass die Innenstadt weniger Autos braucht."
+      ],
+      "difficulty": "medium",
+      "focus": "Ich finde, dass ..."
+    },
+    {
+      "en": "Do you know whether there's a car park nearby? [formal]",
+      "de": "Wissen Sie, ob es hier in der Nähe ein Parkhaus gibt?",
+      "alt": [
+        "Wissen Sie, ob es in der Nähe ein Parkhaus gibt?"
+      ],
+      "difficulty": "medium",
+      "focus": "ob + es gibt"
+    },
+    {
+      "en": "Could you tell me how I get to the airport? [formal]",
+      "de": "Könnten Sie mir sagen, wie ich zum Flughafen komme?",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "indirect question"
+    },
+    {
+      "en": "I have to fill up, the tank is almost empty.",
+      "de": "Ich muss tanken, der Tank ist fast leer.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "tanken"
+    },
+    {
+      "en": "The petrol station is behind the bridge.",
+      "de": "Die Tankstelle ist hinter der Brücke.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "hinter + dative (review)"
+    },
+    {
+      "en": "First I take the bus, then I change to the tram.",
+      "de": "Zuerst nehme ich den Bus, dann steige ich in die Straßenbahn um.",
+      "alt": [
+        "Zuerst nehme ich den Bus und dann steige ich in die Straßenbahn um."
+      ],
+      "difficulty": "medium",
+      "focus": "zuerst / dann (review)"
+    },
+    {
+      "en": "The flight was cheap, but the airport is far away.",
+      "de": "Der Flug war billig, aber der Flughafen ist weit weg.",
+      "alt": [
+        "Der Flug war günstig, aber der Flughafen ist weit weg."
+      ],
+      "difficulty": "medium",
+      "focus": "der Flug"
+    },
+    {
+      "en": "Can you pick me up from the station? [informal]",
+      "de": "Kannst du mich vom Bahnhof abholen?",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "abholen"
+    },
+    {
+      "en": "I'd rather go by train than by car.",
+      "de": "Ich fahre lieber mit dem Zug als mit dem Auto.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "lieber (review)"
+    },
+    {
+      "en": "Excuse me, where do I have to get off? [formal]",
+      "de": "Entschuldigung, wo muss ich aussteigen?",
+      "alt": [
+        "Entschuldigen Sie, wo muss ich aussteigen?"
+      ],
+      "difficulty": "medium",
+      "focus": "aussteigen"
+    },
+    {
+      "en": "I'm annoyed, because the bus is late again.",
+      "de": "Ich bin genervt, denn der Bus hat schon wieder Verspätung.",
+      "alt": [
+        "Ich bin genervt, weil der Bus schon wieder Verspätung hat."
+      ],
+      "difficulty": "medium",
+      "focus": "genervt"
+    },
+    {
+      "en": "Do you know how the app works? [informal]",
+      "de": "Weißt du, wie die App funktioniert?",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "indirect question"
+    },
+    {
+      "en": "You select a bike and get a PIN. [informal]",
+      "de": "Du wählst ein Rad aus und bekommst eine PIN.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "auswählen"
+    },
+    {
+      "en": "The rental bikes are at almost all the stops.",
+      "de": "Die Leihräder stehen an fast allen Haltestellen.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "das Leihrad"
+    },
+    {
+      "en": "In our city you get from A to B quickly.",
+      "de": "In unserer Stadt kommt man schnell von A nach B.",
+      "alt": [
+        "Man kommt in unserer Stadt schnell von A nach B."
+      ],
+      "difficulty": "medium",
+      "focus": "von A nach B"
+    },
+    {
+      "en": "More than fifty per cent cycle to the office.",
+      "de": "Mehr als 50 Prozent fahren mit dem Fahrrad ins Büro.",
+      "alt": [
+        "Mehr als fünfzig Prozent fahren mit dem Fahrrad ins Büro."
+      ],
+      "difficulty": "medium",
+      "focus": "describing a graph"
+    },
+    {
+      "en": "Only a few people need more than an hour.",
+      "de": "Nur wenige Leute brauchen mehr als eine Stunde.",
+      "alt": [
+        "Nur wenige Menschen brauchen mehr als eine Stunde."
+      ],
+      "difficulty": "medium",
+      "focus": "describing a graph"
+    },
+    {
+      "en": "Most people drive to work.",
+      "de": "Die meisten Leute fahren mit dem Auto zur Arbeit.",
+      "alt": [
+        "Die meisten Menschen fahren mit dem Auto zur Arbeit."
+      ],
+      "difficulty": "medium",
+      "focus": "describing a graph"
+    },
+    {
+      "en": "Excuse me, could you tell me where I can buy a ticket for the underground? [formal]",
+      "de": "Entschuldigung, könnten Sie mir sagen, wo ich eine Fahrkarte für die U-Bahn kaufen kann?",
+      "alt": [
+        "Entschuldigen Sie, könnten Sie mir sagen, wo ich eine Fahrkarte für die U-Bahn kaufen kann?"
+      ],
+      "difficulty": "hard",
+      "focus": "polite indirect question"
+    },
+    {
+      "en": "I'd like to know whether the ticket is also valid for the bus and the tram.",
+      "de": "Ich möchte gern wissen, ob die Fahrkarte auch für den Bus und die Straßenbahn gilt.",
+      "alt": [
+        "Ich möchte wissen, ob die Fahrkarte auch für den Bus und die Straßenbahn gilt."
+      ],
+      "difficulty": "hard",
+      "focus": "ob"
+    },
+    {
+      "en": "Sorry, I'll be half an hour late, because my train has a delay. [informal]",
+      "de": "Tut mir leid, ich komme eine halbe Stunde zu spät, denn mein Zug hat Verspätung.",
+      "alt": [
+        "Entschuldigung, ich komme eine halbe Stunde zu spät, denn mein Zug hat Verspätung.",
+        "Tut mir leid, ich komme eine halbe Stunde zu spät, weil mein Zug Verspätung hat."
+      ],
+      "difficulty": "hard",
+      "focus": "zu spät kommen (review)"
+    },
+    {
+      "en": "Go straight on, walk past the church and then through the park. [informal]",
+      "de": "Geh geradeaus, geh an der Kirche vorbei und dann durch den Park.",
+      "alt": [
+        "Geh geradeaus, dann an der Kirche vorbei und dann durch den Park."
+      ],
+      "difficulty": "hard",
+      "focus": "describing the way"
+    },
+    {
+      "en": "Our office is opposite the department store, next to the bakery.",
+      "de": "Unser Büro ist gegenüber vom Kaufhaus, neben der Bäckerei.",
+      "alt": [
+        "Unser Büro ist gegenüber von dem Kaufhaus, neben der Bäckerei."
+      ],
+      "difficulty": "hard",
+      "focus": "gegenüber von / neben (review)"
+    },
+    {
+      "en": "Drive as far as the traffic lights, then turn left and you'll see the car park. [formal]",
+      "de": "Fahren Sie bis zur Ampel, dann biegen Sie links ab und Sie sehen das Parkhaus.",
+      "alt": [
+        "Fahren Sie bis zur Ampel, dann nach links, und Sie sehen das Parkhaus."
+      ],
+      "difficulty": "hard",
+      "focus": "bis zu / directions (review)"
+    },
+    {
+      "en": "He asks the woman at the counter when the next train to Vienna leaves.",
+      "de": "Er fragt die Frau am Schalter, wann der nächste Zug nach Wien abfährt.",
+      "alt": [
+        "Er fragt die Frau am Fahrkartenschalter, wann der nächste Zug nach Wien abfährt."
+      ],
+      "difficulty": "hard",
+      "focus": "indirect question"
+    },
+    {
+      "en": "She wants to know whether she can still get a seat reservation.",
+      "de": "Sie möchte wissen, ob sie noch eine Platzreservierung bekommen kann.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "ob + modal verb"
+    },
+    {
+      "en": "I'm of the opinion that buses and trains should be cheaper, because then fewer people drive.",
+      "de": "Ich bin der Meinung, dass Busse und Bahnen billiger sein sollen, denn dann fahren weniger Leute mit dem Auto.",
+      "alt": [
+        "Ich bin der Meinung, dass Busse und Bahnen billiger sein sollten, denn dann fahren weniger Leute mit dem Auto."
+      ],
+      "difficulty": "hard",
+      "focus": "Ich bin der Meinung, dass ..."
+    },
+    {
+      "en": "I think e-bikes are a great idea, but for me they are too expensive.",
+      "de": "Ich finde E-Bikes eine tolle Idee, aber für mich sind sie zu teuer.",
+      "alt": [
+        "Ich finde, E-Bikes sind eine tolle Idee, aber für mich sind sie zu teuer."
+      ],
+      "difficulty": "hard",
+      "focus": "giving an opinion"
+    },
+    {
+      "en": "My colleague commutes 100 kilometres every day and needs almost two hours.",
+      "de": "Mein Kollege pendelt jeden Tag 100 Kilometer und braucht fast zwei Stunden.",
+      "alt": [
+        "Meine Kollegin pendelt jeden Tag 100 Kilometer und braucht fast zwei Stunden."
+      ],
+      "difficulty": "hard",
+      "focus": "pendeln"
+    },
+    {
+      "en": "In winter the trains often have a delay and I always get up earlier.",
+      "de": "Im Winter haben die Züge oft Verspätung und ich stehe immer früher auf.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "Verspätung haben"
+    },
+    {
+      "en": "Can you tell me how long I have to wait for the next bus? [informal]",
+      "de": "Kannst du mir sagen, wie lange ich auf den nächsten Bus warten muss?",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "indirect question"
+    },
+    {
+      "en": "First you download the app, then you select a bike and enter the PIN. [informal]",
+      "de": "Zuerst lädst du die App herunter, dann wählst du ein Rad aus und gibst die PIN ein.",
+      "alt": [
+        "Zuerst lädst du die App herunter, danach wählst du ein Rad aus und gibst die PIN ein."
+      ],
+      "difficulty": "hard",
+      "focus": "zuerst / dann (review)"
+    },
+    {
+      "en": "I had a breakdown on the motorway and waited for an hour.",
+      "de": "Ich hatte eine Panne auf der Autobahn und habe eine Stunde gewartet.",
+      "alt": [
+        "Auf der Autobahn hatte ich eine Panne und habe eine Stunde gewartet."
+      ],
+      "difficulty": "hard",
+      "focus": "hatte (review) / die Panne"
+    },
+    {
+      "en": "Our neighbours have no car and go everywhere by bike.",
+      "de": "Unsere Nachbarn haben kein Auto und fahren überall mit dem Fahrrad hin.",
+      "alt": [
+        "Unsere Nachbarn haben kein Auto und fahren überall mit dem Rad hin."
+      ],
+      "difficulty": "hard",
+      "focus": "unser (review) / überall"
+    },
+    {
+      "en": "Excuse me, do you know whether this bus goes to the main station? [formal]",
+      "de": "Entschuldigen Sie, wissen Sie, ob dieser Bus zum Hauptbahnhof fährt?",
+      "alt": [
+        "Entschuldigung, wissen Sie, ob dieser Bus zum Hauptbahnhof fährt?"
+      ],
+      "difficulty": "hard",
+      "focus": "ob"
+    },
+    {
+      "en": "I'd rather live in the countryside, but then I need a car every day.",
+      "de": "Ich wohne lieber auf dem Land, aber dann brauche ich jeden Tag ein Auto.",
+      "alt": [
+        "Ich lebe lieber auf dem Land, aber dann brauche ich jeden Tag ein Auto."
+      ],
+      "difficulty": "hard",
+      "focus": "auf dem Land (review)"
+    },
+    {
+      "en": "The new flat is opposite a small park and the stop is just around the corner.",
+      "de": "Die neue Wohnung ist gegenüber von einem kleinen Park und die Haltestelle ist gleich um die Ecke.",
+      "alt": [
+        "Die neue Wohnung liegt gegenüber von einem kleinen Park und die Haltestelle ist gleich um die Ecke."
+      ],
+      "difficulty": "hard",
+      "focus": "adjective endings (review)"
+    },
+    {
+      "en": "On the train I can read or work, and I think that's good.",
+      "de": "Im Zug kann ich lesen oder arbeiten und das finde ich gut.",
+      "alt": [
+        "Im Zug kann ich lesen oder arbeiten, und das finde ich gut."
+      ],
+      "difficulty": "hard",
+      "focus": "giving an opinion"
+    },
+    {
+      "en": "Could you tell me whether the museum is open today? [formal]",
+      "de": "Könnten Sie mir sagen, ob das Museum heute geöffnet ist?",
+      "alt": [
+        "Können Sie mir sagen, ob das Museum heute geöffnet ist?"
+      ],
+      "difficulty": "hard",
+      "focus": "ob / geöffnet (review)"
+    },
+    {
+      "en": "My daughter asks every morning why we always stand in a traffic jam.",
+      "de": "Meine Tochter fragt jeden Morgen, warum wir immer im Stau stehen.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "indirect question"
+    },
+    {
+      "en": "In Copenhagen there are wide cycle paths and special traffic lights for cyclists.",
+      "de": "In Kopenhagen gibt es breite Radwege und besondere Ampeln für Radfahrer.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "der Radweg"
+    },
+    {
+      "en": "Perhaps cars won't be allowed into the city centre in future.",
+      "de": "Vielleicht dürfen Autos in Zukunft nicht mehr in die Innenstadt fahren.",
+      "alt": [
+        "Vielleicht dürfen Autos in Zukunft nicht mehr in die Innenstadt."
+      ],
+      "difficulty": "hard",
+      "focus": "die Innenstadt"
+    },
+    {
+      "en": "I want to know when the shops close and where I can park.",
+      "de": "Ich möchte wissen, wann die Geschäfte schließen und wo ich parken kann.",
+      "alt": [
+        "Ich will wissen, wann die Geschäfte schließen und wo ich parken kann."
+      ],
+      "difficulty": "hard",
+      "focus": "two indirect questions"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "Excuse me, could you tell me ...? [formal]",
+      "de": "Entschuldigung, könnten Sie mir sagen, ...?",
+      "alt": [
+        "Entschuldigen Sie, könnten Sie mir sagen, ...?"
+      ],
+      "focus": "polite questions",
+      "note": ""
+    },
+    {
+      "en": "Can you tell me ...? [informal]",
+      "de": "Kannst du mir sagen, ...?",
+      "alt": [],
+      "focus": "polite questions",
+      "note": ""
+    },
+    {
+      "en": "Do you know ...? [formal]",
+      "de": "Wissen Sie, ...?",
+      "alt": [],
+      "focus": "polite questions",
+      "note": ""
+    },
+    {
+      "en": "Do you know ...? [informal]",
+      "de": "Weißt du, ...?",
+      "alt": [],
+      "focus": "polite questions",
+      "note": ""
+    },
+    {
+      "en": "May I ask you ...? [formal]",
+      "de": "Darf ich Sie fragen, ...?",
+      "alt": [],
+      "focus": "polite questions",
+      "note": ""
+    },
+    {
+      "en": "I'd like to know ...",
+      "de": "Ich möchte gern wissen, ...",
+      "alt": [
+        "Ich möchte wissen, ..."
+      ],
+      "focus": "polite questions",
+      "note": ""
+    },
+    {
+      "en": "I'm interested in ...",
+      "de": "Mich interessiert, ...",
+      "alt": [],
+      "focus": "polite questions",
+      "note": ""
+    },
+    {
+      "en": "... where the station is",
+      "de": "... wo der Bahnhof ist",
+      "alt": [],
+      "focus": "indirect question",
+      "note": ""
+    },
+    {
+      "en": "... when the train leaves",
+      "de": "... wann der Zug abfährt",
+      "alt": [],
+      "focus": "indirect question",
+      "note": ""
+    },
+    {
+      "en": "... how long the journey takes",
+      "de": "... wie lange die Fahrt dauert",
+      "alt": [],
+      "focus": "indirect question",
+      "note": ""
+    },
+    {
+      "en": "... how much a ticket costs",
+      "de": "... wie viel eine Fahrkarte kostet",
+      "alt": [],
+      "focus": "indirect question",
+      "note": ""
+    },
+    {
+      "en": "... how I get to the airport",
+      "de": "... wie ich zum Flughafen komme",
+      "alt": [],
+      "focus": "indirect question",
+      "note": ""
+    },
+    {
+      "en": "... whether I have to change",
+      "de": "... ob ich umsteigen muss",
+      "alt": [],
+      "focus": "ob",
+      "note": ""
+    },
+    {
+      "en": "... whether the app is free",
+      "de": "... ob die App gratis ist",
+      "alt": [
+        "... ob die App kostenlos ist"
+      ],
+      "focus": "ob",
+      "note": ""
+    },
+    {
+      "en": "... where I can park",
+      "de": "... wo ich parken kann",
+      "alt": [],
+      "focus": "indirect question",
+      "note": ""
+    },
+    {
+      "en": "past the department store",
+      "de": "am Kaufhaus vorbei",
+      "alt": [],
+      "focus": "an ... vorbei",
+      "note": ""
+    },
+    {
+      "en": "past the bakery",
+      "de": "an der Bäckerei vorbei",
+      "alt": [],
+      "focus": "an ... vorbei",
+      "note": ""
+    },
+    {
+      "en": "through the park",
+      "de": "durch den Park",
+      "alt": [],
+      "focus": "durch + accusative",
+      "note": ""
+    },
+    {
+      "en": "as far as the traffic lights",
+      "de": "bis zur Ampel",
+      "alt": [],
+      "focus": "bis zu",
+      "note": ""
+    },
+    {
+      "en": "as far as the department store",
+      "de": "bis zum Kaufhaus",
+      "alt": [],
+      "focus": "bis zu",
+      "note": ""
+    },
+    {
+      "en": "opposite the park",
+      "de": "gegenüber vom Park",
+      "alt": [
+        "gegenüber von dem Park"
+      ],
+      "focus": "gegenüber von",
+      "note": ""
+    },
+    {
+      "en": "opposite the school",
+      "de": "gegenüber von der Schule",
+      "alt": [],
+      "focus": "gegenüber von",
+      "note": ""
+    },
+    {
+      "en": "a monthly ticket",
+      "de": "eine Monatskarte",
+      "alt": [],
+      "focus": "tickets",
+      "note": ""
+    },
+    {
+      "en": "at the ticket counter",
+      "de": "am Fahrkartenschalter",
+      "alt": [],
+      "focus": "at the station",
+      "note": ""
+    },
+    {
+      "en": "the next stop",
+      "de": "die nächste Haltestelle",
+      "alt": [],
+      "focus": "at the station",
+      "note": ""
+    },
+    {
+      "en": "on platform 5",
+      "de": "auf Gleis 5",
+      "alt": [
+        "auf Gleis fünf"
+      ],
+      "focus": "at the station",
+      "note": ""
+    },
+    {
+      "en": "to get on and get off",
+      "de": "einsteigen und aussteigen",
+      "alt": [],
+      "focus": "travelling",
+      "note": ""
+    },
+    {
+      "en": "to change trains",
+      "de": "umsteigen",
+      "alt": [],
+      "focus": "travelling",
+      "note": ""
+    },
+    {
+      "en": "to miss the connection",
+      "de": "den Anschluss verpassen",
+      "alt": [],
+      "focus": "travelling",
+      "note": ""
+    },
+    {
+      "en": "The train is delayed.",
+      "de": "Der Zug hat Verspätung.",
+      "alt": [],
+      "focus": "travelling",
+      "note": ""
+    },
+    {
+      "en": "to be stuck in a traffic jam",
+      "de": "im Stau stehen",
+      "alt": [],
+      "focus": "traffic",
+      "note": ""
+    },
+    {
+      "en": "to be late",
+      "de": "zu spät kommen",
+      "alt": [],
+      "focus": "traffic",
+      "note": ""
+    },
+    {
+      "en": "to have a breakdown",
+      "de": "eine Panne haben",
+      "alt": [],
+      "focus": "the car",
+      "note": ""
+    },
+    {
+      "en": "to look for a parking space",
+      "de": "einen Parkplatz suchen",
+      "alt": [],
+      "focus": "the car",
+      "note": ""
+    },
+    {
+      "en": "to fill up",
+      "de": "tanken",
+      "alt": [],
+      "focus": "the car",
+      "note": ""
+    },
+    {
+      "en": "the driving licence",
+      "de": "der Führerschein",
+      "alt": [],
+      "focus": "the car",
+      "note": ""
+    },
+    {
+      "en": "the insurance",
+      "de": "die Versicherung",
+      "alt": [],
+      "focus": "the car",
+      "note": ""
+    },
+    {
+      "en": "to book a flight",
+      "de": "einen Flug buchen",
+      "alt": [],
+      "focus": "flying",
+      "note": ""
+    },
+    {
+      "en": "to take off and land",
+      "de": "abfliegen und landen",
+      "alt": [],
+      "focus": "flying",
+      "note": ""
+    },
+    {
+      "en": "to download the app",
+      "de": "die App herunterladen",
+      "alt": [],
+      "focus": "rental bikes",
+      "note": ""
+    },
+    {
+      "en": "to enter the PIN",
+      "de": "die PIN eingeben",
+      "alt": [],
+      "focus": "rental bikes",
+      "note": ""
+    },
+    {
+      "en": "to return the bike",
+      "de": "das Rad zurückgeben",
+      "alt": [],
+      "focus": "rental bikes",
+      "note": ""
+    },
+    {
+      "en": "I'm in favour of it.",
+      "de": "Ich bin dafür.",
+      "alt": [],
+      "focus": "opinions",
+      "note": ""
+    },
+    {
+      "en": "I'm against it.",
+      "de": "Ich bin dagegen.",
+      "alt": [],
+      "focus": "opinions",
+      "note": ""
+    },
+    {
+      "en": "I'm of the opinion that ...",
+      "de": "Ich bin der Meinung, dass ...",
+      "alt": [],
+      "focus": "opinions",
+      "note": ""
+    },
+    {
+      "en": "I think ... is good, because ...",
+      "de": "Ich finde ... gut, weil ...",
+      "alt": [],
+      "focus": "opinions",
+      "note": ""
+    },
+    {
+      "en": "For me that's practical.",
+      "de": "Für mich ist das praktisch.",
+      "alt": [],
+      "focus": "opinions",
+      "note": ""
+    },
+    {
+      "en": "For me that doesn't make sense.",
+      "de": "Für mich ist das nicht sinnvoll.",
+      "alt": [],
+      "focus": "opinions",
+      "note": ""
+    },
+    {
+      "en": "Most people ...",
+      "de": "Die meisten ...",
+      "alt": [],
+      "focus": "describing a graph",
+      "note": ""
+    },
+    {
+      "en": "Only a few ...",
+      "de": "Nur wenige ...",
+      "alt": [],
+      "focus": "describing a graph",
+      "note": ""
+    }
+  ],
+  "text": {
+    "title": "Sorry, I'm late!",
+    "en": "Hi Lara,\n\nthanks for the invitation! I'd like to know when I should come. Is six o'clock okay?\n\nAnd one more question: can you tell me how I get to your flat? I come by train and I'm at the main station at 17:40. I'd also like to know whether the bus is faster or whether I can walk.\n\nBy the way, today everything went wrong. First my bus had a delay, then I missed my connection and in the end I stood in a traffic jam for twenty minutes. I was really annoyed!\n\nFor me the car isn't practical in the city, and I'm of the opinion that buses and trains should be cheaper. My colleague cycles to the office every day. I think that's a good idea, but I live too far away.\n\nSee you tomorrow!\nNina",
+    "de": "Hallo Lara,\n\ndanke für die Einladung! Ich möchte gern wissen, wann ich kommen soll. Ist sechs Uhr okay?\n\nUnd noch eine Frage: Kannst du mir sagen, wie ich zu deiner Wohnung komme? Ich komme mit dem Zug und bin um 17.40 Uhr am Hauptbahnhof. Ich möchte auch wissen, ob der Bus schneller ist oder ob ich zu Fuß gehen kann.\n\nÜbrigens, heute ist alles schiefgegangen. Zuerst hatte mein Bus Verspätung, dann habe ich meinen Anschluss verpasst und zum Schluss habe ich zwanzig Minuten im Stau gestanden. Ich war wirklich genervt!\n\nFür mich ist das Auto in der Stadt nicht praktisch und ich bin der Meinung, dass Busse und Bahnen billiger sein sollen. Meine Kollegin fährt jeden Tag mit dem Fahrrad ins Büro. Ich finde das eine gute Idee, aber ich wohne zu weit weg.\n\nBis morgen!\nNina"
+  }
+}
