@@ -435,13 +435,6 @@
       "focus": "giving an opinion"
     },
     {
-      "en": "The air in the city is bad.",
-      "de": "Die Luft in der Stadt ist schlecht.",
-      "alt": [],
-      "difficulty": "easy",
-      "focus": "der Verkehr"
-    },
-    {
       "en": "I'm often late.",
       "de": "Ich komme oft zu spät.",
       "alt": [],
@@ -463,27 +456,6 @@
       ],
       "difficulty": "easy",
       "focus": "die Baustelle"
-    },
-    {
-      "en": "I'm downloading the app.",
-      "de": "Ich lade die App herunter.",
-      "alt": [],
-      "difficulty": "easy",
-      "focus": "herunterladen"
-    },
-    {
-      "en": "Then you enter the PIN. [informal]",
-      "de": "Dann gibst du die PIN ein.",
-      "alt": [],
-      "difficulty": "easy",
-      "focus": "eingeben"
-    },
-    {
-      "en": "I return the bike at a station.",
-      "de": "Ich gebe das Rad an einer Station zurück.",
-      "alt": [],
-      "difficulty": "easy",
-      "focus": "zurückgeben"
     },
     {
       "en": "Do you know where the stop is? [informal]",
@@ -541,6 +513,42 @@
       ],
       "difficulty": "easy",
       "focus": "adverb: überall"
+    },
+    {
+      "en": "The bike is standing by the door.",
+      "de": "Das Fahrrad steht an der Tür.",
+      "alt": [
+        "Das Rad steht an der Tür."
+      ],
+      "difficulty": "easy",
+      "focus": "Wo? + dative (drill)"
+    },
+    {
+      "en": "Put the bike by the door. [informal]",
+      "de": "Stell das Fahrrad an die Tür.",
+      "alt": [
+        "Stell das Rad an die Tür."
+      ],
+      "difficulty": "easy",
+      "focus": "Wohin? + accusative (drill)"
+    },
+    {
+      "en": "My bag is lying on the seat.",
+      "de": "Meine Tasche liegt auf dem Sitzplatz.",
+      "alt": [
+        "Meine Tasche liegt auf dem Sitz."
+      ],
+      "difficulty": "easy",
+      "focus": "Wo? + dative (drill)"
+    },
+    {
+      "en": "Put your bag on the seat. [informal]",
+      "de": "Leg deine Tasche auf den Sitzplatz.",
+      "alt": [
+        "Leg deine Tasche auf den Sitz."
+      ],
+      "difficulty": "easy",
+      "focus": "Wohin? + accusative (drill)"
     },
     {
       "en": "Excuse me, could you tell me where I can buy a ticket? [formal]",
@@ -628,13 +636,6 @@
       "alt": [
         "Meine Wohnung liegt gegenüber von der Apotheke."
       ],
-      "difficulty": "medium",
-      "focus": "gegenüber von"
-    },
-    {
-      "en": "The bus stop is opposite the school.",
-      "de": "Die Bushaltestelle ist gegenüber von der Schule.",
-      "alt": [],
       "difficulty": "medium",
       "focus": "gegenüber von"
     },
@@ -748,20 +749,6 @@
       "focus": "indirect question"
     },
     {
-      "en": "I have to fill up, the tank is almost empty.",
-      "de": "Ich muss tanken, der Tank ist fast leer.",
-      "alt": [],
-      "difficulty": "medium",
-      "focus": "tanken"
-    },
-    {
-      "en": "The petrol station is behind the bridge.",
-      "de": "Die Tankstelle ist hinter der Brücke.",
-      "alt": [],
-      "difficulty": "medium",
-      "focus": "hinter + dative (review)"
-    },
-    {
       "en": "First I take the bus, then I change to the tram.",
       "de": "Zuerst nehme ich den Bus, dann steige ich in die Straßenbahn um.",
       "alt": [
@@ -769,15 +756,6 @@
       ],
       "difficulty": "medium",
       "focus": "zuerst / dann (review)"
-    },
-    {
-      "en": "The flight was cheap, but the airport is far away.",
-      "de": "Der Flug war billig, aber der Flughafen ist weit weg.",
-      "alt": [
-        "Der Flug war günstig, aber der Flughafen ist weit weg."
-      ],
-      "difficulty": "medium",
-      "focus": "der Flug"
     },
     {
       "en": "Can you pick me up from the station? [informal]",
@@ -819,29 +797,6 @@
       "focus": "indirect question"
     },
     {
-      "en": "You select a bike and get a PIN. [informal]",
-      "de": "Du wählst ein Rad aus und bekommst eine PIN.",
-      "alt": [],
-      "difficulty": "medium",
-      "focus": "auswählen"
-    },
-    {
-      "en": "The rental bikes are at almost all the stops.",
-      "de": "Die Leihräder stehen an fast allen Haltestellen.",
-      "alt": [],
-      "difficulty": "medium",
-      "focus": "das Leihrad"
-    },
-    {
-      "en": "In our city you get from A to B quickly.",
-      "de": "In unserer Stadt kommt man schnell von A nach B.",
-      "alt": [
-        "Man kommt in unserer Stadt schnell von A nach B."
-      ],
-      "difficulty": "medium",
-      "focus": "von A nach B"
-    },
-    {
       "en": "More than fifty per cent cycle to the office.",
       "de": "Mehr als 50 Prozent fahren mit dem Fahrrad ins Büro.",
       "alt": [
@@ -867,6 +822,69 @@
       ],
       "difficulty": "medium",
       "focus": "describing a graph"
+    },
+    {
+      "en": "The pushchair is in front of the door, please put it next to the window. [informal]",
+      "de": "Der Kinderwagen steht vor der Tür, bitte stell ihn neben das Fenster.",
+      "alt": [
+        "Der Kinderwagen steht vor der Tür. Bitte stell ihn neben das Fenster."
+      ],
+      "difficulty": "medium",
+      "focus": "Wo? and Wohin? (drill)"
+    },
+    {
+      "en": "I'm putting my suitcase under the seat, because it's in the way.",
+      "de": "Ich stelle meinen Koffer unter den Sitz, denn er steht im Weg.",
+      "alt": [
+        "Ich stelle meinen Koffer unter den Sitz, weil er im Weg steht."
+      ],
+      "difficulty": "medium",
+      "focus": "Wohin? + accusative (drill)"
+    },
+    {
+      "en": "Where did you put my ticket? – It's lying in your jacket. [informal]",
+      "de": "Wohin hast du meine Fahrkarte gelegt? – Sie liegt in deiner Jacke.",
+      "alt": [
+        "Wo hast du meine Fahrkarte hingelegt? – Sie liegt in deiner Jacke."
+      ],
+      "difficulty": "medium",
+      "focus": "legen / liegen (drill)"
+    },
+    {
+      "en": "I stood for the whole journey.",
+      "de": "Ich habe die ganze Fahrt gestanden.",
+      "alt": [
+        "Ich bin die ganze Fahrt gestanden."
+      ],
+      "difficulty": "medium",
+      "focus": "participle: gestanden (drill)"
+    },
+    {
+      "en": "We sat at a table and drank coffee.",
+      "de": "Wir haben an einem Tisch gesessen und Kaffee getrunken.",
+      "alt": [
+        "Wir sind an einem Tisch gesessen und haben Kaffee getrunken."
+      ],
+      "difficulty": "medium",
+      "focus": "participle: gesessen (drill)"
+    },
+    {
+      "en": "She got on at the main station and got off in Linz.",
+      "de": "Sie ist am Hauptbahnhof eingestiegen und in Linz ausgestiegen.",
+      "alt": [
+        "Am Hauptbahnhof ist sie eingestiegen und in Linz ausgestiegen."
+      ],
+      "difficulty": "medium",
+      "focus": "sein in the Perfekt (drill)"
+    },
+    {
+      "en": "We talked for two hours and the time passed quickly.",
+      "de": "Wir haben zwei Stunden gesprochen und die Zeit ist schnell vergangen.",
+      "alt": [
+        "Wir haben zwei Stunden geredet und die Zeit ist schnell vergangen."
+      ],
+      "difficulty": "medium",
+      "focus": "participles + sein/haben (drill)"
     },
     {
       "en": "Excuse me, could you tell me where I can buy a ticket for the underground? [formal]",
@@ -967,13 +985,6 @@
       "focus": "pendeln"
     },
     {
-      "en": "In winter the trains often have a delay and I always get up earlier.",
-      "de": "Im Winter haben die Züge oft Verspätung und ich stehe immer früher auf.",
-      "alt": [],
-      "difficulty": "hard",
-      "focus": "Verspätung haben"
-    },
-    {
       "en": "Can you tell me how long I have to wait for the next bus? [informal]",
       "de": "Kannst du mir sagen, wie lange ich auf den nächsten Bus warten muss?",
       "alt": [],
@@ -1035,15 +1046,6 @@
       "focus": "adjective endings (review)"
     },
     {
-      "en": "On the train I can read or work, and I think that's good.",
-      "de": "Im Zug kann ich lesen oder arbeiten und das finde ich gut.",
-      "alt": [
-        "Im Zug kann ich lesen oder arbeiten, und das finde ich gut."
-      ],
-      "difficulty": "hard",
-      "focus": "giving an opinion"
-    },
-    {
       "en": "Could you tell me whether the museum is open today? [formal]",
       "de": "Könnten Sie mir sagen, ob das Museum heute geöffnet ist?",
       "alt": [
@@ -1060,22 +1062,6 @@
       "focus": "indirect question"
     },
     {
-      "en": "In Copenhagen there are wide cycle paths and special traffic lights for cyclists.",
-      "de": "In Kopenhagen gibt es breite Radwege und besondere Ampeln für Radfahrer.",
-      "alt": [],
-      "difficulty": "hard",
-      "focus": "der Radweg"
-    },
-    {
-      "en": "Perhaps cars won't be allowed into the city centre in future.",
-      "de": "Vielleicht dürfen Autos in Zukunft nicht mehr in die Innenstadt fahren.",
-      "alt": [
-        "Vielleicht dürfen Autos in Zukunft nicht mehr in die Innenstadt."
-      ],
-      "difficulty": "hard",
-      "focus": "die Innenstadt"
-    },
-    {
       "en": "I want to know when the shops close and where I can park.",
       "de": "Ich möchte wissen, wann die Geschäfte schließen und wo ich parken kann.",
       "alt": [
@@ -1083,6 +1069,43 @@
       ],
       "difficulty": "hard",
       "focus": "two indirect questions"
+    },
+    {
+      "en": "The dog jumped onto the seat and now it's lying on my bag.",
+      "de": "Der Hund ist auf den Sitzplatz gesprungen und jetzt liegt er auf meiner Tasche.",
+      "alt": [
+        "Der Hund ist auf den Sitz gesprungen und jetzt liegt er auf meiner Tasche."
+      ],
+      "difficulty": "hard",
+      "focus": "Wohin? then Wo? (drill)"
+    },
+    {
+      "en": "Where should I put my suitcase? – You can put it under the seat. [informal]",
+      "de": "Wohin soll ich meinen Koffer stellen? – Du kannst ihn unter den Sitz stellen.",
+      "alt": [
+        "Wo soll ich meinen Koffer hinstellen? – Du kannst ihn unter den Sitz stellen."
+      ],
+      "difficulty": "hard",
+      "focus": "indirect question + Wohin? (drill)"
+    },
+    {
+      "en": "I got on, didn't find a seat and stood for an hour.",
+      "de": "Ich bin eingestiegen, habe keinen Sitzplatz gefunden und eine Stunde gestanden.",
+      "alt": [
+        "Ich bin eingestiegen, habe keinen Sitzplatz gefunden und bin eine Stunde gestanden.",
+        "Ich bin eingestiegen, habe keinen Sitzplatz gefunden und habe eine Stunde gestanden."
+      ],
+      "difficulty": "hard",
+      "focus": "sein/haben + participles (drill)"
+    },
+    {
+      "en": "The man got on with his bike, an old lady stood up and made room.",
+      "de": "Der Mann ist mit seinem Fahrrad eingestiegen, eine alte Frau ist aufgestanden und hat Platz gemacht.",
+      "alt": [
+        "Der Mann ist mit seinem Fahrrad eingestiegen. Eine alte Frau ist aufgestanden und hat Platz gemacht."
+      ],
+      "difficulty": "hard",
+      "focus": "sein/haben + participles (drill)"
     }
   ],
   "phrases": [
