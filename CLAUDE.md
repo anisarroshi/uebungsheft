@@ -71,6 +71,28 @@ A2.1 session 3 → `a2-1-s03`, file `data/sessions/a2-1-s03.json`.
 }
 ```
 
+## Practice sets (not a course lesson)
+
+A drill set built from the learner's own mistakes is a **practice set**, not a lesson. It uses `"level": "Extra"`, its own `number`, and `"kind": "practice"`, which tells the checker to skip the 100/50 shape and the text. Everything else is the same.
+
+A practice set may leave out `phrases` (use `[]`) and `text`. The app only shows a tab for a section that exists.
+
+## The verbs section (optional)
+
+Any session may add a `verbs` array. The app shows it as a **Verbs** tab with its own progress count. Items have `en`, `de`, `alt` and `focus`, and **no** `difficulty`.
+
+Give each verb three items in a row — *ich*, *du*, and the Perfekt — and name the auxiliary in the focus label:
+
+```json
+"verbs": [
+  { "en": "I get on at the main station.", "de": "Ich steige am Hauptbahnhof ein.", "alt": [], "focus": "einsteigen · ich" },
+  { "en": "Do you get on here? [informal]", "de": "Steigst du hier ein?", "alt": [], "focus": "einsteigen · du" },
+  { "en": "I got on at the main station.", "de": "Ich bin am Hauptbahnhof eingestiegen.", "alt": [], "focus": "einsteigen · Perfekt (sein)" }
+]
+```
+
+For *stehen*, *sitzen* and *liegen* put the Austrian *sein* form in `alt` (`Ich bin in der S-Bahn gestanden.`), because the learner is in Vienna and both are correct there.
+
 `data/sessions.json` (rebuilt by `npm run check`; sorted by level, then number):
 
 ```json

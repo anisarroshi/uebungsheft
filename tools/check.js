@@ -6,7 +6,8 @@ import { fileURLToPath } from "node:url";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const DIR = path.join(ROOT, "data", "sessions");
-const LEVELS = ["A1.1", "A1.2", "A2.1", "A2.2", "B1.1", "B1.2", "B2.1", "B2.2", "C1.1", "C1.2"];
+// "Extra" is for practice sets that don't belong to a course lesson.
+const LEVELS = ["A1.1", "A1.2", "A2.1", "A2.2", "B1.1", "B1.2", "B2.1", "B2.2", "C1.1", "C1.2", "Extra"];
 const errors = [];
 const warnings = [];
 const isStr = (x) => typeof x === "string" && x.trim().length > 0;
@@ -41,10 +42,14 @@ for (const file of fs.readdirSync(DIR).filter((f) => f.endsWith(".json")).sort()
     c.grammar.forEach((g, i) => { if (!isStr(g.name)) err(`content.grammar[${i}] needs "name"`); });
   }
 
+  // A practice set ("kind": "practice") is a free-form drill, so the 100/50 shape
+  // and the text don't apply to it.
+  const practice = s.kind === "practice";
+
   const checkItems = (key, expected) => {
     const list = s[key];
     if (!Array.isArray(list)) return err(`${key} must be a list`);
-    if (list.length !== expected) warn(`${key} has ${list.length} items (expected ${expected})`);
+    if (expected !== null && !practice && list.length !== expected) warn(`${key} has ${list.length} items (expected ${expected})`);
     const seen = new Set();
     list.forEach((it, i) => {
       if (!isStr(it.en) || !isStr(it.de)) err(`${key}[${i}] needs "en" and "de"`);
@@ -54,7 +59,7 @@ for (const file of fs.readdirSync(DIR).filter((f) => f.endsWith(".json")).sort()
       if (seen.has(k)) warn(`${key}[${i}] repeats an earlier English prompt`);
       seen.add(k);
     });
-    if (key === "sentences") {
+    if (key === "sentences" && !practice) {
       const count = (d) => list.filter((x) => x.difficulty === d).length;
       const got = `${count("easy")}/${count("medium")}/${count("hard")}`;
       if (got !== "35/40/25") warn(`difficulty split is ${got} (expected 35/40/25 easy/medium/hard)`);
@@ -62,11 +67,20 @@ for (const file of fs.readdirSync(DIR).filter((f) => f.endsWith(".json")).sort()
   };
   checkItems("sentences", 100);
   checkItems("phrases", 50);
-  if (!s.text || !isStr(s.text.en) || !isStr(s.text.de)) err('text needs "title", "en" and "de"');
+  if (s.verbs !== undefined) checkItems("verbs", null);
+  if (!practice) {
+    if (!s.text || !isStr(s.text.en) || !isStr(s.text.de)) err('text needs "title", "en" and "de"');
+  } else if (s.text && (!isStr(s.text.en) || !isStr(s.text.de))) {
+    err('text needs "en" and "de"');
+  }
 
   sessions.push({
     id: s.id, level: s.level, number: s.number, title: s.title, file: `sessions/${file}`,
-    counts: { sentences: (s.sentences || []).length, phrases: (s.phrases || []).length },
+    counts: {
+      sentences: (s.sentences || []).length,
+      phrases: (s.phrases || []).length,
+      ...(s.verbs ? { verbs: s.verbs.length } : {}),
+    },
   });
 }
 

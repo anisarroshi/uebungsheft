@@ -120,6 +120,18 @@
         "sentences": 100,
         "phrases": 50
       }
+    },
+    {
+      "id": "extra-s01",
+      "level": "Extra",
+      "number": 1,
+      "title": "My train stories",
+      "file": "sessions/extra-s01.json",
+      "counts": {
+        "sentences": 51,
+        "phrases": 0,
+        "verbs": 36
+      }
     }
   ]
 }

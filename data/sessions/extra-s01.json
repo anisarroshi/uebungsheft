@@ -1,0 +1,795 @@
+{
+  "id": "extra-s01",
+  "level": "Extra",
+  "number": 1,
+  "kind": "practice",
+  "title": "My train stories",
+  "createdAt": "2026-10-15",
+  "content": {
+    "topics": [
+      "your own six train and traffic stories",
+      "sein or haben in the Perfekt",
+      "nominative for the subject",
+      "verb forms: ich, du, Perfekt"
+    ],
+    "vocabulary": [
+      {
+        "de": "einsteigen – ist eingestiegen",
+        "en": "to get on (sein)"
+      },
+      {
+        "de": "aussteigen – ist ausgestiegen",
+        "en": "to get off (sein)"
+      },
+      {
+        "de": "umsteigen – ist umgestiegen",
+        "en": "to change trains (sein)"
+      },
+      {
+        "de": "fahren – ist gefahren",
+        "en": "to go, to drive (sein)"
+      },
+      {
+        "de": "kommen – ist gekommen",
+        "en": "to come (sein)"
+      },
+      {
+        "de": "ankommen – ist angekommen",
+        "en": "to arrive (sein)"
+      },
+      {
+        "de": "aufstehen – ist aufgestanden",
+        "en": "to get up, to stand up (sein)"
+      },
+      {
+        "de": "springen – ist gesprungen",
+        "en": "to jump (sein)"
+      },
+      {
+        "de": "stehen bleiben – ist stehen geblieben",
+        "en": "to stop, to break down (sein)"
+      },
+      {
+        "de": "stehen – hat gestanden (AT: ist gestanden)",
+        "en": "to stand"
+      },
+      {
+        "de": "sitzen – hat gesessen (AT: ist gesessen)",
+        "en": "to sit"
+      },
+      {
+        "de": "finden – hat gefunden",
+        "en": "to find (haben)"
+      },
+      {
+        "de": "fragen – hat gefragt",
+        "en": "to ask (haben)"
+      },
+      {
+        "de": "verpassen – hat verpasst",
+        "en": "to miss (haben)"
+      },
+      {
+        "de": "anrufen – hat angerufen",
+        "en": "to call (haben)"
+      },
+      {
+        "de": "herunterladen – hat heruntergeladen",
+        "en": "to download (haben)"
+      },
+      {
+        "de": "mieten – hat gemietet",
+        "en": "to rent (haben)"
+      },
+      {
+        "de": "legen – hat gelegt",
+        "en": "to lay, to put down (haben)"
+      },
+      {
+        "de": "stellen – hat gestellt",
+        "en": "to put upright (haben)"
+      },
+      {
+        "de": "schieben – hat geschoben",
+        "en": "to push (haben)"
+      }
+    ],
+    "grammar": [
+      {
+        "name": "sein or haben in the Perfekt",
+        "explanation": "Movement from A to B and a change of state take sein: fahren, kommen, einsteigen, aussteigen, aufstehen, springen, stehen bleiben. Everything else takes haben. In Austria stehen, sitzen and liegen also take sein.",
+        "examples": [
+          "Ich bin zum Flughafen gefahren.",
+          "Ich habe die Autovermietung angerufen.",
+          "Wir sind eingestiegen und haben einen Sitzplatz gefunden."
+        ]
+      },
+      {
+        "name": "Nominative for the subject",
+        "explanation": "Whoever or whatever does the action is in the nominative, even when the sentence starts with something else: mein E-Scooter, mein Freund und ich — not meinen or mich.",
+        "examples": [
+          "Mein E-Scooter ist stehen geblieben.",
+          "Am Samstag wollten mein Freund und ich die App ausprobieren."
+        ]
+      },
+      {
+        "name": "Adjective endings after sein",
+        "explanation": "An adjective only takes an ending in front of a noun. After sein, werden and bleiben it has none.",
+        "examples": [
+          "Der Radweg war breit.",
+          "der breite Radweg",
+          "E-Scooter sind praktisch."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "de": "Könnten Sie mir sagen, ...?",
+        "en": "Could you tell me ...?"
+      },
+      {
+        "de": "Ich bin der Meinung, dass ...",
+        "en": "I'm of the opinion that ..."
+      },
+      {
+        "de": "mit zwei Stunden Verspätung ankommen",
+        "en": "to arrive two hours late"
+      },
+      {
+        "de": "Platz machen",
+        "en": "to make room"
+      }
+    ]
+  },
+  "sentences": [
+    {
+      "en": "The train was full.",
+      "de": "Der Zug war voll.",
+      "alt": [
+        "Der Zug war ganz voll."
+      ],
+      "difficulty": "easy",
+      "focus": "B: no room"
+    },
+    {
+      "en": "Everybody laughed.",
+      "de": "Alle haben gelacht.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "C: the dog"
+    },
+    {
+      "en": "Last weekend I rented a car.",
+      "de": "Letztes Wochenende habe ich ein Auto gemietet.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "1: rental car"
+    },
+    {
+      "en": "At first everything was fine.",
+      "de": "Zuerst war alles gut.",
+      "alt": [
+        "Am Anfang war alles gut."
+      ],
+      "difficulty": "easy",
+      "focus": "1: rental car"
+    },
+    {
+      "en": "On Monday I drove to the airport.",
+      "de": "Am Montag bin ich zum Flughafen gefahren.",
+      "alt": [
+        "Ich bin am Montag zum Flughafen gefahren."
+      ],
+      "difficulty": "easy",
+      "focus": "2: missed connection"
+    },
+    {
+      "en": "Unfortunately everything was full.",
+      "de": "Leider war alles voll.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "2: missed connection"
+    },
+    {
+      "en": "I drove to Vienna and arrived at six.",
+      "de": "Ich bin nach Wien gefahren und um sechs angekommen.",
+      "alt": [
+        "Ich bin nach Wien gefahren und bin um sechs angekommen."
+      ],
+      "difficulty": "easy",
+      "focus": "sein in the Perfekt (drill)"
+    },
+    {
+      "en": "I called my mother and she cooked.",
+      "de": "Ich habe meine Mutter angerufen und sie hat gekocht.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "haben in the Perfekt (drill)"
+    },
+    {
+      "en": "She got up and made room.",
+      "de": "Sie ist aufgestanden und hat Platz gemacht.",
+      "alt": [],
+      "difficulty": "easy",
+      "focus": "sein and haben together (drill)"
+    },
+    {
+      "en": "My e-scooter stopped.",
+      "de": "Mein E-Scooter ist stehen geblieben.",
+      "alt": [
+        "Mein E-Scooter ist stehengeblieben."
+      ],
+      "difficulty": "easy",
+      "focus": "nominative subject (drill)"
+    },
+    {
+      "en": "My brother and I are going to the station.",
+      "de": "Mein Bruder und ich gehen zum Bahnhof.",
+      "alt": [
+        "Mein Bruder und ich fahren zum Bahnhof."
+      ],
+      "difficulty": "easy",
+      "focus": "nominative subject (drill)"
+    },
+    {
+      "en": "Last Sunday I got on the train to Hamburg.",
+      "de": "Letzten Sonntag bin ich in den Zug nach Hamburg eingestiegen.",
+      "alt": [
+        "Letzten Sonntag bin ich mit dem Zug nach Hamburg gefahren."
+      ],
+      "difficulty": "medium",
+      "focus": "A: picnic"
+    },
+    {
+      "en": "At my table was a family with two children.",
+      "de": "An meinem Tisch war eine Familie mit zwei Kindern.",
+      "alt": [
+        "An meinem Tisch saß eine Familie mit zwei Kindern."
+      ],
+      "difficulty": "medium",
+      "focus": "A: picnic"
+    },
+    {
+      "en": "The little boy asked me: \"Are you hungry?\"",
+      "de": "Der kleine Junge hat mich gefragt: „Hast du Hunger?“",
+      "alt": [
+        "Der kleine Junge hat mich gefragt: \"Hast du Hunger?\""
+      ],
+      "difficulty": "medium",
+      "focus": "A: picnic"
+    },
+    {
+      "en": "A man with a bike wanted to get on.",
+      "de": "Ein Mann mit einem Fahrrad wollte einsteigen.",
+      "alt": [
+        "Ein Mann mit einem Rad wollte einsteigen."
+      ],
+      "difficulty": "medium",
+      "focus": "B: no room"
+    },
+    {
+      "en": "A woman with a pushchair was already standing at the door.",
+      "de": "Eine Frau mit einem Kinderwagen stand schon an der Tür.",
+      "alt": [
+        "Eine Frau mit einem Kinderwagen ist schon an der Tür gestanden."
+      ],
+      "difficulty": "medium",
+      "focus": "B: no room"
+    },
+    {
+      "en": "The two of them were annoyed, because there was no room.",
+      "de": "Die beiden waren genervt, weil kein Platz war.",
+      "alt": [
+        "Die beiden waren genervt, weil es keinen Platz gab."
+      ],
+      "difficulty": "medium",
+      "focus": "B: no room"
+    },
+    {
+      "en": "Then an old lady stood up and made room.",
+      "de": "Dann ist eine alte Frau aufgestanden und hat Platz gemacht.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "B: no room"
+    },
+    {
+      "en": "In front of me sat an old woman with a small dog.",
+      "de": "Vor mir hat eine alte Frau mit einem kleinen Hund gesessen.",
+      "alt": [
+        "Vor mir saß eine alte Frau mit einem kleinen Hund.",
+        "Vor mir ist eine alte Frau mit einem kleinen Hund gesessen."
+      ],
+      "difficulty": "medium",
+      "focus": "C: the dog"
+    },
+    {
+      "en": "Suddenly the dog jumped onto the seat next to me.",
+      "de": "Plötzlich ist der Hund auf den Sitzplatz neben mir gesprungen.",
+      "alt": [
+        "Plötzlich ist der Hund auf den Sitz neben mir gesprungen."
+      ],
+      "difficulty": "medium",
+      "focus": "C: the dog"
+    },
+    {
+      "en": "It put its head on my bag.",
+      "de": "Er hat seinen Kopf auf meine Tasche gelegt.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "C: the dog"
+    },
+    {
+      "en": "The woman apologised, but I found it funny.",
+      "de": "Die Frau hat sich entschuldigt, aber ich habe das lustig gefunden.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "C: the dog"
+    },
+    {
+      "en": "After two hours a man came and changed the tyre.",
+      "de": "Nach zwei Stunden ist ein Mann gekommen und hat den Reifen gewechselt.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "1: rental car"
+    },
+    {
+      "en": "In the end I arrived five hours late.",
+      "de": "Am Ende bin ich mit fünf Stunden Verspätung angekommen.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "2: missed connection"
+    },
+    {
+      "en": "The cycle path was wide and I liked the ride.",
+      "de": "Der Radweg war breit und ich habe die Fahrt gut gefunden.",
+      "alt": [
+        "Der Radweg war breit und die Fahrt hat mir gut gefallen."
+      ],
+      "difficulty": "medium",
+      "focus": "3: e-scooter"
+    },
+    {
+      "en": "We got on, found a seat and talked.",
+      "de": "Wir sind eingestiegen, haben einen Sitzplatz gefunden und gesprochen.",
+      "alt": [
+        "Wir sind eingestiegen, haben einen Sitzplatz gefunden und haben gesprochen."
+      ],
+      "difficulty": "medium",
+      "focus": "sein and haben together (drill)"
+    },
+    {
+      "en": "My friend came late, because he missed the bus.",
+      "de": "Mein Freund ist spät gekommen, weil er den Bus verpasst hat.",
+      "alt": [
+        "Meine Freundin ist spät gekommen, weil sie den Bus verpasst hat."
+      ],
+      "difficulty": "medium",
+      "focus": "sein and haben together (drill)"
+    },
+    {
+      "en": "My friend and I wanted to try the app.",
+      "de": "Mein Freund und ich wollten die App ausprobieren.",
+      "alt": [
+        "Meine Freundin und ich wollten die App ausprobieren."
+      ],
+      "difficulty": "medium",
+      "focus": "nominative subject (drill)"
+    },
+    {
+      "en": "My bike is in the garage, but I need it today.",
+      "de": "Mein Fahrrad steht in der Garage, aber ich brauche es heute.",
+      "alt": [
+        "Mein Rad steht in der Garage, aber ich brauche es heute."
+      ],
+      "difficulty": "medium",
+      "focus": "nominative and accusative (drill)"
+    },
+    {
+      "en": "My car had a breakdown and my mother picked me up.",
+      "de": "Mein Auto hatte eine Panne und meine Mutter hat mich abgeholt.",
+      "alt": [],
+      "difficulty": "medium",
+      "focus": "nominative subject (drill)"
+    },
+    {
+      "en": "First I said no, but then I ate a sandwich anyway.",
+      "de": "Zuerst habe ich nein gesagt, aber dann habe ich trotzdem ein Sandwich gegessen.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "A: picnic"
+    },
+    {
+      "en": "We talked for two hours and the time passed quickly.",
+      "de": "Wir haben zwei Stunden gesprochen und die Zeit ist schnell vergangen.",
+      "alt": [
+        "Wir haben zwei Stunden geredet und die Zeit ist schnell vergangen."
+      ],
+      "difficulty": "hard",
+      "focus": "A: picnic"
+    },
+    {
+      "en": "The mother said: \"Travelling is nicer with nice people.\"",
+      "de": "Die Mutter hat gesagt: „Mit netten Leuten ist Reisen schöner.“",
+      "alt": [
+        "Die Mutter hat gesagt: „Reisen ist mit netten Leuten schöner.“"
+      ],
+      "difficulty": "hard",
+      "focus": "A: picnic"
+    },
+    {
+      "en": "The man asked: \"Could you tell me where I should put my bike?\"",
+      "de": "Der Mann hat gefragt: „Können Sie mir sagen, wohin ich mein Fahrrad stellen kann?“",
+      "alt": [
+        "Der Mann hat gefragt: „Könnten Sie mir sagen, wohin ich mein Fahrrad stellen kann?“"
+      ],
+      "difficulty": "hard",
+      "focus": "B: no room"
+    },
+    {
+      "en": "At the next stop the man got off and thanked everybody.",
+      "de": "An der nächsten Haltestelle ist der Mann ausgestiegen und hat allen gedankt.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "B: no room"
+    },
+    {
+      "en": "Yesterday I stood in the S-Bahn, because I didn't find a seat.",
+      "de": "Gestern habe ich in der S-Bahn gestanden, weil ich keinen Sitzplatz gefunden habe.",
+      "alt": [
+        "Gestern bin ich in der S-Bahn gestanden, weil ich keinen Sitzplatz gefunden habe."
+      ],
+      "difficulty": "hard",
+      "focus": "C: the dog"
+    },
+    {
+      "en": "Since then I always look for the dog, but I've never seen it again.",
+      "de": "Seitdem suche ich immer den Hund, aber ich habe ihn nie wieder gesehen.",
+      "alt": [
+        "Seitdem suche ich immer nach dem Hund, aber ich habe ihn nie wieder gesehen."
+      ],
+      "difficulty": "hard",
+      "focus": "C: the dog"
+    },
+    {
+      "en": "But after an hour I was standing in a traffic jam, because there were roadworks on the road.",
+      "de": "Aber nach einer Stunde bin ich im Stau gestanden, weil auf der Straße eine Baustelle war.",
+      "alt": [
+        "Aber nach einer Stunde habe ich im Stau gestanden, weil auf der Straße eine Baustelle war."
+      ],
+      "difficulty": "hard",
+      "focus": "1: rental car"
+    },
+    {
+      "en": "Then the engine made strange noises and I had a breakdown.",
+      "de": "Dann hat der Motor komische Geräusche gemacht und ich hatte eine Panne.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "1: rental car"
+    },
+    {
+      "en": "I called the car rental company and asked: \"Could you tell me whether the insurance pays for that?\"",
+      "de": "Ich habe die Autovermietung angerufen und habe gefragt: „Könnten Sie mir sagen, ob die Versicherung das bezahlt?“",
+      "alt": [
+        "Ich habe die Autovermietung angerufen und gefragt: „Könnten Sie mir sagen, ob die Versicherung das bezahlt?“"
+      ],
+      "difficulty": "hard",
+      "focus": "1: rental car"
+    },
+    {
+      "en": "I arrived two hours late, but my mother cooked anyway.",
+      "de": "Ich bin mit zwei Stunden Verspätung angekommen, aber meine Mutter hat trotzdem gekocht.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "1: rental car"
+    },
+    {
+      "en": "But the train had a delay of forty minutes and I missed my connection.",
+      "de": "Aber der Zug hatte 40 Minuten Verspätung und ich habe den Anschluss verpasst.",
+      "alt": [
+        "Aber der Zug hatte vierzig Minuten Verspätung und ich habe den Anschluss verpasst."
+      ],
+      "difficulty": "hard",
+      "focus": "2: missed connection"
+    },
+    {
+      "en": "At the counter I asked politely: \"Do you know whether there is a later flight?\"",
+      "de": "Am Schalter habe ich höflich gefragt: „Wissen Sie, ob es einen späteren Flug gibt?“",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "2: missed connection"
+    },
+    {
+      "en": "The woman said: \"You can take the train. It leaves from platform nine.\"",
+      "de": "Die Frau hat gesagt: „Sie können mit dem Zug fahren. Er fährt auf Gleis 9 ab.“",
+      "alt": [
+        "Die Frau hat gesagt: „Sie können mit dem Zug fahren. Er fährt auf Gleis neun ab.“"
+      ],
+      "difficulty": "hard",
+      "focus": "2: missed connection"
+    },
+    {
+      "en": "But I saw the whole landscape from the window and I slept very well.",
+      "de": "Aber ich habe die ganze Landschaft aus dem Fenster gesehen und ich habe sehr gut geschlafen.",
+      "alt": [
+        "Aber ich habe die ganze Landschaft aus dem Fenster gesehen und sehr gut geschlafen."
+      ],
+      "difficulty": "hard",
+      "focus": "2: missed connection"
+    },
+    {
+      "en": "On Saturday my friend and I wanted to try the new e-scooters.",
+      "de": "Am Samstag wollten mein Freund und ich die neuen E-Scooter ausprobieren.",
+      "alt": [
+        "Am Samstag wollten meine Freundin und ich die neuen E-Scooter ausprobieren."
+      ],
+      "difficulty": "hard",
+      "focus": "3: e-scooter"
+    },
+    {
+      "en": "First we downloaded the app, then we entered the PIN.",
+      "de": "Zuerst haben wir die App heruntergeladen, dann haben wir die PIN eingegeben.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "3: e-scooter"
+    },
+    {
+      "en": "We rode through the park, past the town hall and as far as the river.",
+      "de": "Wir sind durch den Park gefahren, am Rathaus vorbei und bis zum Fluss.",
+      "alt": [
+        "Wir sind durch den Park gefahren, an der Stadthalle vorbei und bis zum Fluss."
+      ],
+      "difficulty": "hard",
+      "focus": "3: e-scooter"
+    },
+    {
+      "en": "But then my e-scooter stopped, because the battery was empty.",
+      "de": "Aber dann ist mein E-Scooter stehen geblieben, weil die Batterie leer war.",
+      "alt": [
+        "Aber dann ist mein E-Scooter stehen geblieben, weil der Akku leer war."
+      ],
+      "difficulty": "hard",
+      "focus": "3: e-scooter"
+    },
+    {
+      "en": "We pushed it to the stop and returned it opposite the tram stop.",
+      "de": "Wir haben ihn bis zur Haltestelle geschoben und ihn gegenüber von der Straßenbahnhaltestelle zurückgegeben.",
+      "alt": [],
+      "difficulty": "hard",
+      "focus": "3: e-scooter"
+    },
+    {
+      "en": "I'm of the opinion that e-scooters are practical, but not in the rain.",
+      "de": "Ich bin der Meinung, dass E-Scooter praktisch sind, aber nicht, wenn es regnet.",
+      "alt": [
+        "Ich finde, dass E-Scooter praktisch sind, aber nicht, wenn es regnet."
+      ],
+      "difficulty": "hard",
+      "focus": "3: e-scooter"
+    }
+  ],
+  "verbs": [
+    {
+      "en": "I get on at the main station.",
+      "de": "Ich steige am Hauptbahnhof ein.",
+      "alt": [],
+      "focus": "einsteigen · ich"
+    },
+    {
+      "en": "Do you get on here? [informal]",
+      "de": "Steigst du hier ein?",
+      "alt": [],
+      "focus": "einsteigen · du"
+    },
+    {
+      "en": "I got on at the main station.",
+      "de": "Ich bin am Hauptbahnhof eingestiegen.",
+      "alt": [],
+      "focus": "einsteigen · Perfekt (sein)"
+    },
+    {
+      "en": "I get off at the next stop.",
+      "de": "Ich steige an der nächsten Haltestelle aus.",
+      "alt": [],
+      "focus": "aussteigen · ich"
+    },
+    {
+      "en": "Where do you get off? [informal]",
+      "de": "Wo steigst du aus?",
+      "alt": [],
+      "focus": "aussteigen · du"
+    },
+    {
+      "en": "I got off in Linz.",
+      "de": "Ich bin in Linz ausgestiegen.",
+      "alt": [],
+      "focus": "aussteigen · Perfekt (sein)"
+    },
+    {
+      "en": "I cycle to work.",
+      "de": "Ich fahre mit dem Fahrrad zur Arbeit.",
+      "alt": [
+        "Ich fahre mit dem Rad zur Arbeit."
+      ],
+      "focus": "fahren · ich"
+    },
+    {
+      "en": "Are you driving to the airport? [informal]",
+      "de": "Fährst du zum Flughafen?",
+      "alt": [],
+      "focus": "fahren · du"
+    },
+    {
+      "en": "I drove to the airport.",
+      "de": "Ich bin zum Flughafen gefahren.",
+      "alt": [],
+      "focus": "fahren · Perfekt (sein)"
+    },
+    {
+      "en": "I'm coming at eight.",
+      "de": "Ich komme um acht.",
+      "alt": [],
+      "focus": "kommen · ich"
+    },
+    {
+      "en": "Are you coming too? [informal]",
+      "de": "Kommst du auch?",
+      "alt": [],
+      "focus": "kommen · du"
+    },
+    {
+      "en": "After two hours a man came.",
+      "de": "Nach zwei Stunden ist ein Mann gekommen.",
+      "alt": [],
+      "focus": "kommen · Perfekt (sein)"
+    },
+    {
+      "en": "I arrive at ten.",
+      "de": "Ich komme um zehn an.",
+      "alt": [],
+      "focus": "ankommen · ich"
+    },
+    {
+      "en": "When do you arrive? [informal]",
+      "de": "Wann kommst du an?",
+      "alt": [],
+      "focus": "ankommen · du"
+    },
+    {
+      "en": "I arrived two hours late.",
+      "de": "Ich bin mit zwei Stunden Verspätung angekommen.",
+      "alt": [],
+      "focus": "ankommen · Perfekt (sein)"
+    },
+    {
+      "en": "I get up at six.",
+      "de": "Ich stehe um sechs auf.",
+      "alt": [],
+      "focus": "aufstehen · ich"
+    },
+    {
+      "en": "Do you get up early? [informal]",
+      "de": "Stehst du früh auf?",
+      "alt": [],
+      "focus": "aufstehen · du"
+    },
+    {
+      "en": "An old lady stood up.",
+      "de": "Eine alte Frau ist aufgestanden.",
+      "alt": [],
+      "focus": "aufstehen · Perfekt (sein)"
+    },
+    {
+      "en": "I'm standing in a traffic jam.",
+      "de": "Ich stehe im Stau.",
+      "alt": [],
+      "focus": "stehen · ich"
+    },
+    {
+      "en": "Are you standing at the door? [informal]",
+      "de": "Stehst du an der Tür?",
+      "alt": [],
+      "focus": "stehen · du"
+    },
+    {
+      "en": "I stood in the S-Bahn.",
+      "de": "Ich habe in der S-Bahn gestanden.",
+      "alt": [
+        "Ich bin in der S-Bahn gestanden."
+      ],
+      "focus": "stehen · Perfekt (haben/sein)"
+    },
+    {
+      "en": "I can't find a seat.",
+      "de": "Ich finde keinen Sitzplatz.",
+      "alt": [],
+      "focus": "finden · ich"
+    },
+    {
+      "en": "How do you like the app? [informal]",
+      "de": "Wie findest du die App?",
+      "alt": [],
+      "focus": "finden · du"
+    },
+    {
+      "en": "I didn't find a seat.",
+      "de": "Ich habe keinen Sitzplatz gefunden.",
+      "alt": [],
+      "focus": "finden · Perfekt (haben)"
+    },
+    {
+      "en": "I ask the woman at the counter.",
+      "de": "Ich frage die Frau am Schalter.",
+      "alt": [],
+      "focus": "fragen · ich"
+    },
+    {
+      "en": "Why do you ask? [informal]",
+      "de": "Warum fragst du?",
+      "alt": [],
+      "focus": "fragen · du"
+    },
+    {
+      "en": "I asked politely.",
+      "de": "Ich habe höflich gefragt.",
+      "alt": [],
+      "focus": "fragen · Perfekt (haben)"
+    },
+    {
+      "en": "I often miss the bus.",
+      "de": "Ich verpasse oft den Bus.",
+      "alt": [
+        "Ich verpasse den Bus oft."
+      ],
+      "focus": "verpassen · ich"
+    },
+    {
+      "en": "Are you going to miss your connection? [informal]",
+      "de": "Verpasst du deinen Anschluss?",
+      "alt": [],
+      "focus": "verpassen · du"
+    },
+    {
+      "en": "I missed the connection.",
+      "de": "Ich habe den Anschluss verpasst.",
+      "alt": [],
+      "focus": "verpassen · Perfekt (haben)"
+    },
+    {
+      "en": "I'm calling the car rental company.",
+      "de": "Ich rufe die Autovermietung an.",
+      "alt": [],
+      "focus": "anrufen · ich"
+    },
+    {
+      "en": "Are you calling your mother? [informal]",
+      "de": "Rufst du deine Mutter an?",
+      "alt": [],
+      "focus": "anrufen · du"
+    },
+    {
+      "en": "I called the company.",
+      "de": "Ich habe die Firma angerufen.",
+      "alt": [],
+      "focus": "anrufen · Perfekt (haben)"
+    },
+    {
+      "en": "I'm downloading the app.",
+      "de": "Ich lade die App herunter.",
+      "alt": [],
+      "focus": "herunterladen · ich"
+    },
+    {
+      "en": "Are you downloading the app too? [informal]",
+      "de": "Lädst du die App auch herunter?",
+      "alt": [],
+      "focus": "herunterladen · du"
+    },
+    {
+      "en": "We downloaded the app.",
+      "de": "Wir haben die App heruntergeladen.",
+      "alt": [],
+      "focus": "herunterladen · Perfekt (haben)"
+    }
+  ],
+  "phrases": []
+}

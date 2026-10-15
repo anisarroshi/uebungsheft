@@ -1,6 +1,6 @@
 "use strict";
 // Übungsheft, static version. Exercises come from data/*.json; progress is saved in this browser.
-const LEVELS = ["A1.1","A1.2","A2.1","A2.2","B1.1","B1.2","B2.1","B2.2","C1.1","C1.2"];
+const LEVELS = ["A1.1","A1.2","A2.1","A2.2","B1.1","B1.2","B2.1","B2.2","C1.1","C1.2","Extra"];
 const rank = l => LEVELS.indexOf(l);
 const $ = (s, r = document) => r.querySelector(s);
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
@@ -14,7 +14,7 @@ const ICON_SPK = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" str
 
 const state = {
   loaded: false, index: [], full: {}, currentId: null, view: "loading", tab: "sentences",
-  pos: { sentences: 0, phrases: 0 }, lists: {}, filter: "all", missedOnly: false, shuffle: false, seed: 1,
+  pos: { sentences: 0, phrases: 0, verbs: 0 }, lists: {}, filter: "all", missedOnly: false, shuffle: false, seed: 1,
   card: null, textDraft: {}, textCompare: {}, confirmReset: false, copied: "", banner: "", micMsg: ""
 };
 
@@ -110,7 +110,7 @@ function renderSide() {
     const g = list.filter(s => s.level === L); if (!g.length) continue;
     html += `<div class="lvl-group"><h3>${L}</h3>` + g.map(s => {
       const p = progressOf(s.id); const done = Object.entries(p).filter(([k, v]) => /^[sp]\d+$/.test(k) && v === "c").length;
-      const total = (s.counts?.sentences || 0) + (s.counts?.phrases || 0);
+      const total = (s.counts?.sentences || 0) + (s.counts?.phrases || 0) + (s.counts?.verbs || 0);
       return `<button class="sess-btn" data-act="open" data-id="${esc(s.id)}" aria-current="${state.view === "session" && s.id === state.currentId}"><span class="t1">Session ${esc(s.number)}${total ? `<span class="t2" style="display:inline">${done}/${total}</span>` : ""}</span><span class="t2">${esc(s.title)}</span></button>`;
     }).join("") + `</div>`;
   }
@@ -142,8 +142,13 @@ function coveredView(c) {
   </div></details>`;
 }
 function sessionView(s) {
+  const tabs = [["sentences", "Sentences", arr(s.sentences).length]];
+  if (arr(s.verbs).length) tabs.push(["verbs", "Verbs", arr(s.verbs).length]);
+  if (arr(s.phrases).length) tabs.push(["phrases", "Phrases", arr(s.phrases).length]);
+  if (s.text) tabs.push(["text", "Text", 0]);
+  // A session may not have every section, so fall back to the first tab it does have.
+  if (!tabs.some(([k]) => k === state.tab)) state.tab = tabs[0][0];
   const t = state.tab;
-  const tabs = [["sentences", "Sentences", arr(s.sentences).length], ["phrases", "Phrases", arr(s.phrases).length], ["text", "Text", 0]];
   const body = t === "text" ? textView(s) : practiceView(s, t);
   const reset = state.confirmReset
     ? `<span>Clear your progress for this session on this device?</span><button class="btn small danger primary" data-act="reset-yes">Clear progress</button><button class="btn small ghost" data-act="reset-no">Keep it</button>`
@@ -265,7 +270,7 @@ function textView(s) {
 
 /* ---------- actions ---------- */
 async function openSession(id) {
-  if (state.currentId !== id) { state.pos = { sentences: 0, phrases: 0 }; state.lists = {}; state.card = null; state.confirmReset = false; state.micMsg = ""; }
+  if (state.currentId !== id) { state.pos = { sentences: 0, phrases: 0, verbs: 0 }; state.lists = {}; state.card = null; state.confirmReset = false; state.micMsg = ""; }
   stopMic();
   state.currentId = id; state.view = "session"; store.set("lastSession", id);
   if (location.hash !== "#" + id) history.replaceState(null, "", "#" + id);
